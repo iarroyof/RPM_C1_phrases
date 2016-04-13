@@ -1,0 +1,53 @@
+000	00	0.3126	Elle l'a elle - même confirmée mercredi.
+001	00	0.2779	Manque encore le nom du père pour assouvir la curiosité des médias qui, depuis quinze jours, ne bruissent que de «l'heureux événement» qu'attend la ministre de la Justice.
+002	00	0.2889	Mais sur ce point, Rachida Dati reste muette.
+003	00	0.2522	«Elle n'est pas Tokia Saïfi», glisse un proche.
+004	00	0.2420	Au Point, qui publie cette semaine un numéro sur le «mystère Dati», elle confie d'ailleurs qu'elle aimerait «rester le plus longtemps possible» à la Chancellerie.
+005	00	0.2810	Nicolas Sarkozy se réjouit d'ailleurs pour celle qui fut longtemps sa protégée.
+006	00	0.2792	Nous sommes contents pour elle», dit - on à l'Élysée.
+007	00	0.4307	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+008	00	0.3412	A l'occasion d'une rencontre avec plusieurs journalistes ce matin, elle a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+009	00	0.3832	Constatée par les journalistes présents sur le perron de l'Elysée lors du conseil des ministres de rentrée, la grossesse de la garde des Sceaux a déjà fait la Une de plusieurs magazines.
+010	00	0.2913	Mais la maire du VIIe arrondissement de la capitale a toutefois laissé entendre que sa décision de ne pas participer à la campagne régionale en Ile - de - France n'est pas sans rapports avec son état.
+011	00	0.2413	En juillet dernier, elle avait déjà renoncé à briguer la présidence de l'UMP Paris.
+012	00	0.3042	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
+013	00	0.2948	Les rumeurs sur une éventuelle grossesse ont été relayées par de nombreux médias après que la garde des Sceaux soit sortie du Conseil des ministres de rentrée le 28 août en affichant un ventre plus rond que d'habitude.
+014	00	0.2513	Sans dire pour autant qui est le père: plusieurs noms de personnalités connues circulent, mais pour l'instant personne ne semble avoir été mis dans le secret.
+015	00	0.2405	Célibataire, elle refuse même de donner le nom du père.
+016	00	0.2612	Conte de fées Le conte de fées Dati avait d'abord séduit l'opinion française, et elle était pratiquement en tête des sondages de popularité parmi les personnalités politiques.
+017	00	0.2565	En tant que symbole de l'ouverture en direction de l'immigration, elle était intouchable.
+018	00	0.3574	Cette grossesse audacieusement assumée change la donne.
+019	00	0.2481	On prêtait à Rachida Dati des relations avec deux grands patrons français, l'un de l'industrie, l'autre de l'hôtellerie de luxe.
+020	00	0.2915	Mais ce sont les rumeurs concernant l'ancien premier ministre espagnol José Maria Aznar qui ont évidemment le plus attiré l'attention.
+021	00	0.2424	"Je veux rester prudente, car ce n'est pas encore consolidé.
+022	00	0.3118	"J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
+023	00	0.3087	Elle exclut de quitter son poste pour l'instant.
+024	00	0.2997	"Ce n'est pas une maladie", a - t - elle dit.
+025	00	0.2693	Le président l'a fréquemment soutenue au début de son mandat.
+026	00	0.4018	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
+027	00	0.2550	La garde des Sceaux est en revanche restée muette sur le nom du père.
+028	00	0.2428	La ministre de la Justice revient sur le devant de la scène alors qu'elle s'était faite plus discrète ces derniers mois dans les médias, friands de ses tenues haute - couture.
+029	00	0.2642	Mme Dati a bon pied, bon oeil à sa fonction comme garde des Sceaux et ministre de la Justice".
+030	00	0.3001	Dati revient à la Une La grossesse de la ministre de la Justice promet un emballement médiatique.
+031	00	0.3281	Si la ministre de la Justice n'avait pas encore rendu publique sa grossesse le 1er septembre, elle a informé l'Elysée de sa situation.
+032	00	0.3215	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
+033	00	0.2459	Ségolène Royal a ouvert la voie en 1992, suivie, quelques jours plus tard, de Frédérique Bredin et, en 2000, de Florence Parly.
+034	00	0.2801	Hier, devant quelques journalistes, la ministre de la Justice a confirmé l’heureuse nouvelle.
+035	00	0.3807	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
+036	00	0.3112	Exclue du « G7 », ce groupe de ministres privilégiés se réunissant régulièrement autour de Nicolas Sarkozy, et moins en vue auprès du président de la République, Rachida Dati, un des symboles les plus marquants de l’ouverture à la diversité voulue par Sarkozy, restera - t - elle longtemps au gouvernement ?
+037	00	0.3392	Ou bien sa grossesse fournira - t - elle un prétexte pour une « sortie » en douceur ?
+038	00	0.2975	Mme Dati a bon pied bon oeil à sa fonction comme garde des Sceaux et ministre de la Justice.
+039	00	0.2500	Rachida Dati confirme sa grossesse La rumeur n'en est plus une.
+040	00	0.3386	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+041	00	0.2473	La ministre de la Justice veut rester prudente "car ce n'est pas encore consolidé".
+042	00	0.2713	Elle a évoqué, par ailleurs, "une vie privée compliquée"... Depuis le 21 août, au lendemain d'un Conseil des ministres de rentrée, la rumeur enflait.
+043	00	0.3204	Les photos, publiées par le site Purepeople.com, allaient très vite alimenter le débat.
+044	00	0.2878	Jean - Michel Aphatie, sur les ondes de RTL, posait la question tout de go à Roselyne Bachelot, la ministre de la Santé, qui éludait.
+045	00	0.2408	Outre - Atlantique et outre - Manche tous les tabloïds et chaînes de télévision s'en seraient donné à coeur joie.
+046	00	0.2600	Rachida Dati a confirmé d'elle - même ce que personne n'ignorait.
+047	00	0.2971	Elle l'a révélé à quelques journalistes mercredi matin, annonce l'édition électronique du quotidien Le Monde.
+048	00	0.2608	"Je veux rester prudente", a déclaré Rachida Dati, "car ce n'est pas encore consolidé.
+049	00	0.2704	"Ce n'est pas une maladie", assure - telle.
+050	00	0.2831	Interrogée également sur le nom de l'heureux papa, Rachida Dati n'a rien concédé.
+051	00	0.3154	En communication cette fois.
+052	00	0.3560	Pierre - Yves Bournazel remplace Laurence Lasserre, qui a démissionné "car elle a d'autres projets professionnels", assure son entourage.

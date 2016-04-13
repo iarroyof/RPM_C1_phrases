@@ -1,0 +1,8 @@
+000	00	0.3747	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
+001	00	0.4864	Pour le PS, qui a dénoncé la "valse - hésitation" autour du dalaï lama, Paris, mène une "diplomatie sans boussole".
+002	00	0.3769	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
+003	00	0.3759	S'il n'a pas rencontré le chef de l'Etat, le dalaï lama s'est entretenu vendredi avec le ministre des Affaires étrangères, Bernard Kouchner.
+004	00	0.3635	La visite du dalaï lama, débutée le 12 août, s'est terminée samedi 23 août après son départ de l'aéroport de Roissy peu après 11h00, à bord d'un vol régulier de la compagnie Air France à destination de New Delhi.
+005	00	0.4509	M. Kouchner et Mme Yade les ont ensuite rejoints puis le chef de la diplomatie est resté seul quelques instants avec le dalaï lama.
+006	00	0.3510	S'il ne le souhaite pas, ce n'est pas grave." Le lot de consolation, la venue de Carla Bruni le 22 août à l'inauguration d'un temple bouddhiste à Montpellier, ne semble pas l'émouvoir davantage : "Je suis content, c'est tout." Et les chansons de la femme du Président, il les connaît ?
+007	00	0.4602	"Je ne sais pas, je ne vais pas aux festivals où elle chante." Le dalaï lama reçu par Chirac en 1998 et Mitterrand en 1989 Il s'est toutefois montré légèrement plus incisif sur les conditions de sa réception au Sénat.

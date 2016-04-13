@@ -1,0 +1,65 @@
+000	00	0.2738	Le Congrès du PS s'ouvre dans la plus grande confusion Tandis qu'Aubry adresse à Royal une fin de non recevoir, Delanoë temporise.
+001	00	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
+002	00	0.2757	Ségolène Royal, quant à elle, attend désormais de connaître les réactions de ses adversaires à ses propositions de rassemblement.
+003	00	0.3843	Rencontre discrète.
+004	00	0.2693	Mais elle a pris soin de lisser son discours de toute aspérité.
+005	00	0.2668	L'intéressé dément : «Je ne suis pas candidat.»
+006	00	0.3172	Mais chez les delanoïstes, certains espèrent encore un compromis avec les royalistes.
+007	00	0.2848	Pendant ce temps, le pôle écologique annonce qu'il «s'engage» au côté de Royal.
+008	00	0.2634	Mais il faut l'expliquer.
+009	00	0.2565	«Hamon est mieux placé qu'Aubry pour défendre une ligne d'opposition à l'alliance au centre», explique - t - on à la gauche du PS en rappelant qu'à Lille, Martine Aubry a conclu un accord local avec le MoDem.
+010	00	0.2957	Prudent, il ne ferme aucune porte mais fait part de sa «déception» vis - à - vis des propositions de rassemblement de Royal.
+011	00	0.2685	C'est une fin de non - recevoir : «Nous constatons que (ses positions) ne nous paraissent malheureusement pas à la hauteur des enjeux.»
+012	00	0.2684	Il reste deux jours à Aubry et Delanoë pour s'entendre.
+013	00	0.3153	La confirmation en est venue sur les coups de 2h30 du matin, cette nuit, rue de Solférino, de la bouche de Stéphane Le Foll.
+014	00	0.2663	D'abord, le retour - ou le maintien, c'est selon - de Ségolène Royal, qui laisse ses rivaux à plus de quatre points d'écart.
+015	00	0.2798	A l'exception de quelques cas litigieux restant à examiner dans le Pas de Calais, notamment à Béthune et Liévin, dans l'Hérault, à la Réunion et à la Guadeloupe, les 128 978 votants (sans compter les départements d'outre - mer, dont les résultats parviendront dans les prochaines heures), ont donc nettement tranché.
+016	00	0.3652	«A Paris, on a senti qu'il n'y avait pas de dynamique de campagne, expliquait un hollandais.
+017	00	0.4631	Delanoë s'est isolé, il s'est vieilli, il n'était pas réactif.»
+018	00	0.2864	Pas sûr que François Hollande, qui assurait il y a quelques semaines qu'il « soutiendrait la motion arrivée en tête », soit totalement solidaire, ces jours - ci, de son associé.
+019	00	0.3056	D'intenses tractations s'ouvrent dès ce matin pour la constitution d'une majorité au PS.
+020	00	0.4145	Congrès de Reims: le PS suspendu à la décision de Ségolène Royal A deux jours de son congrès, le PS est suspendu à la décision de Ségolène Royal de briguer ou non la succession de François Hollande.
+021	00	0.3427	La probabilité de sa candidature au poste de premier secrétaire du PS ne cesse de grandir.
+022	00	0.3286	Toutefois un autre élu très proche d'elle a assuré mardi, lui aussi sous couvert d'anonymat: "personne ne peut dire qu'il est sûr qu'elle sera candidate.
+023	00	0.3549	Julien Dray, signataire de la même motion que la présidente de la région Poitou - Charentes pour le congrès PS de Reims, a déclaré mardi qu'il revenait "à Ségolène Royal de prendre sa décision, qu'elle souhaite être premier secrétaire, ou qu'elle réfléchisse à d'autres" formules.
+024	00	0.2715	"Ségolène Royal a donné un calendrier, et il doit être respecté".
+025	00	0.2708	Arrivée en tête du vote des militants le 6 novembre avec 29% des voix, l'ex - candidate à l'Elysée ne laisse à personne le soin de mener les discussions avec Bertrand Delanoë, Martine Aubry et Benoît Hamon pour trouver un accord avec eux, ou certains d'entre eux.
+026	00	0.3124	"Ce n'est pas Rennes", confie un de ses soutiens, en référence au congrès fratricide de 1990.
+027	00	0.4377	L'équipe Royal a élaboré un "document de travail ouvert" énonçant ce qu'elle a appelé ses "propositions pour la gouvernance du PS".
+028	00	0.2587	S'il n'y a pas d'accord, ce sera à cause de divergences politiques.
+029	00	0.3622	M. Lamy attend des avancées sur "les salaires, la justice fiscale, l'immigration, le rôle de l'Etat, les retraites".
+030	00	0.4055	Faute de les avoir obtenues, selon lui, il est reparti sans prendre le "document Royal".
+031	00	0.3404	Congrès du PS : Royal devance Delanoë L'ex - candidate à la présidentielle se trouve avec 29% des voix en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
+032	00	0.3347	Favori des sympathisants, selon les sondages, et appuyé par une grande partie des cadres et élus socialistes, Bertrand Delanoë a été devancé de quatre points par l'ex - candidate à la présidentielle de 2007 qui, avec 29% des suffrages, se trouve ainsi en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
+033	00	0.2894	Candidat déclaré au poste de numéro un du parti, le maire de Paris n'est même pas certain d'arriver deuxième, puisque, comme Martine Aubry, il a recueilli "autour de 25%", a indiqué Stéphane Le Foll, bras droit de François Hollande.
+034	00	0.3382	Le "pôle écologique" et "Utopia" obtiennent "autour de 1,50% à 2%".
+035	00	0.3144	Partisan de Martine Aubry, le député Jean - Christophe Cambadélis parle de "coup de tonnerre sur l'appareil du parti", "du jamais vu".
+036	00	0.2775	C'est maintenant à Mme Royal de tenter d'organiser le rassemblement pour constituer une nouvelle majorité au congrès de Reims (14 - 16 novembre).
+037	00	0.3845	"Ségolène Royal a la responsabilité de rechercher avec nous la plus grande unité du PS", a déclaré M. Rebsamen.
+038	00	0.3110	Pour M. Delanoë, pas question toutefois de rejoindre un bloc qui, comme Mme Royal, s'accomoderait d'une alliance avec un parti "qui ne s'assumerait pas clairement de gauche", sous - entendu le MoDem.
+039	00	0.2862	Chez Mme Aubry, on ne renonce pas à constituer un rassemblement majoritaire.
+040	00	0.3073	Martine Aubry, quant à elle, a recueilli des applaudissements nourris, en plaidant pour un PS "ancré à gauche".
+041	00	0.2797	Une gagnante et une perdante.
+042	00	0.3077	Martine Aubry a largement vaincu Ségolène Royal à l'applaudimètre, dans la salle plénière du parc des expositions de Reims.
+043	00	0.3153	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
+044	00	0.3339	Les applaudissements ont fusé.
+045	00	0.2909	A la sortie de la réunion, une militante, galvanisée, a lancé devant les caméras: "Yes we can!".
+046	00	0.2642	fr Philippe Martin, député du Gers, à la fin de la réunion.
+047	00	0.2952	"Le congrès dans son ensemble a envoyé une signal fort à Martine.
+048	00	0.3453	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+049	00	0.3497	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.
+050	00	0.2572	Autrement dit, Hamon, du haut de ses 41 ans et de ses 19%, tente de faire le coup de «Tonton» au congrès d'Epinay - sur - Seine.
+051	00	0.3552	En 1971, François Mitterrand, arrivé en troisième position en recueillant 15% des suffrages, parvenait à prendre le parti.
+052	00	0.2824	Cette tentative de prise de pouvoir, il est vrai, ne manque pas de panache.
+053	00	0.2949	Un nom et une stratégie d'alliances Reste maintenant à trouver et ce nom et cette stratégie d'alliance.
+054	00	0.2554	Delanoë devant Aubry, de justesse Harlem Désir, proche de Bertrand Delanoë, a toutefois souligné la possibilité d'un rapprochement entre son chef de file et Martine Aubry, a priori plus méfiants que Ségolène Royal sur une éventuelle alliance avec le MoDem.
+055	00	0.2555	"C'est le parti qui est en jeu", a - t - il dit, soucieux de préserver l'unité du PS.
+056	00	0.2664	Il suggère un premier secrétaire "issu de la motion de Ségolène Royal" mais qui travaillerait en "coopération" avec les soutiens de Delanoë et Hollande, ainsi que ceux d'Aubry.
+057	00	0.3061	"En revanche, si c'est Vincent Peillon, son nom peut faire consensus".
+058	00	0.2716	Martine Aubry s'est entretenue en fin de journée avec Bertrand Delanoë, selon les deux camps.
+059	00	0.2724	Dans la matinée, elle avait vu Benoît Hamon, une rencontre "plutôt positive", selon un proche de l'eurodéputé.
+060	00	0.2562	Le résultat de cette consultation déterminera les rapports de force entre courants, tandis que le premier secrétaire sera, lui, élu directement le 20 novembre par la base, après le Congrès (14 au 16 novembre).
+061	00	0.2560	Delanoë favori Pour la première fois depuis une quinzaine d'années, aucune motion ne doit obtenir la majorité absolue, la majorité sortante de M. Hollande s'étant brisée en trois (Aubry, Delanoë, Royal).
+062	00	0.3187	Outre ces trois motions, sont en course une motion de la gauche du parti défendue par l'eurodéputé Benoît Hamon, et deux "petites" motions: le pôle écologiste et Utopia (écologiste et altermondialiste).
+063	00	0.2641	"Tous les éléments dans son texte, dans sa volonté, dans sa démarche nous rapprochent de ce moment - là (...) Des rapprochements existent et je suis assez heureux de voir qu'un accord progresse".
+064	00	0.3184	"Il y en a beaucoup qui se réjouissent de cette situation, mais je crois qu'on aurait tort parce que c'est la démocratie qui serait perdante".
