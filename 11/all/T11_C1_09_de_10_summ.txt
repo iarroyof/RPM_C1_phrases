@@ -1,0 +1,3 @@
+000	09	0.3278	Le candidat démocrate a recueilli environ 52,6% des suffrages populaires, contre 46,4% pour McCain, soit 7 millions de voix d'écart environ entre les deux adversaires.
+001	09	0.4153	Hommage unanime en Europe L'Europe est en tout cas en fête depuis l'annonce des résultats, avec l'espoir que Barack Obama permettra d'instaurer un "new deal" entre les Etats - Unis et l'Europe.
+002	09	0.4115	Sur le plan international, alors que le pays est engagé dans deux guerres, en Irak et en Afghanistan, le nouveau chef d'Etat a promis de retirer les soldats américains d'Irak "de façon responsable" dans un délai de 16 mois et de concentrer les efforts à la lutte contre Al - Qaïda et les talibans.

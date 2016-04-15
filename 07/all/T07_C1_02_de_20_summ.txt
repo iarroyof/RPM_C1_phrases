@@ -1,0 +1,2 @@
+000	02	0.3515	L'appartement d'Olivier Kerviel situe au 2e étage d'un immeuble haussmannien du VIIIème arrondissement de Paris.
+001	02	0.3104	Il a expliqué avoir agi seul.

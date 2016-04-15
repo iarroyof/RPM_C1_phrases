@@ -1,0 +1,32 @@
+000	01	0.2601	Grincements de dents La propriété du temple a été officiellement attribuée au Cambodge en 1904.
+001	01	0.2270	La cour de justice internationale de La Haye a tranché en 1962 en faveur du Cambodge.
+002	01	0.2193	Ce joyau de l'architecture khmère d'où la vue sur la jungle cambodgienne est époustouflante a décidément une histoire mouvementée.
+003	01	0.2310	Il a longtemps été inaccessible.
+004	01	0.2142	En janvier 2003, des émeutes ont éclaté à Phnom Penh parce qu'une starlette thaïlandaise avait affirmé qu'Angkor Vat appartenait à la Thaïlande.
+000	02	0.3087	Il n'y a pas eu de passage de nos soldats» en territoire cambodgien, a assuré le gouverneur de la province thaïlandaise située à proximité du temple, Seni Chittakasem.
+001	02	0.3338	«Nous avons déployé des rangers et quelques civils pour patrouiller le long de la frontière», a - t - il expliqué.
+000	03	0.2242	C'est l'un des sites les plus visités du Cambodge, après Angkor.
+001	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
+002	03	0.2470	"Les soldats étaient en alerte" Mardi, la tension est montée d'un cran.
+003	03	0.2676	"Nos troupes et les troupes thaïlandaises ont pointé leurs armes les unes vers les autres.
+004	03	0.2573	Néanmoins, les deux pays semblent jouer la carte de l'apaisement.
+000	04	0.2642	Temple de Preah Vihear : Cambodge et Thaïlande envisagent un retrait Le Cambodge et la Thaïlande ont décidé d'envisager un retrait de leurs troupes d'une zone frontalière contestée près d'un temple sacré sans prendre toutefois d'engagement ferme pour mettre fin à deux semaines de mobilisation militaire.
+001	04	0.2706	Après 12 heures de négociations à Siem Reap, au nord - ouest du Cambodge, les ministres des Affaires étrangères des deux pays ont indiqué qu'ils demanderaient à leur gouvernement respectif de redéployer les milliers de soldats qui se font face près du temple de Preah Vihear qui date du XIe siècle.
+002	04	0.2899	Aucune date n'a été fixée pour les prochaines négociations entre les deux hommes.
+000	05	0.2276	La situation à la frontière entre le Cambodge et la Thaïlande demeure particulièrement tendue, malgré l'ouverture dans la nuit de jeudi à vendredi de négociations avec l'ONU.
+001	05	0.2382	Par précaution, les populations locales ont été déplacées.
+002	05	0.2742	Des diplomates des deux pays ont prévu de se rencontrer lundi matin, et le processus d'apaisement pourrait s'enclencher dans les jours à venir.
+003	05	0.2426	"Il s'agit d'un nouveau pas (effectué) par le Cambodge en vue de trouver une solution pacifique et bilatérale" avec la Thaïlande, a déclaré le ministre cambodgien des affaires étrangères.
+004	05	0.3009	Les troupes resteront mobilisées à la frontière pendant toute la durée des pourparlers.
+000	06	0.2387	Samedi, des représentants des ambassades des Etats - Unis, de Chine, de France et du Vietnam, partis en hélicoptère de Phnom Penh, sont arrivés sur le site pour constater la situation sur place, a indiqué sur le site le commandant en chef de la police militaire cambodgienne.
+001	06	0.2282	Plus de 100 nouveaux soldats thaïlandais, s'ajoutant aux 400 présents, sont également arrivés vendredi.
+002	06	0.2633	L'ancien temple hindou de Preah Vihear au Cambodge, situé à 400 kilomètres au nord de la capitale Phnom Penh, à la frontière de la Thaïlande, et récemment entré sur la liste du Patrimoine mondial de l'Unesco, est au centre d'un conflit territorial entre les deux pays.
+000	07	0.2155	Les pourparlers reprendront en début de semaine prochaine, en Thaïlande, près de la frontière.
+001	07	0.5052	Le Premier ministre, Hun Sen, a demandé à son homologue thaïlandais d’ordonner le retrait de ses troupes du sol cambodgien, afin que : « la situation retourne à la normale ».
+000	08	0.3154	A la sortie de sa pause déjeuner, le ministre des affaires étrangères cambodgien, Hor Nam Hong s’est montré peu prolixe.
+000	09	0.2106	Quand le Cambodge et la Thaïlande se disputent un temple Le temple de Preah Vihear, situé à la frontière entre le Cambodge et la Thaïlande, a été inscrit sur la liste du Patrimoine mondial de l'Unesco.
+001	09	0.2815	Dernier rebondissement du litige qui oppose les deux pays au sujet de ce site.
+000	10	0.3123	Thaïlande - Cambodge: bruit de bottes autour d’un temple Malgré l’inscription, en début de mois, du temple de Preah Vihear sur la liste du patrimoine mondial, l’Unesco ayant laissé le soin au Cambodge et à la Thaïlande de régler leur différend frontalier dans cette zone, un nouvel épisode vient d’attiser la discorde entre les deux voisins.
+001	10	0.2002	Rappel des faits : trois Thaïlandais, vêtus comme des religieux, ont escaladé dans la nuit de lundi à mardi la barrière sise sur la frontière entre les deux pays.
+002	10	0.2047	Depuis le 22 juin, le Cambodge maintient fermé le poste - frontière de Preah Vihear, une précaution prise pour contenir d’éventuels débordements populaires thaïlandais à la suite de la tenue de manifestations de ce côté de la frontière.
+003	10	0.2065	"Nous avons relevé que l’inscription du temple sur la liste du patrimoine mondial a suscité beaucoup de mécontentement chez les Thaïlandais." Le porte - parole du Conseil des ministres Phay Siphan, en charge du dossier de Preah Vihear, a fait le voyage en hélicoptère.

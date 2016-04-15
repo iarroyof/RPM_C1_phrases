@@ -1,0 +1,2 @@
+000	09	0.2810	Les militants votent pour départager les motions PS Les militants du PS votent jeudi pour départager six motions en lice pour le congrès de Reims, un scrutin qui s'annonce serré entre les trois grandes coalitions en course pour la succession de François Hollande, incarnées par Martine Aubry, Bertrand Delanoë et Ségolène Royal.
+001	09	0.2815	Outre ces trois motions, sont en course une motion de la gauche du parti défendue par l'eurodéputé Benoît Hamon, et deux "petites" motions: le pôle écologiste et Utopia (écologiste et altermondialiste).

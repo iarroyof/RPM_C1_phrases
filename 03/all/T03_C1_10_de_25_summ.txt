@@ -1,0 +1,7 @@
+000	10	0.2370	Autrement dit, qu’elles ne soient encore plus touchées qu’elles ne le sont déjà.
+001	10	0.3046	En attendant, en interne, la contestation monte, notamment des caisses régionales, qui demeurent les actionnaires majoritaires.
+002	10	0.3034	Il a aussi décidé de réduire son enveloppe de « bonus », ces primes accordées aux traders en fonction de leurs résultats, en laissant plus de place dans leur calcul à la performance collective.
+003	10	0.2982	Au printemps dernier, la Société générale, encore sous le coup de l’affaire Kerviel, a ouvert le bal, en émettant pour 5,5 milliards d’euros d’actions nouvelles.
+004	10	0.2966	Mais aujourd’hui les appels au marché s’avèrent compliqués.
+005	10	0.2983	Un plan d’économies a aussi été mis en place, avec l’annonce, en mai, de la suppression de 850 emplois, sur un effectif total de 22 000.
+006	10	0.2467	Mais cet été, Natixis a dû aussi lever 3,9 milliards pour retrouver ses ratios de solvabilité.

@@ -1,0 +1,4 @@
+000	06	0.2458	La taxe de 80 millions d'euros que la commission Copé propose de leur imposer, les chaînes privées n'en veulent pas.
+001	06	0.4163	Ils citent l'exemple des quatre premiers mois de 2008, où les recettes publicitaires de TF1 et M6 ont reculé, alors que France Télévisions subissait dans le même temps une chute de 20 % de ses rentrées publicitaires.
+002	06	0.2650	Des souhaits exaucés Enfin, les chaînes privées n'hésitent pas à dramatiser leur propre situation : elles vivent une « période compliquée » due à de « lourds investissements de plusieurs centaines de millions d'euros ».
+003	06	0.2788	» A peine quelques jours après l'envoi de cette lettre, l'octroi d'une seconde coupure vient donc exaucer leurs souhaits.

@@ -1,0 +1,2 @@
+000	10	0.2381	Selon le magistrat, le séjour irrégulier serait "la raison profonde" pour laquelle la "nounou" aurait "paniqué à l’idée d’aller se signaler aux services de police comme étant la gardienne provisoire de l’enfant".
+001	10	0.1976	Une enquête sociale devra rendre ses conclusions avant que la jeune femme, de nationalité algérienne, puisse retrouver son fils.

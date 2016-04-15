@@ -1,0 +1,3 @@
+000	02	0.3072	Christine Lagarde, la ministre de l'Economie n'y est pas favorable car «cela aurait pour but d'encourager la consommation, et on le sait, 40% des biens consommés par les Français sont des produits d'importation» a - t - elle déclaré sur LCI aujourd'hui.
+001	02	0.2542	La France envisage de mobiliser environ 19 milliards d'euros, soit l'équivalent de 1% du PIB, pour la déclinaison française du plan de relance européen.
+002	02	0.3007	Nicolas Sarkozy présentera d'ici dix jours les mesures de ce plan.

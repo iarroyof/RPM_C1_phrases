@@ -1,0 +1,9 @@
+000	05	0.2625	Martine Aubry, quant à elle, a recueilli des applaudissements nourris, en plaidant pour un PS "ancré à gauche".
+001	05	0.3118	Martine Aubry a largement vaincu Ségolène Royal à l'applaudimètre, dans la salle plénière du parc des expositions de Reims.
+002	05	0.3663	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
+003	05	0.3316	Les applaudissements ont fusé.
+004	05	0.2457	Pourtant Martine Aubry, si elle a fait état, à nouveau, de sa "détermination", n'a pas annoncé sa candidature.
+005	05	0.2653	Aujourd'hui, il y a eu deux événements inattendus: le discours de Ségolène Royal qui a été mal accueilli par le parti, car il ne correspond pas aux valeurs du parti.
+006	05	0.4547	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+007	05	0.3072	Car du côté de la réunion de motion de Delanoë, on se disait toujours aussi sûr de réussir à constituer une "majorité".
+008	05	0.3006	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.

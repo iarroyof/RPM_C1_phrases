@@ -1,0 +1,10 @@
+000	09	0.3209	A Perpignan, un lycée expérimente déjà l’accompagnement pendant les vacances Durant les vacances de la Toussaint, le lycée Aristide - Maillol de Perpignan (Pyrénées - Orientales) ne fermera pas ses portes.
+001	09	0.2984	Cet établissement de 1 900 élèves est socialement l’un des moins favorisés du Languedoc.
+002	09	0.2918	Durant cinq jours, ce sont 180 élèves qui vont suivre deux à quatre heures de soutien quotidien dans les matières qu’ils ont choisies.
+003	09	0.4152	"La demande est énorme, surtout en maths et en physique" Comme souvent, le lancement soudain du programme « Lycée de la réussite » a pris de court les établissements, mais le succès rencontré n’a pas surpris le proviseur.
+004	09	0.3155	En instituant le principe du suivi individuel ou en petits groupes, la réforme annoncée par Xavier Darcos (lire page 5) va généraliser à la rentrée 2009 des pratiques de plus en plus répandues dans les établissements.
+005	09	0.3417	Après une phase de massification des études, les États donnent la priorité à la lutte contre l’échec scolaire.
+006	09	0.3240	Méthodologie, travail sur projets, stages d’entraînement… Les expériences ne manquent pas.
+007	09	0.3517	» La réforme Darcos du lycée reste pour l’instant très évasive sur les modalités de l’accompagnement des élèves.
+008	09	0.4226	» Les animateurs du courant pédagogique voient pour leur part avec amertume revenir un thème qui était au cœur des expériences innovantes.
+009	09	0.3460	« Voilà quinze ans qu’on dénigre les “pédagos”, soupire Gabriel Cohn - Bendit, ancien responsable du lycée expérimental de Saint - Nazaire (Loire - Atlantique).

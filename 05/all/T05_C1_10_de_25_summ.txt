@@ -1,0 +1,3 @@
+000	10	0.3427	Ce fichage sera assuré, à l’avenir, par la Direction centrale de la sécurité publique (fusion des Renseignements Généraux et de la DST).
+001	10	0.2852	Cette initiative gouvernementale, porteuse à l’évidence de nombreuses dérives, s’inscrit résolument dans le cadre de la mise en place d’une politique sécuritaire ouvertement revendiquée.
+002	10	0.2258	Le gouvernement est passé outre aux réserves émises par la Commission nationale Informatique et Libertés concernant ce fichier qui, dès sa parution, a suscité les plus vives réprobations de multiples organisations associatives, syndicales et politiques.

@@ -1,0 +1,7 @@
+000	03	0.2153	Perché sur une falaise, le sanctuaire dédié au dieu Shiva s'étend sur un axe de 800 mètres.
+001	03	0.2242	C'est l'un des sites les plus visités du Cambodge, après Angkor.
+002	03	0.2063	Le 15 juin 1962, la Cour internationale de justice de La Haye attribuait le temple au Cambodge.
+003	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
+004	03	0.2470	"Les soldats étaient en alerte" Mardi, la tension est montée d'un cran.
+005	03	0.2676	"Nos troupes et les troupes thaïlandaises ont pointé leurs armes les unes vers les autres.
+006	03	0.2573	Néanmoins, les deux pays semblent jouer la carte de l'apaisement.

@@ -1,0 +1,3 @@
+000	05	0.2430	Dès l'automne L'un et l'autre veulent inscrire le débat sur cette question « dans le projet de loi audiovisuel de l'automne », ce même texte qui instaurera la disparition progressive de la pub sur l'ensemble des programmes de France Télévisions (France 2, France 3, France 4 et France 5).
+001	05	0.3570	Actuellement, la loi de 1986 sur l'audiovisuel autorise une seule coupure dans les films et les fictions de 90 minutes.
+002	05	0.3144	A leurs yeux, elle donnera un coup de pouce à ce type de programmes, jusque - là concurrencés par les émissions de plateau ou de télé - réalité « qui rapportaient davantage d'argent aux chaînes puisqu'il est possible d'inclure de nombreux écrans publicitaires ».

@@ -1,0 +1,4 @@
+000	04	0.3026	«J'ai une vie privée compliquée, a - t - elle déclaré sans ambages au Monde, et je ne dirai rien là - dessus.»
+001	04	0.3685	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
+002	04	0.3136	En tant que symbole de l'ouverture en direction de l'immigration, elle était intouchable.
+003	04	0.3635	Cette grossesse audacieusement assumée change la donne.

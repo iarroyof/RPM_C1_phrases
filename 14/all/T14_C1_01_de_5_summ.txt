@@ -1,0 +1,3 @@
+000	01	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
+001	01	0.3843	Rencontre discrète.
+002	01	0.3172	Mais chez les delanoïstes, certains espèrent encore un compromis avec les royalistes.

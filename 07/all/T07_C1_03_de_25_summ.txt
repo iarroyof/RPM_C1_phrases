@@ -1,0 +1,3 @@
+000	03	0.2858	Le fraudeur de la Générale serait en fuite Les dirigeants de la banque française affirment que le jeune trader qui leur a fait perdre 5 milliards d'euros a fait preuve d'"un extraordinaire talent de dissimulation".
+001	03	0.2686	Dans un communiqué de presse publié ce matin, la banque a simplement indiqué qu'une procédure de licenciement avait été engagée contre le coupable.
+002	03	0.2525	D'après le pdg de la Société Générale, Daniel Bouton, Jérôme Kerviel a "opéré frauduleusement tout au long de l'année 2007, créant un système parallèle indétectable: il a construit depuis son poste de travail une entreprise dissimulée à l'intérieur de nos salles de marché, et il a réussi à chaque fois à cacher ces positions par d'autres positions".

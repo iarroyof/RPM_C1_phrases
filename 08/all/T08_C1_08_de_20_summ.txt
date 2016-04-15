@@ -1,0 +1,6 @@
+000	08	0.3626	Le laboratoire na pas que ça à faire.»
+001	08	0.4404	Maintenant.
+002	08	0.4148	Dans la perspective de son retour, Armstrong sest réinscrit sur les listes du passeport biologique depuis le 1er août, a fait savoir lagence américaine antidopage (USADA).
+003	08	0.3574	Le règlement de l'UCI stipule quun coureur doit notifier six mois à lavance sa décision de retour afin dêtre prêt à se soumettre durant cette période à des contrôles inopinés.
+004	08	0.3917	En attendant, lexamen de certains échantillons douteux du dernier Tour, ordonné par l'AFLD a débuté.
+005	08	0.3725	«Nous avons commencé lundi dernier en utilisant deux méthodes, dit Bordry.

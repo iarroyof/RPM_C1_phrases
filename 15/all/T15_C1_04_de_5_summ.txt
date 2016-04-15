@@ -1,0 +1,2 @@
+000	04	0.3685	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
+001	04	0.3635	Cette grossesse audacieusement assumée change la donne.

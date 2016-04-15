@@ -1,0 +1,2 @@
+000	07	0.2890	Me Cécile Bernaille a pointé également la responsabilité de la banque à travers "la défaillance de ses systèmes de contrôle": "Dans une banque, il semble qu'il y ait un directeur des risques qui surveille".
+001	07	0.2745	Un rapport préliminaire de l'Inspection générale de la Caisse d'Epargne avait déjà pointé une "dérive" dans la gestion des risques ainsi qu'"un nombre important de défaillances" au sein de la banque.

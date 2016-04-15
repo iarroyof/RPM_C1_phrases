@@ -1,0 +1,7 @@
+000	01	0.2351	«L’Amérique a montré que tout est possible!»
+001	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
+002	01	0.2312	«Nous connaissions un candidat qui a séduit le monde.
+003	01	0.3832	Maintenant nous allons connaître le président», écrit le quotidien conservateur espagnol ABC.
+004	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
+005	01	0.2726	A lui d’inscrire ce moment dans la marche du temps».
+006	01	0.2851	«L’absence de résultats rapides pourrait transformer les espoirs de changement en déception», avertit son concurrent le Nikkei.

@@ -1,0 +1,2 @@
+000	02	0.4122	Les modules optionnels compteront pour leur part six heures de cours dont notamment le latin, le grec, les sciences économiques et sociales, une troisième langue vivante, les arts plastiques.
+001	02	0.3943	S'ils le souhaitent, les lycéens pourront plutôt choisir d'approfondir certaines matières du tronc commun comme le français ou les mathématiques.

@@ -1,0 +1,2 @@
+000	03	0.2444	L’effectif de la banque d’affaires du groupe pâtit de la crise, en particulier en France.
+001	03	0.2453	Les subprimes n’en finissent pas de remuer le secteur bancaire hexagonal.

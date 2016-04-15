@@ -1,0 +1,2 @@
+000	05	0.2857	Est - ce moralement satisfaisant?
+001	05	0.4162	Regardant du côté de la Belgique, "où l'euthanasie fermement encadrée est légalisée depuis cinq ans", il évoque les 495 cas autorisés l'an dernier.

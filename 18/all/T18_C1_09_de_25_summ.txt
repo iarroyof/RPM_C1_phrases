@@ -1,0 +1,3 @@
+000	09	0.2812	Cet appel à la grève de 24H00 survient quatre mois après un mouvement identique, qui était sans précédent depuis 1974.
+001	09	0.3461	La nouvelle grève survient le jour où la commission Copé, chargée de réfléchir à l'avenir de la télévision publique sans publicité, tiendra une dernière réunion plénière dans la matinée.
+002	09	0.3126	Ces derniers ont rapidement claqué la porte, estimant que "l'on assistait en fait à la restructuration pure et simple de l'ensemble du secteur audiovisuel visant à sa concentration pour sauver les soldats TF1 et M6".

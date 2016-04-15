@@ -1,0 +1,5 @@
+000	06	0.2904	"La France a tout fait" pour privilégier la négociation et ne pas "mettre en risque la vie des otages", a - t - elle expliqué sur le tarmac de Villacoublay.
+001	06	0.3255	"Vous m'avez sauvé la vie parce que je pense que si cette réflexion n'avait pas été faite au bon moment avec la force, avec l'énergie nécessaires, probablement nous aurions connu d'autres échecs".
+002	06	0.3430	"C'est un moment très très émouvant pour moi, respirer l'air de la France, d'être avec vous", a - t - elle confié devant l'avion de la République française.
+003	06	0.2911	Vous l'avez dit, je suis à la maison, je suis chez moi.
+004	06	0.2574	La France, c'est chez moi.

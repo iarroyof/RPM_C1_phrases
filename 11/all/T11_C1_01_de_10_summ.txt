@@ -1,0 +1,3 @@
+000	01	0.3832	Maintenant nous allons connaître le président», écrit le quotidien conservateur espagnol ABC.
+001	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
+002	01	0.2851	«L’absence de résultats rapides pourrait transformer les espoirs de changement en déception», avertit son concurrent le Nikkei.

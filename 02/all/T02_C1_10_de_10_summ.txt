@@ -1,0 +1,2 @@
+000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
+001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.

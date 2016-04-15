@@ -1,0 +1,2 @@
+000	08	0.2618	Avant - hier, la société a fait savoir qu’elle avait été victime d’un incident informatique.
+001	08	0.2652	Face aux tourments de l’Ecureuil, reste à savoir si les épargnants décideront d’aller placer leurs noisettes ailleurs.

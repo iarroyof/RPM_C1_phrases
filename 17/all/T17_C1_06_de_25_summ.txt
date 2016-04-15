@@ -1,0 +1,5 @@
+000	06	0.5362	De la place d'Italie à la Bastille, une majorité d'enseignants, des étudiants, des lycéens et des parents d'élèves de la FCPE ont manifesté, à l'appel de 47 organisations, pour que l'éducation "reste une priorité".
+001	06	0.2537	La mobilisation survient quelques jours avant l'examen à l'Assemblée le 4 novembre du budget 2009 de l'Education, qui prévoit 13 500 suppressions de postes, après 19 700 au total en 2007 et 2008.
+002	06	0.3234	Plusieurs ténors du PS, dont Martine Aubry, Bertrand Delanoë et François Hollande, étaient présents dans le cortège.
+003	06	0.2816	"Ce n'est pas tellement pour moi que je suis inquiète, mais pour les enfants.
+004	06	0.3368	Quelques heures plus tôt sur Europe 1, la ministre de l'Enseignement supérieur Valérie Pécresse avait pourtant estimé que les raisons de la mobilisation étaient "en profond décalage avec la situation réelle de l'éducation qui est aujourd'hui la priorité des priorités du gouvernement".

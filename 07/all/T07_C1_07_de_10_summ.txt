@@ -1,0 +1,2 @@
+000	07	0.2677	"Cela, a - t - il souligné, ne tient pas debout, ni techniquement ni comptablement".
+001	07	0.3195	La banque explique que l'un de ses traders, Jérôme Kerviel, 31 ans, a profité de "sa connaissance approfondie des procédures de contrôle" pour "dissimuler ses positions grâce à un montage élaboré de transactions fictives".

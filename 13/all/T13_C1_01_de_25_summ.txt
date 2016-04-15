@@ -1,0 +1,6 @@
+000	01	0.2601	Grincements de dents La propriété du temple a été officiellement attribuée au Cambodge en 1904.
+001	01	0.2270	La cour de justice internationale de La Haye a tranché en 1962 en faveur du Cambodge.
+002	01	0.2193	Ce joyau de l'architecture khmère d'où la vue sur la jungle cambodgienne est époustouflante a décidément une histoire mouvementée.
+003	01	0.2310	Il a longtemps été inaccessible.
+004	01	0.2139	En Asie du Sud - Est, les esprits s'échauffent vite quand il s'agit de vieilles pierres.
+005	01	0.2142	En janvier 2003, des émeutes ont éclaté à Phnom Penh parce qu'une starlette thaïlandaise avait affirmé qu'Angkor Vat appartenait à la Thaïlande.

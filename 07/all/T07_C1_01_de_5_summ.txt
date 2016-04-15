@@ -1,0 +1,2 @@
+000	01	0.3038	Extrait : "La question du jour est : qui va porter le chapeau ?
+001	01	0.3232	On dirait des hamsters sous acides, ces branIeurs.

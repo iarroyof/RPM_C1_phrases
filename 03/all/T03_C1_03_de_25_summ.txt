@@ -1,0 +1,4 @@
+000	03	0.2444	L’effectif de la banque d’affaires du groupe pâtit de la crise, en particulier en France.
+001	03	0.2453	Les subprimes n’en finissent pas de remuer le secteur bancaire hexagonal.
+002	03	0.2180	Hier matin, la direction du groupe a annoncé de premières conséquences sociales.
+003	03	0.2282	Dans le cadre d’un plan de réduction des coûts visant à économiser 300 millions d’euros d’ici à la fin 2009, le Crédit agricole va sensiblement réduire la taille de sa banque d’affaires Calyon.

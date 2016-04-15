@@ -1,0 +1,7 @@
+000	02	0.2647	C'est ce qu'il a assuré lors d’une entrevue avec des journalistes à Dharamsala dans le nord de l’Inde mardi, ajoutant qu’il n’avait pas de prise sur les violences.
+001	02	0.2163	La violence est contraire à la nature humaine.
+002	02	0.2002	Le dalaï - lama y a renoncé et a adopté une approche dite de la «voie moyenne» consistant à réclamer une simple autonomie culturelle pour son pays.
+003	02	0.2240	Pour ce qui est de la violence, c’est mal.
+004	02	0.2084	Nous ne devrions pas développer des sentiments antichinois.
+005	02	0.2324	«Incidents fomentés par la clique du dalaï - lama» De son côté, la Chine accuse le dalaï - lama d’avoir voulu saboter les Jeux olympiques en provoquant des troubles au Tibet.
+006	02	0.2760	«Nous avons les preuves, et les faits sont avérés que ces incidents ont été fomentés et organisés par la clique du dalaï - lama», a assuré le Premier ministre Wen Jiabao lors d’une conférence de presse mardi.

@@ -1,0 +1,3 @@
+000	07	0.2803	Deux lignes s'opposent à quelques jour du congrès : laisser l'ancienne candidate à la présidentielle tenter de trouver une orientation majoritaire, ou former un axe Delanoë/Aubry/Hamon.
+001	07	0.2852	Elle répond ainsi à la demande du premier secrétaire actuel, François Hollande, qui avait estimé samedi sur son blog qu'elle devait prendre "la responsabilité de proposer [...] un nom de premier secrétaire" pour le PS, ainsi qu'une "orientation majoritaire" et "une stratégie cohérente d'alliance", à quelques jours du congrès de Reims, qui commence vendredi.
+002	07	0.2779	Un nom et une stratégie d'alliances Reste maintenant à trouver et ce nom et cette stratégie d'alliance.

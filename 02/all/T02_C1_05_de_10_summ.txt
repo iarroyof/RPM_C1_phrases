@@ -1,0 +1,6 @@
+000	05	0.3972	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
+001	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
+002	05	0.3113	Je suis heureux et fier d'avoir pu y contribuer, au travers de transformations si profondes qu'elles ont, je le sais bien, dérangé beaucoup d'habitudes et de situations acquises.
+003	05	0.2967	De l'affaire Kerviel à «l'incident» de la Caisse d'Epargne: la folie des traders Une affaire Kerviel bis ?
+004	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
+005	05	0.2719	Nicolas Mérindol, jusqu'ici numéro 2 de la Caisse d'Épargne, estime de son côté que les traders emportés par l'emballement du système « ont été pris par la crise ».

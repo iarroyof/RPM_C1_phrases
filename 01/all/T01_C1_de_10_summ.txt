@@ -1,0 +1,22 @@
+000	01	0.3633	Dans sa déclaration transmise à la justice, le guérillero "assure qu'à aucun moment il n'a trahi les Farc, et que tout le monde sait que la libération des 15 otages est le fruit d'une opération de renseignement militaire poussée, surtout dans l'interception des communications téléphoniques", a indiqué l'avocat.
+000	02	0.3698	«Une heure avant que les hélicoptères n'arrivent, j'ai parlé avec le commandant (des Farc) Asprilla et il m'a dit que nous allions tous monter dans un hélicoptère et que nous irions dans un endroit qu'il ne connaissait pas pour parler avec un dirigeant des Farc.
+001	02	0.3354	Ils ont alors fermé les portes de l'hélicoptère, et tout à coup j'ai vu le commandant (Farc) nu au sol.
+000	03	0.5739	Une mission des émissaires chargés par la France, la Suisse et l'Espagne d'une médiation avec les Farc en faveur des otages, se trouvait dans le sud du pays peu avant l'opération, selon l'un d'eux, le Français Noël Saez.
+001	03	0.3397	"Cela a permis que les membres des Farc qui retenaient les otages ne s'étonnent pas de l'opération que nous avions montée", a - t - il expliqué au journal Le Figaro de lundi.
+000	04	0.2241	Elle constitue une victoire politique importante pour le président colombien Alvaro Uribe, qui avait défendu une ligne dure vis - à - vis des guérilleros des FARC en dépit des critiques internationales.
+000	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
+001	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
+002	05	0.3222	Le caporal Perez a nourri Ingrid Betancourt à la petite cuillère : " Elle a été très malade.
+003	05	0.4589	Un scénario trop parfait?
+000	06	0.3255	"Vous m'avez sauvé la vie parce que je pense que si cette réflexion n'avait pas été faite au bon moment avec la force, avec l'énergie nécessaires, probablement nous aurions connu d'autres échecs".
+001	06	0.3430	"C'est un moment très très émouvant pour moi, respirer l'air de la France, d'être avec vous", a - t - elle confié devant l'avion de la République française.
+000	07	0.2872	Des soldats se sont présentés comme les membres d'un groupe humanitaire chargé de convoyer les otages par hélicoptère vers un autre camp pour y rencontrer le nouveau chef des Farc, Alfonso Cano.
+001	07	0.2722	BETANCOURT ATTENDUE VENDREDI À PARIS Betancourt n'avait plus donné signe de vie depuis la diffusion d'une vidéo par la guérilla le 30 novembre 2007, où elle apparaissait très amaigrie et affaiblie dans un camp.
+002	07	0.3319	Le président socialiste vénézuélien Hugo Chavez, aux antipodes d'Uribe sur l'échiquier politique, a téléphoné au président colombien pour le féliciter du succès de l'opération, a rapporté la télévision de Caracas.
+000	08	0.3160	Elle a descendu seule, lentement, la passerelle de l'avion présidentiel.
+001	08	0.3753	"Nous savions, nous qui étions dans cette même situation (...) qu'avec un scénario comme celui là, nous n'avions aucune chance de survie", a - t - elle expliqué.
+002	08	0.3802	"Un état de santé satisfaisant" Le médecin - chef de l'Elysée, Christophe Fernandez, qui se trouvait dans la délégation, a déjà brièvement examiné l'ex - otage, âgée de 46 ans.
+003	08	0.4119	Depuis sa libération, l'ex - otage est apparue rayonnante et pleine d'énergie, multipliant les interviews, alors qu'elle a expliqué avoir été gravement malade durant certaines parties de sa détention.
+000	09	0.3220	Dans le courrier électronique cité par RCN, Reyes s'adresse à Noël Saez, l'un des deux émissaires chargés par la France, la Suisse et l'Espagne d'établir des contacts avec les Farc en vue de la libération des otages en Colombie.
+000	10	0.3046	Libération d'Ingrid Betancourt: la joie et les arrières pensées La France a vécu mercredi soir un de ces moments exceptionnels de joie collective comme il en existe trop peu souvent.
+001	10	0.3952	Cette médiatisation, qui s’est progressivement imposée comme l’un des rares moyens de pression pour espérer obtenir la libération des otages, peut être risquée pour les responsables politiques ainsi contraints à des obligations de résultats.

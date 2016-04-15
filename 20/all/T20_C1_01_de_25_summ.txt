@@ -1,0 +1,9 @@
+000	01	0.2861	Le dalaï - lama devrait lancer dimanche un appel à la non - violence.
+001	01	0.2136	Alors que le numéro un du Parti communiste chinois, Hu Jintao, a été reconduit pour cinq ans à la tête de l'Etat, la crise entre le Tibet et la Chine s'aggrave.
+002	01	0.2734	Toutefois, ce bilan pourrait être beaucoup plus important, à en croire le gouvernement tibétain en exil, dans le nord de l'Inde, qui a affirmé dimanche qu'au moins 80 personnes avaient été tuées et 72 autres blessées.
+003	01	0.2728	Le dalaï - lama devrait lancer dimanche un appel à la non - violence.
+004	01	0.3096	Appel à une enquête de l'ONU La veille, de nombreuses boutiques ont été incendiées dans le cœur historique de la capitale du Tibet pendant des manifestations organisées par des moines bouddhistes, célébrant depuis le début de la semaine le 49e anniversaire du soulèvement de Lhassa qui avait abouti à l'exil du dalaï - lama.
+005	01	0.2390	Vendredi, les Etats - Unis et l'Union Européenne ont fait part de leur inquiétude et appelé la Chine à la «retenue» dans cette crise.
+006	01	0.2233	La chancelière allemande Angela Merkel, qui avait provoqué la colère de Pékin en recevant à titre privé le dalaï - lama en octobre, a appelé au dialogue direct entre la Chine et le leader bouddhiste en exil.
+007	01	0.2687	L'organisation des droits de l'Homme Amnesty International a elle appelé les autorités chinoises à autoriser une enquête indépendante des Nations unies et invité la Chine à la plus grande retenue.
+008	01	0.2342	Quatre personnes ont été arrêtées par la police qui a dispersé la foule.

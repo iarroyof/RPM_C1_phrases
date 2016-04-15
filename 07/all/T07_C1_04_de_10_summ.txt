@@ -1,0 +1,2 @@
+000	04	0.3151	Day, membre du conseil d'administration de la banque, a vendu le 9 janvier pour 85,745 millions d'euros d'actions qu'il possédait, au prix de 95,27 euros par action, selon l'AMF, qui a ouvert une enquête mardi.
+001	04	0.2872	Day Foundation et la Kelly Day Foundation, ont vendu respectivement le 10 janvier pour 8,63 millions d'euros et 959.066 euros d'actions.

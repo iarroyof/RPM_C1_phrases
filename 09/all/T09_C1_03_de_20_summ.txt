@@ -1,0 +1,8 @@
+000	03	0.3045	Faut - il revoir la loi Leonetti ?
+001	03	0.3283	En attendant, ce décès annoncé a relancé en France le débat brûlant sur la fin de vie.
+002	03	0.3191	Dans le cas d’un malade en « phase avancée ou terminale d’une affection grave et incurable », les praticiens ne peuvent que stopper le traitement et attendre que le patient périsse, tout en lui administrant des antidouleurs pour soulager ses ultimes souffrances.
+003	03	0.2903	En revanche, ils n’ont pas le droit de lui injecter une quelconque substance létale.
+004	03	0.3492	Bénéficiant de la loi Leonetti, leur fils de vingt - huit ans, plongé depuis huit ans dans un coma végétatif irréversible, a été « débranché » de la sonde qui le nourrissait.
+005	03	0.3023	Il n’était pas en « fin de vie » et sa mère aurait refusé qu’on le laisse mourir de faim en débranchant sa sonde gastrique.
+006	03	0.3046	Tandis que le porte - parole du gouvernement, Luc Chatel, a estimé hier qu’il fallait « prendre en compte les cas les plus douloureux ».
+007	03	0.3199	Il appelle désormais à aller plus loin, en s’inspirant des législations des pays avoisinants.

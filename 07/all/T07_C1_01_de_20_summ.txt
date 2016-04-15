@@ -1,0 +1,8 @@
+000	01	0.2483	Une star du web.
+001	01	0.2495	Une réaction parmi d'autres sur un forum consacré à la finance: "Soutenons Kerviel !
+002	01	0.3038	Extrait : "La question du jour est : qui va porter le chapeau ?
+003	01	0.3232	On dirait des hamsters sous acides, ces branIeurs.
+004	01	0.2253	Lequel pour ne rien gâcher "a des airs de Tom Cruise".
+005	01	0.2213	... c'est un genie !
+006	01	0.2406	A signaler pour les fans, on peut acheter en ligne un T - shirt "Jerôme Kerviel's girlfriend", 17,99 dollars pièce, plusieurs coloris disponibles.
+007	01	0.2890	Ou adhérer au comité de soutien "sauvez Kerviel,victime d'un lynchage médiatique sans précédent", qui pour le moment, il faut bien le dire, ne fait pas beaucoup d'émules.

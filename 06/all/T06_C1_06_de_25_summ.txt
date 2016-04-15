@@ -1,0 +1,4 @@
+000	06	0.2283	Le point sur les manifestations de ces trois derniers jours.
+001	06	0.1657	A Katmandou, au moins 1500 exilés tibétains au Népal manifestent contre la Chine.
+002	06	0.2634	Jetsum Pema, soeur du dalaï lama, était "l'invitée d'honneur" de l'association organisatrice.
+003	06	0.2538	A Paris, deux manifestations symboliques contre le "régime totalitaire de Pékin", la première devant un restaurant McDonald's, l'un des sponsors des JO et la seconde devant Notre - Dame.

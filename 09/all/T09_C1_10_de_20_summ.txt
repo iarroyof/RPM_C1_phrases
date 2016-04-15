@@ -1,0 +1,3 @@
+000	10	0.2623	La ministre de la Justice s'est dite opposée ce jeudi à une législation autorisant cette pratique.
+001	10	0.2468	Interrogée cejeudi sur France Inter, la ministre de la Justice a déclaré que le juge de Dijon qui statuera le 17 mars ne pouvait que répondre négativement à cette demande, en l'état actuel du droit français.
+002	10	0.2073	Selon elle, la loi Leonetti de 2005 est "assez équilibrée" et il ne faut pas aller plus loin.

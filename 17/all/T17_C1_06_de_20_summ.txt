@@ -1,0 +1,4 @@
+000	06	0.5362	De la place d'Italie à la Bastille, une majorité d'enseignants, des étudiants, des lycéens et des parents d'élèves de la FCPE ont manifesté, à l'appel de 47 organisations, pour que l'éducation "reste une priorité".
+001	06	0.3234	Plusieurs ténors du PS, dont Martine Aubry, Bertrand Delanoë et François Hollande, étaient présents dans le cortège.
+002	06	0.2816	"Ce n'est pas tellement pour moi que je suis inquiète, mais pour les enfants.
+003	06	0.3368	Quelques heures plus tôt sur Europe 1, la ministre de l'Enseignement supérieur Valérie Pécresse avait pourtant estimé que les raisons de la mobilisation étaient "en profond décalage avec la situation réelle de l'éducation qui est aujourd'hui la priorité des priorités du gouvernement".

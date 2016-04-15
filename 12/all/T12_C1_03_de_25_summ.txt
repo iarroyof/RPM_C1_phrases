@@ -1,0 +1,9 @@
+000	03	0.2610	Il l’a appris alors qu’il était à Roland - Garros.
+001	03	0.2806	Dimanche soir, le présentateur du 20 heures… de RTL annonçait qu’ « après avoir longuement hésité, Laurence Ferrari avait choisi de dire oui à TF1, pour présenter le journal télévisé à la place de Patrick Poivre d’Arvor ».
+002	03	0.2840	Laurence Ferrari présentera le JT du lundi au jeudi.
+003	03	0.2912	Claire Chazal devrait conserver la présentation des journaux du week - end, avec Anne - Sophie Lapix pour la suppléer.
+004	03	0.2640	Les chaises musicales, c’est une habitude en cette période.
+005	03	0.3279	S’il doit y avoir une mutation, indiquait, confiant, Robert Namias, le patron de l’info de TF1, en février, elle se fera avec eux ».
+006	03	0.2857	Namias pourrait être appelé également à faire ses valises.
+007	03	0.3358	Ce proche de Sarkozy aura la tâche de rapprocher les rédactions des chaînes TF1 et LCI.
+008	03	0.2871	L’éviction de PPDA arrive dans un contexte de forte turbulence pour TF1 qui reste, de loin, la chaîne la plus regardée en France.

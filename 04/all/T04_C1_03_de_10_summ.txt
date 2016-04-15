@@ -1,0 +1,2 @@
+000	03	0.2602	"Je lui ai dit qu'il était toujours le bienvenu en France", a dit Bernard Kouchner à la presse juste en montant dans sa voiture.
+001	03	0.3274	Le lauréat du prix Nobel de la paix 1989 a aussi rencontré des personnalités comme la présidente socialiste de Poitou - Charentes Ségolène Royal et le maire PS de Nantes Jean - Marc Ayrault.

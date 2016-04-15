@@ -1,0 +1,2 @@
+000	07	0.3243	La délégation française a reçu un accueil mitigé avec quelques sifflets isolés.
+001	07	0.3210	A l'inverse, la délégation française a reçu un accueil mitigé avec quelques sifflets isolés vite couverts par l'ambiance du Nid d'oiseau.

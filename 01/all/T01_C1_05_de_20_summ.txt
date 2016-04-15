@@ -1,0 +1,8 @@
+000	05	0.2816	Quel état de santé pour Ingrid?
+001	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
+002	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
+003	05	0.3222	Le caporal Perez a nourri Ingrid Betancourt à la petite cuillère : " Elle a été très malade.
+004	05	0.2956	Les preuves de vie que nous avez vues et qui ont scandalisé le monde dataient pourtant d'un moment où sa santé s'améliorait.
+005	05	0.4589	Un scénario trop parfait?
+006	05	0.2484	Les Américains se sont intéressés au sort de leurs trois otages, qu'ils avaient localisés dans la jungle.
+007	05	0.2361	Il n'a pas appelé Paris.

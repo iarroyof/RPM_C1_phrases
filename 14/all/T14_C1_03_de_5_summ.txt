@@ -1,0 +1,2 @@
+000	03	0.3881	Congrès de Reims: le PS suspendu à la décision de Ségolène Royal A deux jours de son congrès, le PS est suspendu à la décision de Ségolène Royal de briguer ou non la succession de François Hollande.
+001	03	0.3811	M. Lamy attend des avancées sur "les salaires, la justice fiscale, l'immigration, le rôle de l'Etat, les retraites".

@@ -1,0 +1,3 @@
+000	03	0.2338	Les troubles ont commencé au début du mois avec une série de manifestations pacifiques à Lhassa qui ont dégénéré en émeutes violentes et se sont propagées à plusieurs régions à population tibétaine.
+001	03	0.2296	Les troubles ont gagné mardi la province de Qinghai, dans l'ouest du pays, où des centaines de civils ont organisé un sit - in après avoir été empêchés par la police de manifester, a déclaré une source de Pékin qui a parlé avec des habitants.
+002	03	0.3111	Dans les régions concernées, la police chinoise a entrepris de retrouver les personnes qui ont pris part aux manifestations et aux émeutes.

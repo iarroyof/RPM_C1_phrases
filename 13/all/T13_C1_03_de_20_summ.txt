@@ -1,0 +1,5 @@
+000	03	0.2242	C'est l'un des sites les plus visités du Cambodge, après Angkor.
+001	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
+002	03	0.2470	"Les soldats étaient en alerte" Mardi, la tension est montée d'un cran.
+003	03	0.2676	"Nos troupes et les troupes thaïlandaises ont pointé leurs armes les unes vers les autres.
+004	03	0.2573	Néanmoins, les deux pays semblent jouer la carte de l'apaisement.

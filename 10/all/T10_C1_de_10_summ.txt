@@ -1,0 +1,21 @@
+000	01	0.3467	La nounou en situation irrégulière Le 5 août, des passants ont trouvé Mohamed, seul, sur une esplanade de la cité Fonscolombes et l'ont confi à la police.
+001	01	0.3291	Le problème, c'est que la nounou lui a menti pendant 13 jours.
+000	02	0.2503	En effet, les enquêteurs n'ont pas pu déterminer si la maman du petit Mohamed savait que la nourrice à qui elle a confié son fils était en situation irrégulière.
+001	02	0.2623	Elle est toujours recherchée activement», a déclaré à l'AFP le procureur de la République, Jacques Dallest.
+000	03	0.2996	Elle est toujours recherchée activement", a affirmé le procureur de la République, Jacques Dallest.
+000	04	0.2426	"La femme qui avait été missionnée par la mère pour garder l'enfant est identifiée.
+001	04	0.2694	"Tant que nous ne l'aurons pas entendu, beaucoup de choses ne pourront pas être vérifiées.
+000	05	0.2998	Les pleurs de l'enfant abandonné Ce garçonnet a été trouvé le 5 août, sur une esplanade de la cité de Fonscolombes, au nord de Marseille.
+001	05	0.3056	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il a été remarqué par des passants qui l'ont confié à la police.
+002	05	0.4358	Pour éclaircir le mystère, le parquet a décidé en début de semaine de lancer un appel à témoins, relayé dans la presse.
+000	06	0.3221	Si elle a laissé son fils entre les mains de la nounou, Naïma, toujours introuvable, c'est parce qu'elle avait "confiance en elle".
+001	06	0.2800	Puis elle avait accepté la garde, mais dans des conditions apparemment précaires.
+002	06	0.3161	Mais j'imagine que pour lui, ce n'était pas l'idéal." La brigade des mineurs continue à la rechercher.
+000	07	0.3140	La mère du petit Mohammed trouvé il y a 15 jours, errant, seul, dans une cité du nord de Marseille, était revenue mardi par avion à Marseille où elle réside.
+001	07	0.4077	Selon Karine Dussourt, le petit garçon aurait échappé à la surveillance de la "nounou" dans un jardin de la cité.
+000	08	0.3429	La maman de Mohamed, 2 ans et demi, retrouvé errant seul le 5 août sur l’esplanade de la cité Fonscolombes, dans le IIIe arrondissement de Marseille (Bouches - du - Rhône), a été interpellée mardi par la Police aux frontières à son arrivée à l'aéroport de Marignane (Bouches - du - Rhône) en provenance d'Oran (Algérie).
+001	08	0.4380	C’est lui qui décidera du retour éventuel de Mohamed dans sa famille ou de son maintien chez l’assistante maternelle à laquelle il a été confié au lendemain du 5 août, jour de sa découverte sur l’esplanade de la cité de Fonscolombes, vêtu d’un tee - shirt blanc, d’un short orange et de baskets argentées.
+002	08	0.3740	Elle n’a pas encore été identifiée mais elle est activement recherchée et, grâce à plusieurs témoignages recueillis dans le voisinage après l’appel à témoins lancé la semaine dernière, les policiers ne désespèrent pas de la localiser rapidement.
+000	09	0.3765	La mère, de nationalité algérienne et résidente régulière en France, a soutenu avoir appelé à plusieurs reprises la "nounou" de son fils.
+001	09	0.2948	Le problème, c'est que la nounou lui a menti pendant 13 jours.
+000	10	0.2381	Selon le magistrat, le séjour irrégulier serait "la raison profonde" pour laquelle la "nounou" aurait "paniqué à l’idée d’aller se signaler aux services de police comme étant la gardienne provisoire de l’enfant".

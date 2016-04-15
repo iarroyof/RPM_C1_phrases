@@ -1,0 +1,3 @@
+000	10	0.3046	En attendant, en interne, la contestation monte, notamment des caisses régionales, qui demeurent les actionnaires majoritaires.
+001	10	0.3034	Il a aussi décidé de réduire son enveloppe de « bonus », ces primes accordées aux traders en fonction de leurs résultats, en laissant plus de place dans leur calcul à la performance collective.
+002	10	0.2983	Un plan d’économies a aussi été mis en place, avec l’annonce, en mai, de la suppression de 850 emplois, sur un effectif total de 22 000.

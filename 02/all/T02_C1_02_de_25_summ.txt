@@ -1,0 +1,4 @@
+000	02	0.3017	Le parquet de Paris avait ouvert une enquête préliminaire vendredi 24 octobre afin de «déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales».
+001	02	0.2289	Suite à des recherches menées par les services de l'inspection et de la déontologie de la Caisse nationale des Caisses d'épargne et de prévoyance (CNCE), la banque avait constaté des «éléments troublants» concernant les conditions de réalisation des opérations qui ont engendré cette perte.
+002	02	0.2264	Le 22 octobre, un audit interne de la banque l'estimait à 695 millions d'euros.
+003	02	0.2424	Vendredi, la plainte déposée par la CNCE faisait référence à une perte de 751 millions d'euros.

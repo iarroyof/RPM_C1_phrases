@@ -1,0 +1,5 @@
+000	03	0.2687	"Elle vise à déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales", a précisé le parquet de Paris.
+001	03	0.3214	"Une stratégie risquée" Le directoire de la Caisse d'Épargne avait décidé en avril dernier de l'arrêt des activités d'investissement pour son compte propre et l'équipe de la salle des marchés de l'Écureuil était censée liquider progressivement son portefeuille d'ici la fin de l'année.
+002	03	0.2572	Pourtant, "à partir du 15 septembre", au lieu d'agir en ce sens, le trader "semble s'être engagé de sa propre initiative et pour des montants importants (...) dans une stratégie risquée", note le rapport interne.
+003	03	0.3530	"Cette stratégie sera renouvelée plusieurs fois au cours du mois et début octobre, y compris sur des montants exceptionnellement élevés", poursuit le document qui souligne que "cette dérive dans la gestion" n'a pas été perçue à temps "du fait d'un nombre important de défaillances du contrôle interne et d'alertes ignorées".
+004	03	0.2725	Des notes qui viennent contredire la version donnée par le numéro deux du groupe, Nicolas Mérindol, après la révélation des pertes.

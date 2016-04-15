@@ -1,0 +1,4 @@
+000	04	0.2675	Le délit d'initié ne serait pas constitué, les premières ventes de titres ayant eu lieu avant la découverte de la fraude.
+001	04	0.2611	Selon une proche du dossier, le délit d'initié ne semble pas a priori constitué puisque les premières ventes d'actions par l'un des administrateurs de la banque ont eu lieu avant la découverte de la fraude.
+002	04	0.3151	Day, membre du conseil d'administration de la banque, a vendu le 9 janvier pour 85,745 millions d'euros d'actions qu'il possédait, au prix de 95,27 euros par action, selon l'AMF, qui a ouvert une enquête mardi.
+003	04	0.2872	Day Foundation et la Kelly Day Foundation, ont vendu respectivement le 10 janvier pour 8,63 millions d'euros et 959.066 euros d'actions.

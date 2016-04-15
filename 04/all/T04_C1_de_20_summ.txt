@@ -1,0 +1,32 @@
+000	01	0.3236	Quelques heures avant de commencer un cycle d'enseignements de cinq jours, le dalaï - lama a accordé un entretien à Ségolène Royal, samedi matin, à Nantes.
+001	01	0.2459	«Si très modestement ma présence peut servir à faire progresser la cause du Tibet, à faire reculer les souffrances, reculer la terreur, reculer la violence, je suis très très honorée qu'une éminente personnalité comme vous qui symbolise la paix et la non violence puisse m'accorder quelques instants», a - t - elle ajouté.
+002	01	0.2712	«Les choses pourront ainsi bouger» «Dès la semaine prochaine je vais demander un visa pour me rendre au Tibet, je crois que les choses pourront ainsi bouger», a encore indiqué Ségolène Royal.
+000	02	0.2658	Après Ségolène Royal, c'est au tour de Rama Yade d'annoncer une rencontre, vite suivie de Bernard Kouchner.
+001	02	0.2515	La première à s'être lancée dans la course à la rencontre du dalaï - lama a été Ségolène Royal.
+002	02	0.2865	"Je voudrais le rencontrer, les contacts sont en cours avec mon cabinet et le bureau du représentant du dalaï - lama pour trouver le meilleur moment".
+003	02	0.2508	Sa femme Carla Bruni - Sarkozy sera envoyée en émissaire pour rencontrer le dalaï - lama à la fin de sa visite en France le 23 août.
+000	03	0.2543	La présence de son épouse à la cérémonie de vendredi a été interprétée comme une tentative de l'Elysée de calmer les esprits.
+001	03	0.2269	Carla Bruni - Sarkozy s'est entretenue avec lui à huis clos, avant d'être rejointe par Bernard Kouchner et Rama Yade, premières personnalités du gouvernement à rencontrer le dalaï - lama lors de son séjour.
+002	03	0.2602	"Je lui ai dit qu'il était toujours le bienvenu en France", a dit Bernard Kouchner à la presse juste en montant dans sa voiture.
+003	03	0.3274	Le lauréat du prix Nobel de la paix 1989 a aussi rencontré des personnalités comme la présidente socialiste de Poitou - Charentes Ségolène Royal et le maire PS de Nantes Jean - Marc Ayrault.
+000	04	0.3646	In extremis, Kouchner et Yade vont finalement rencontrer le dalaï lama Le ministre des Affaires étrangères Bernard Kouchner et la secrétaire d'Etat aux Droits de l'Homme Rama Yade rencontreront finalement le dalaï lama vendredi, à la veille de son départ de France où l'accueil officiel a été, selon l'opposition, frileux et confus pour ne pas froisser Pékin.
+001	04	0.2220	Je ne sais pas.
+002	04	0.3811	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
+003	04	0.3319	Pour le PS, qui a dénoncé la "valse - hésitation" autour du dalaï lama, Paris, mène une "diplomatie sans boussole".
+000	05	0.3380	Aucune rencontre n'est prévue avec Nicolas Sarkozy.
+001	05	0.3056	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
+002	05	0.2829	Hier matin, Jean - Pierre Raffarin, qui accompagnait le chef de l'Etat en Chine, a estimé qu'il y avait « un lien entre la présence de Nicolas Sarkozy, ses discussions avec le président chinois et le contrat très important que vient de signer EDF avec le géant de l'électricité en Chine ».
+000	06	0.2499	Cette visite, essentiellement religieuse et spirituelle, dure douze jours.
+001	06	0.2968	Outre sa rencontre avec Dagpo Rimpotché, l'un des grands maîtres tibétains vivant en France, le Dalaï Lama donnera mardi sa bénédiction à la nouvelle pagode d’Evry dans la banlieue sud de Paris.
+002	06	0.2713	Pour calmer les esprits, le bureau du Tibet à Paris a expliqué que de toute façon, le Dalaï Lama ne souhaitait pas cette rencontre, les dates coïncidant avec les Jeux Olympiques de Pékin qu'il a soutenus de manière constante.
+003	06	0.3005	En attendant, c'est sa femme Carla Bruni - Sarkozy qui doit l'accompagner le 22 août dans le sud de la France, à Lodève dans l'Hérault, à l'occasion de l'inauguration du temple de Lerab Ling, l'un des plus grands d'Europe.
+000	07	0.3376	S'il n'a pas rencontré le chef de l'Etat, le dalaï lama s'est entretenu vendredi avec le ministre des Affaires étrangères, Bernard Kouchner.
+001	07	0.3481	La visite du dalaï lama, débutée le 12 août, s'est terminée samedi 23 août après son départ de l'aéroport de Roissy peu après 11h00, à bord d'un vol régulier de la compagnie Air France à destination de New Delhi.
+000	08	0.3819	M. Kouchner et Mme Yade les ont ensuite rejoints puis le chef de la diplomatie est resté seul quelques instants avec le dalaï lama.
+001	08	0.2365	Il l'a clairement redit et il me semble que c'est parfaitement sincère", a souligné Matthieu Ricard.
+002	08	0.2330	Près de 2.000 invités ont assisté à la cérémonie, parmi lesquelles l'ex - Premier ministre Alain Juppé et les actrices Juliette Binoche et Line Renaud.
+000	09	0.2510	Le plus proche conseiller du dignitaire tibétain avait indiqué plus tôt mercredi que le dalaï lama, qui doit se rendre en France la semaine prochaine, ne devrait pas rencontrer Nicolas Sarkozy et n'avait pas demandé d'entretien avec le président français.
+000	10	0.2906	Encore moins l'absence de rencontre dans l'immédiat avec Nicolas Sarkozy.
+001	10	0.3192	S'il ne le souhaite pas, ce n'est pas grave." Le lot de consolation, la venue de Carla Bruni le 22 août à l'inauguration d'un temple bouddhiste à Montpellier, ne semble pas l'émouvoir davantage : "Je suis content, c'est tout." Et les chansons de la femme du Président, il les connaît ?
+002	10	0.6405	"Je ne sais pas, je ne vais pas aux festivals où elle chante." Le dalaï lama reçu par Chirac en 1998 et Mitterrand en 1989 Il s'est toutefois montré légèrement plus incisif sur les conditions de sa réception au Sénat.
+003	10	0.2655	L'entourage de l'ex - candidate socialiste à la présidentielle vient en effet de faire savoir qu'elle rencontrera le dalaï lama samedi à Nantes.

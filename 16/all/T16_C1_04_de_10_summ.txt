@@ -1,0 +1,2 @@
+000	04	0.3322	A l'appel des trois principaux syndicats, l'Union syndicale des magistrats (USM, majoritaire), le Syndicat de la magistrature (SM, gauche) et FO - magistrats, le mouvement a été dirigé autant contre la politique que l'attitude de la garde des Sceaux.
+001	04	0.4608	Rachida Dati "fragilise, par de constantes pressions, l'autorité judiciaire, dont l'indépendance est l'un des pivots de la démocratie", dénonçait la motion commune, l'accusant d'avoir une "attitude irresponsable" avec "la recherche systématique de boucs émissaires".

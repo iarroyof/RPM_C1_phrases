@@ -1,0 +1,12 @@
+000	10	0.1936	Les commerçants avaient baissé leurs épaisses grilles en fer, sans parvenir à masquer les fenêtres brisées jusque dans les étages.
+001	10	0.2827	Les quelques hôtels encore en activité avaient reçu ordre de ne pas héberger la poignée d’étrangers arrivés à Xiahe après un éprouvant jeu de cache - cache avec les multiples barrages de police déployés autour de la ville.
+002	10	0.2477	Les habitants n’osaient engager la conversation, si ce n’est pour lâcher de brefs commentaires: "vous venez d’arriver?
+003	10	0.2373	Eh bien vous feriez mieux de repartir au plus vite".
+004	10	0.1925	Le bilan reste flou... Les troupes de la police militaire se sont mobilisées en un rien de temps, Xiahe s’est retrouvée quadrillée par un imposant déploiement de forces, et la manifestation de samedi a été dispersée à coups de gaz lacrymogènes.
+005	10	0.3354	Sur place, le bilan des deux jours de manifestations reste flou, mais la communauté tibétaine locale parle de plusieurs blessés, et de 7 à 30 arrestations.
+006	10	0.1912	Les moines de Xiahe vénèrent le Dalai Lama, et n’hésitent pas à le clamer haut et fort: "des photos du Dalai Lama, évidemment que nous en avons!".
+007	10	0.2132	Les moines de Xiahe ne se réclament pourtant pas anti - chinois: "avec les Chinois, nous n’avons pas de problème, mais c’est le gouvernement qui ne va pas", assène l’un d’entre eux.
+008	10	0.2794	D’où les manifestations.
+009	10	0.2350	Les JO de Pékin: une occasion rêvée Mais pourquoi maintenant?
+010	10	0.2744	Dans moins de cinq mois, la Chine accueillera les Jeux Olympiques, et ce grand événement sportif, conçu comme une ode à la gloire de son développement et de son modernisme, place le régime de Pékin sous l’œil attentif de la communauté internationale.
+011	10	0.2507	On est certes loin du bilan des révoltes de 1959, qui avaient entraîné l’exil du Dalai Lama en Inde, ou même de celui des émeutes de 1989, réprimées dans le sang par Hu Jintao, l’actuel Président chinois alors gouverneur de la province du Tibet.

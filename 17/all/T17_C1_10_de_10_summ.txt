@@ -1,0 +1,5 @@
+000	10	0.3631	Après avoir pensé réduire le nombre d'heures d'enseignements hebdomadaires à 27 - ce qui avait provoqué le départ des négociations du SNES, syndicat majoritaire - il propose finalement une formule qui en propose 30.
+001	10	0.4302	C'est là qu'intervient la fameuse "autonomie des établissements": aux principaux et à leur entourage de trouver la meilleure façon de rentabiliser ces heures.
+002	10	0.4038	- Plus de choix: en plus des enseignements généraux (21 heures par semaine, avec du français, des maths, de l'histoire - géographie et de l'éducation civique, de l'EPS, des sciences expérimentales et deux langues vivantes), les lycéens choisiront des disciplines dites d' "exploration et d'approfondissement".
+003	10	0.4871	Les modules d' "exploration et d'approfondissement" concernent de nombreuses disciplines.
+004	10	0.3606	En technologies: initiation aux sciences de l'ingénieur et de la production, initiation aux sciences médico - sociales, techniques d'atelier et de laboratoire, design, initiation aux technologies de l'hôtellerie et de la restauration, activités physiques et sportives.

@@ -1,0 +1,23 @@
+000	01	0.3608	Marie Humbert, qui avait bénéficié d'un non - lieu après avoir aidé son fils tétraplégique à mourir en 2003, en a appelé mercredi à Carla Sarkozy pour obtenir un droit à l'euthanasie «strictement encadré».
+001	01	0.3455	Elle invite les Français «à écrire à la première dame, en espérant qu'une femme et qu'une mère saura mieux comprendre les souffrances inutiles infligées à des patients qui ne le souhaitent pas».
+000	02	0.2955	Son principe de départ est l’opposition «à toute obstination thérapeutique».
+000	03	0.3283	En attendant, ce décès annoncé a relancé en France le débat brûlant sur la fin de vie.
+001	03	0.3191	Dans le cas d’un malade en « phase avancée ou terminale d’une affection grave et incurable », les praticiens ne peuvent que stopper le traitement et attendre que le patient périsse, tout en lui administrant des antidouleurs pour soulager ses ultimes souffrances.
+002	03	0.3492	Bénéficiant de la loi Leonetti, leur fils de vingt - huit ans, plongé depuis huit ans dans un coma végétatif irréversible, a été « débranché » de la sonde qui le nourrissait.
+003	03	0.3199	Il appelle désormais à aller plus loin, en s’inspirant des législations des pays avoisinants.
+000	04	0.2750	La loi votée en 2005 à l'unanimité instaurait un droit au "laisser mourir" mais pas à l'euthanasie active.
+000	05	0.2857	Est - ce moralement satisfaisant?
+001	05	0.4162	Regardant du côté de la Belgique, "où l'euthanasie fermement encadrée est légalisée depuis cinq ans", il évoque les 495 cas autorisés l'an dernier.
+000	06	0.3106	CE QUE L'EMOTION EMPECHE DE VOIR Son visage déformé par une tumeur évolutive des sinus a bouleversé le pays.
+001	06	0.3009	Sans compter que les équipes partaient avec un handicap lourd.
+002	06	0.4387	Manque d'argent En mars 2007, la psychologue s'était rendue en Haute - Normandie, qui figure parmi les six régions de France où la mortalité est la plus élevée.
+003	06	0.3626	Par conséquent, on les retrouve en cancérologie, en médecine ou en chirurgie, mais ils font cruellement défaut... en gériatrie, là où on en aurait le plus besoin!
+004	06	0.3106	Beaucoup ignorent encore ce que la loi leur permet défaire.
+005	06	0.3506	Son médecin traitant l'a bien compris, en lui permettant dès le mois de janvier de rencontrer des journalistes de France 3 Bourgogne.
+000	07	0.3359	Nadine Morano, nommée hier secrétaire d'Etat à la famille, s'est dite elle aussi favorable à l'euthanasie.
+001	07	0.3394	«Il faut aller plus loin» que la loi Léonetti, «en s'inspirant des législations des pays avoisinants», a - t - il souligné.
+000	08	0.3278	"Nous avons une loi qui est assez équilibrée", la loi Leonetti, "qui n’a pas étécomplètement appliquée", a poursuivi l’archevêque de Paris, en soulignant que, "par définition, les exceptions ne sont pas la loi".
+000	09	0.3228	Pourquoi ?
+001	09	0.4560	Ainsi du drame de la famille Pierra dont le fils Hervé, plongé dans un coma végétatif irréversible, est décédé après le retrait de sa sonde alimentaire et une agonie de six jours (1).
+002	09	0.4390	Sa "formule d'exception" consisterait, "chaque fois qu'un malade entre dans le champ de la loi du 22 avril 2005 mais ne peut bénéficier de ses dispositions (dans la mesure où sa survie ne dépendrait pas encore d'un traitement que l'on pourrait interrompre), à permettre à celui - ci de saisir une haute autorité morale", comme il l'écrit dans une tribune au Monde daté du 19 mars.
+000	10	0.2623	La ministre de la Justice s'est dite opposée ce jeudi à une législation autorisant cette pratique.

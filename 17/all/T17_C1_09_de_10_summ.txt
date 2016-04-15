@@ -1,0 +1,4 @@
+000	09	0.4152	"La demande est énorme, surtout en maths et en physique" Comme souvent, le lancement soudain du programme « Lycée de la réussite » a pris de court les établissements, mais le succès rencontré n’a pas surpris le proviseur.
+001	09	0.3517	» La réforme Darcos du lycée reste pour l’instant très évasive sur les modalités de l’accompagnement des élèves.
+002	09	0.4226	» Les animateurs du courant pédagogique voient pour leur part avec amertume revenir un thème qui était au cœur des expériences innovantes.
+003	09	0.3460	« Voilà quinze ans qu’on dénigre les “pédagos”, soupire Gabriel Cohn - Bendit, ancien responsable du lycée expérimental de Saint - Nazaire (Loire - Atlantique).

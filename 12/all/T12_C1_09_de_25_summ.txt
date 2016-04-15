@@ -1,0 +1,3 @@
+000	09	0.3302	Une information que Maître Teitgen a de nouveau démentie à LEXPRESS.
+001	09	0.2959	TF1 avait annoncé la semaine dernière le remplacement de Patrick Poivre d'Arvor à la présentation du journal télévisé de 20h par Laurence Ferrari.
+002	09	0.4205	Le groupe audiovisuel privé lui a proposé le poste de directeur délégué de l'information, avec la responsabilité des magazines de l'information, de l'organisation des opérations spéciales et du pilotage de la réforme des éditions des journaux du groupe TF1.

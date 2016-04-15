@@ -1,0 +1,6 @@
+000	03	0.2543	La présence de son épouse à la cérémonie de vendredi a été interprétée comme une tentative de l'Elysée de calmer les esprits.
+001	03	0.2234	Reporters sans frontières a déploré une "mascarade".
+002	03	0.2194	ASSIS DANS L'HERBE, SOUS LA PLUIE Vendredi, seuls quelques dizaines d'adeptes ont pu assister à la cérémonie à l'intérieur du bâtiment.
+003	03	0.2269	Carla Bruni - Sarkozy s'est entretenue avec lui à huis clos, avant d'être rejointe par Bernard Kouchner et Rama Yade, premières personnalités du gouvernement à rencontrer le dalaï - lama lors de son séjour.
+004	03	0.2602	"Je lui ai dit qu'il était toujours le bienvenu en France", a dit Bernard Kouchner à la presse juste en montant dans sa voiture.
+005	03	0.3274	Le lauréat du prix Nobel de la paix 1989 a aussi rencontré des personnalités comme la présidente socialiste de Poitou - Charentes Ségolène Royal et le maire PS de Nantes Jean - Marc Ayrault.

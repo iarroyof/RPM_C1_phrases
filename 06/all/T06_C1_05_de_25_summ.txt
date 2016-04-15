@@ -1,0 +1,4 @@
+000	05	0.2866	Sous les yeux du monde entier, la cérémonie d’ouverture de ses Jeux a offert un spectacle grandiose de prouesses techniques et de performances humaines.
+001	05	0.3193	Avec tout ça, le spectacle du cinéaste Zhang Yimou ne pouvait être que réussi.
+002	05	0.3325	Un grand mystère plane néanmoins sur cette prestation: la diffusion d’un son de cornemuses, entendu jusqu’à la fin du spectacle.
+003	05	0.3446	Restait alors la levée du drapeau olympique, les serments des athlètes (par la pongiste Zhang Yining) et l’allumage spectaculaire de la vasque par l’ancien gymnaste chinois Li Ning, suspendu dans le ciel pékinois par un filin.

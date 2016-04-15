@@ -1,0 +1,7 @@
+000	09	0.3228	Pourquoi ?
+001	09	0.4560	Ainsi du drame de la famille Pierra dont le fils Hervé, plongé dans un coma végétatif irréversible, est décédé après le retrait de sa sonde alimentaire et une agonie de six jours (1).
+002	09	0.3079	"Les équipes médicales se trouvent alors dans une situation très délicate", estime le député, pour qui la transgression pourrait en ce cas être assumée collectivement par une équipe qui, au final, ne serait pas poursuivie, compte tenu des circonstances exceptionnelles.
+003	09	0.2971	"Cette approche permet un traitement au cas par cas avec l'avantage de ne pas dépénaliser l'euthanasie et l'acte de tuer", fait observer Jean Leonetti.
+004	09	0.3081	Kouchner et Morano réclament une exception d'euthanasie Pour le député socialiste de la Nièvre, Gaëtan Gorce, l'exception d'euthanasie prendrait une autre forme.
+005	09	0.4390	Sa "formule d'exception" consisterait, "chaque fois qu'un malade entre dans le champ de la loi du 22 avril 2005 mais ne peut bénéficier de ses dispositions (dans la mesure où sa survie ne dépendrait pas encore d'un traitement que l'on pourrait interrompre), à permettre à celui - ci de saisir une haute autorité morale", comme il l'écrit dans une tribune au Monde daté du 19 mars.
+006	09	0.3154	Prudente, la chancellerie ne s'est pas prononcée, jeudi, sur une éventuelle modification de la loi, disant "attendre" l'évaluation de la loi actuelle.

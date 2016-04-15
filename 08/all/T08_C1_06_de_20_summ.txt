@@ -1,0 +1,3 @@
+000	06	0.3009	Alors que le Tour de France 2009 sera dévoilé aujourd’hui, l’idée d’un partage du calendrier entre Lance Armstrong (Giro) et Alberto Contador (Grande Boucle) se dessine peu à peu.
+001	06	0.3101	Si Alberto Contador ne doit pas le disputer, en revanche, Lance Armsrong, lui, sera bel et bien présent au Giro.
+002	06	0.5383	Une fois qu’on a le physique et le mental, tout peut arriver." Pour son grand retour à la compétition, le septuple vainqueur du Tour de France, dont le parcours sera dévoilé ce matin, pourrait ainsi ne disputer que le Giro, tandis que Aberto Contador, qui restera chez Astana en 2009, roulerait sur la Grand Boucle.

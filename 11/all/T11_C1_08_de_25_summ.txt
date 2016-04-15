@@ -1,0 +1,3 @@
+000	08	0.2503	Les premiers pas d'Obama à la Maison Blanche USA - Le président élu a été reçu par George W. Bush, ce lundi, pour leurs premiers entretiens de cette période de transition... Barack Obama n'est pas encore du bon côté du bureau ovale, mais il était à la Maison Blanche lundi.
+001	08	0.2652	George W. Bush l'a reçu pour leurs premiers entretiens approfondis en cette délicate période de transition.
+002	08	0.3036	Le souvenir de 2004 Nul doute que, cette fois, George W. Bush s'est abstenu de se passer les mains au savon hygiénique après avoir serré celle de Barack Obama.

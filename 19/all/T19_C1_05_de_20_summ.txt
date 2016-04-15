@@ -1,0 +1,4 @@
+000	05	0.3132	Il devra s'inscrire dans le cadre des initiatives coordonnées au niveau de l'Union européenne qui seront examinées par les ministres des Finances des 27 à Bruxelles mardi.
+001	05	0.3149	L'idée est "d'aider ceux qui se trouvent momentanément en difficulté, privés d'emplois, à faire une formation nouvelle, à se réorienter vers de nouveaux emplois", a - t - il expliqué.
+002	05	0.2967	Dans ce cas, les 20 milliards d'euros évoqués comprendraient donc le coût de dispositifs déjà connus.
+003	05	0.3343	Outre cette prime, le Premier ministre a affirmé qu'il y aurait "d'autres mesures dans ce sens, et en particulier des mesures très fortes pour ceux qui risquent d'être frappés par le chômage".

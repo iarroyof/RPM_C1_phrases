@@ -1,0 +1,4 @@
+000	06	0.3507	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
+001	06	0.2428	"Je veux rester prudente car ce n'est pas encore consolidé.
+002	06	0.3109	"J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
+003	06	0.2648	Je ne dirai rien là - dessus", a - t - elle expliqué, nourrissant les spéculations, alors que la rumeur lui a déjà prêté plusieurs aventures sentimentales.

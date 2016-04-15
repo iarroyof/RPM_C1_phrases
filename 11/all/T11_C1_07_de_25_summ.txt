@@ -1,0 +1,7 @@
+000	07	0.3039	"Obama a gagné les primaires, les Clinton la transition" Barack Obama a été reçu ce lundi par le président sortant, George W. Bush, pour faire le tour du propriétaire et commencer à préparer la transition qu'il espère "douce et efficace".
+001	07	0.2636	(voir la vidéo) L'équipe d'Obama se prépare maintenant fébrilement à prendre les commandes le 20 janvier.
+002	07	0.2611	L'équipe de transition est en train de se mettre en place.
+003	07	0.3175	Pour ceux qui la rejoignent, après avoir fait campagne sans compter leur temps pendant des semaines, c'est une période à la fois excitante et périlleuse qui s'ouvre: chaque expert qui ambitionne de rejoindre la Maison blanche ou une des grandes administrations fédérales, essaye de se placer, exploitant les moindres recoins de son réseau, et prenant garde à ne pas être doublé par d'autres.
+004	07	0.2622	C'est un proche ami du couple, John Podesta, qui co - dirigera l'équipe.
+005	07	0.2916	Susan Rice, conseillère en politique étrangère d'Obama, a également travaillé à la Maison blanche et au Département d'Etat dans les années 90.
+006	07	0.2671	Ils ont un souvenir douloureux de la transition de 1992, qui a avait tourné au désastre, donnant aux premiers mois du mandat des airs pour le moins chaotiques.

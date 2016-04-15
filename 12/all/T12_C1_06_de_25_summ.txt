@@ -1,0 +1,4 @@
+000	06	0.3562	Le champagne et les petits fours étaient commandés depuis longtemps.
+001	06	0.3090	Mais Patrick Poivre d'Arvor, l'icône déchue du 20 heures de TF1, n'imaginait pas qu'il servirait à « fêter » son éviction surprise du JT, lui qui se donnait jusqu'en 2 012 pour passer la main.
+002	06	0.2883	L'information, que la direction de TF1 se refuse toujours à commenter, était omniprésente dans les esprits quand Poivre d'Arvor a pris la parole, pour rendre hommage « à tous ceux qui se battent en permanence ».
+003	06	0.3401	Un journaliste usé, à 60 ans, par 21 ans de présentation de JT ?

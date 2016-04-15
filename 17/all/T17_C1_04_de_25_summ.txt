@@ -1,0 +1,3 @@
+000	04	0.3044	Lycées - La réforme de tous les dangers Les lobbys des disciplines et les syndicats se font plus pressants à mesure que la réforme du lycée se précise.
+001	04	0.3209	Normalement, dès l'an prochain, les élèves de seconde n'auront cours que 27 heures par semaine (contre 28 à 35 heures aujourd'hui).
+002	04	0.3885	Ces heures se partageront entre enseignements « obligatoires », enseignements d' « exploration » et d' « accompagnement ».

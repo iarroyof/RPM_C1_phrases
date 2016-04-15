@@ -1,0 +1,3 @@
+000	01	0.3126	Elle l'a elle - même confirmée mercredi.
+001	01	0.2889	Mais sur ce point, Rachida Dati reste muette.
+002	01	0.2810	Nicolas Sarkozy se réjouit d'ailleurs pour celle qui fut longtemps sa protégée.

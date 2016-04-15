@@ -1,0 +1,6 @@
+000	03	0.2453	Sa création est contestée par la Ligue des droits de l'homme et par le premier syndicat d'éducateurs de la protection judiciaire de la jeunesse.
+001	03	0.3047	Réaction d'Alex Türk, président de la Cnil (Commission nationale de l'informatique et des libertés).
+002	03	0.2266	La Cnil a émis des réserves sur ce fichier, pourquoi ?
+003	03	0.2329	Estimez - vous que nous arrivons à un excès de fichage ?
+004	03	0.2943	C'est juste une adaptation au nouveau système de renseignements, à la fusion des RG et de la DST.
+005	03	0.2361	Nous serons également vigilants sur la sécurité du système.

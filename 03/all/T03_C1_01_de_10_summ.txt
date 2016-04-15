@@ -1,0 +1,6 @@
+000	01	0.3016	Des craintes qui sont montées d'un cran ces derniers jours.
+001	01	0.3089	Mais légère pour le cas d'école, pour l'instant improbable, de la déconfiture d'une grosse pointure.
+002	01	0.3165	Par contre, cela bloque pour les crédits - relais.
+003	01	0.3129	Certains sont piégés par des formules particulièrement vicieuses.
+004	01	0.2855	En février, la Banque de France avait pointé la gourmandise de banques, en train de reconstituer leurs marges, qui poussaient sans raison leurs taux vers le haut.
+005	01	0.2852	Avec la crise, suppute l'Afub, «les banques vont renforcer encore leurs ententes».

@@ -1,0 +1,7 @@
+000	07	0.3265	Les mineurs qui ont commis une infraction sont déjà répertoriés à la fois dans le Système de traitement des infractions constastées (STIC) et dans le Fichier national automatisé des empreintes génétiques.
+001	07	0.2523	Mon soucis se situe plutôt au niveau de l'objectivité de ce critère.
+002	07	0.2741	Quels dangers présente ce critère de fichage ?
+003	07	0.3453	Il faudrait que le fichage soit déterminé par des critères objectifs et que ce processus soit encadré, or cela ne semble pas être le cas.
+004	07	0.2710	Je ne veux pas minimiser les actes délictueux qui sont inacceptables, mais c'est inquiétant d'envisager que des mineurs pourront être fichés parce qu'on leur prête de mauvaises intentions ou à cause de leurs fréquentations.
+005	07	0.3224	Ce n'est pas parce que des jeunes sont en bandes qu'ils vont commettre une infraction: il ne faut pas confondre les bandes de jeunes dans les cités et les bandes de délinquance organisée.
+006	07	0.2556	Nous souhaitons mener une réflexion de fond commune avec la CNIL sur le sujet du fichage des mineurs afin de trouver un cadre qui soit acceptable et objectif.

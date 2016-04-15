@@ -1,0 +1,5 @@
+000	04	0.3691	Congrès du PS : Royal devance Delanoë L'ex - candidate à la présidentielle se trouve avec 29% des voix en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
+001	04	0.2907	Favori des sympathisants, selon les sondages, et appuyé par une grande partie des cadres et élus socialistes, Bertrand Delanoë a été devancé de quatre points par l'ex - candidate à la présidentielle de 2007 qui, avec 29% des suffrages, se trouve ainsi en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
+002	04	0.3348	Le "pôle écologique" et "Utopia" obtiennent "autour de 1,50% à 2%".
+003	04	0.3180	Partisan de Martine Aubry, le député Jean - Christophe Cambadélis parle de "coup de tonnerre sur l'appareil du parti", "du jamais vu".
+004	04	0.3865	"Ségolène Royal a la responsabilité de rechercher avec nous la plus grande unité du PS", a déclaré M. Rebsamen.

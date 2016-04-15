@@ -1,0 +1,4 @@
+000	03	0.3054	Alors qu’il vient de s’engager à disputer le Tour d’Italie, en mai 2009, l’Américain émet des doutes sur sa présence même au départ du Tour 2009, en juillet.
+001	03	0.2683	A - t - il brutalement pris conscience de la difficulté de son pari à 37 ans?
+002	03	0.2200	Tout est possible mais je trouverais cela incroyable.
+003	03	0.2346	J’espère qu’il y aura une solution diplomatique et pacifique.

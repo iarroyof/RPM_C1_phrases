@@ -1,0 +1,10 @@
+000	01	0.3303	La seule information demeurée vraiment secrète reste l'identité du dernier porteur de la flamme.
+000	02	0.3434	Cela n'a pas empêché la délégation des athlètes français d'essuyer quelques sifflets isolés parmi les applaudissements, les premiers de la cérémonie d'ouverture des Jeux.
+000	03	0.3786	Les médias officiels l’ont confirmé : lors de l’inauguration des JO à Pékin, les images du spectacle des traces de pas géantes dans le ciel qui reliaient la porte de Yongdingmen au Nid d’oiseau n’étaient pas diffusées en direct, tant sur l’écran géant situé dans le stade qu’à la télévision : ce sont les images de 3D tournées un an auparavant.
+000	04	0.3353	Tous ces incidents, mineurs assurément, en disent long, malgré tout, sur le rapport à la vérité.
+000	05	0.3446	Restait alors la levée du drapeau olympique, les serments des athlètes (par la pongiste Zhang Yining) et l’allumage spectaculaire de la vasque par l’ancien gymnaste chinois Li Ning, suspendu dans le ciel pékinois par un filin.
+000	06	0.2634	Jetsum Pema, soeur du dalaï lama, était "l'invitée d'honneur" de l'association organisatrice.
+000	07	0.3243	La délégation française a reçu un accueil mitigé avec quelques sifflets isolés.
+000	08	0.3765	Les actes de protestation se sont d'ailleurs multipliés dans le monde vendredi: piratage par RSF d'une fréquence FM à Pékin pour évoquer la liberté d'expression en Chine, veillées et manifestations dans de nombreux pays, lettre ouverte envoyée par une centaine d'athlètes à Hu Jintao.
+000	09	0.3603	Histoire avec un grand "H" d'ailleurs, si l'on considère la profusion d'effets et de lumières entourant la manifestation, d'une force visuelle il est vrai sidérante.
+000	10	0.3796	La part d'audience de France 2 s'est établie à 48,2%, plaçant ainsi la chaîne largement en tête des audiences.

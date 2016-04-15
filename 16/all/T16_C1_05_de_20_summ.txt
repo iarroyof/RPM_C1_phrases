@@ -1,0 +1,4 @@
+000	05	0.3690	C'est la première fois que l'USM est en contact direct avec Sarkozy, signe du caractère exceptionnel de la situation et de la montée des difficultés qui s'accumulent autour de Rachida Dati.
+001	05	0.3858	» Jouer l'apaisement Une bienveillance qui étonne dans le contexte actuel, surtout après la libération par erreur d'un violeur récidiviste dans la nuit de jeudi dernier.
+002	05	0.2919	Au lieu de confirmer le maintien en détention, la Chambre d'instruction de la cour d'appel de Paris, par suite d'une erreur d'écriture du greffier, a infirmé le jugement.
+003	05	0.3614	En voyage officiel en Chine, le président de la République a demandé dès vendredi au parquet général de saisir la cour d'appel de Paris pour une « requête en rectification d'erreur matérielle ».

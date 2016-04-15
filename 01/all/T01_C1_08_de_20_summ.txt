@@ -1,0 +1,8 @@
+000	08	0.3160	Elle a descendu seule, lentement, la passerelle de l'avion présidentiel.
+001	08	0.2761	"Cette opération extraordinaire, parfaite de l'armée colombienne" qui a permis de la délivrer "est aussi le produit de votre lutte", a déclaré Ingrid Betancourt, en s'adressant aux Français qui l'ont soutenue et qui lui ont "sauvé la vie".
+002	08	0.2736	L'ex - otage a rappelé que le gouvernement colombien avait au début de sa captivité tenté une libération d'otages par la force, qui s'était soldée par la mort de deux d'entre eux.
+003	08	0.3753	"Nous savions, nous qui étions dans cette même situation (...) qu'avec un scénario comme celui là, nous n'avions aucune chance de survie", a - t - elle expliqué.
+004	08	0.2696	Après l'arrivée à Villacoublay, Ingrid Betancourt s'est rendue à l'Elysée en compagnie du couple présidentiel.
+005	08	0.2596	"Je marchais avec un chapeau sur la tête parce que toutes sortes de choses vous tombent sur la tête", a - t - elle encore rapporté, évoquant notamment "fourmis", "bestioles", "poux", "tiques".
+006	08	0.3802	"Un état de santé satisfaisant" Le médecin - chef de l'Elysée, Christophe Fernandez, qui se trouvait dans la délégation, a déjà brièvement examiné l'ex - otage, âgée de 46 ans.
+007	08	0.4119	Depuis sa libération, l'ex - otage est apparue rayonnante et pleine d'énergie, multipliant les interviews, alors qu'elle a expliqué avoir été gravement malade durant certaines parties de sa détention.

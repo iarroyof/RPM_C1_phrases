@@ -1,0 +1,3 @@
+000	05	0.2998	Les pleurs de l'enfant abandonné Ce garçonnet a été trouvé le 5 août, sur une esplanade de la cité de Fonscolombes, au nord de Marseille.
+001	05	0.3056	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il a été remarqué par des passants qui l'ont confié à la police.
+002	05	0.4358	Pour éclaircir le mystère, le parquet a décidé en début de semaine de lancer un appel à témoins, relayé dans la presse.

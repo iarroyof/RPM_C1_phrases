@@ -1,0 +1,4 @@
+000	04	0.3529	Nicolas Sarkozy a réuni mardi à l'Elysée les principaux banquiers et assureurs français, s'engageant à des mesures pour le "financement" de l'économie, alors que la tempête financière contraint pour la première fois Paris à intervenir, en volant au secours du franco - belge Dexia.
+001	04	0.3607	Lors d'une réunion de crise à "5h00 du matin" en présence de M. Fillon, Noyer et Musca et de Mme Lagarde, Nicolas Sarkozy a décidé de donner son feu vert au plan de sauvetage de Dexia, concocté dans l'urgence avec les autorités belges et luxembourgeoises.
+002	04	0.2604	Selon le schéma retenu, la Belgique et la France doivent chacune mettre 3 milliards d'euros au pot pour sauver la banque des collectivités locales.
+003	04	0.2423	Ségolène Royal (PS) a estimé qu'il n'était "plus temps de tergiverser" et François Bayrou a dénoncé la politique "massivement erronée" de Nicolas Sarkozy.

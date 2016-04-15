@@ -1,0 +1,3 @@
+000	05	0.3586	Timothy Geithner, président de la Réserve fédérale de New York, Lawrence Summers et Paul Volcker figurent parmi les personnalités envisagées pour le poste.
+001	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
+002	05	0.3355	James Steinberg, ancien conseiller de Clinton, est favori pour accéder au poste de conseiller à la sécurité nationale mais Susan Rice, elle aussi issue de l'administration de l'ancien président démocrate, pourrait aussi briguer cette fonction.

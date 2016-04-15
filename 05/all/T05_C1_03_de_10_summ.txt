@@ -1,0 +1,2 @@
+000	03	0.3047	Réaction d'Alex Türk, président de la Cnil (Commission nationale de l'informatique et des libertés).
+001	03	0.2943	C'est juste une adaptation au nouveau système de renseignements, à la fusion des RG et de la DST.

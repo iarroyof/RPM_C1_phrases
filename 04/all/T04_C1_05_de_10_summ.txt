@@ -1,0 +1,2 @@
+000	05	0.3380	Aucune rencontre n'est prévue avec Nicolas Sarkozy.
+001	05	0.3056	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.

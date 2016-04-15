@@ -1,0 +1,2 @@
+000	03	0.3283	En attendant, ce décès annoncé a relancé en France le débat brûlant sur la fin de vie.
+001	03	0.3492	Bénéficiant de la loi Leonetti, leur fils de vingt - huit ans, plongé depuis huit ans dans un coma végétatif irréversible, a été « débranché » de la sonde qui le nourrissait.

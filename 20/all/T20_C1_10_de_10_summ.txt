@@ -1,0 +1,5 @@
+000	10	0.2827	Les quelques hôtels encore en activité avaient reçu ordre de ne pas héberger la poignée d’étrangers arrivés à Xiahe après un éprouvant jeu de cache - cache avec les multiples barrages de police déployés autour de la ville.
+001	10	0.3354	Sur place, le bilan des deux jours de manifestations reste flou, mais la communauté tibétaine locale parle de plusieurs blessés, et de 7 à 30 arrestations.
+002	10	0.2794	D’où les manifestations.
+003	10	0.2744	Dans moins de cinq mois, la Chine accueillera les Jeux Olympiques, et ce grand événement sportif, conçu comme une ode à la gloire de son développement et de son modernisme, place le régime de Pékin sous l’œil attentif de la communauté internationale.
+004	10	0.2507	On est certes loin du bilan des révoltes de 1959, qui avaient entraîné l’exil du Dalai Lama en Inde, ou même de celui des émeutes de 1989, réprimées dans le sang par Hu Jintao, l’actuel Président chinois alors gouverneur de la province du Tibet.

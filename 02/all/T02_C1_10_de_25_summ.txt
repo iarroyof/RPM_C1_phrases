@@ -1,0 +1,5 @@
+000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
+001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+002	10	0.2511	Le débouclage des opérations débute le 15 octobre et s’achève le 17 octobre.
+003	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.
+004	10	0.2963	Ce qui justifie l'annonce de Bercy de débloquer en urgence 10,5 milliards d’euros pour les banques.

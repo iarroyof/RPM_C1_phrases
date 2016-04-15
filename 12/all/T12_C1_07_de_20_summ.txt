@@ -1,0 +1,4 @@
+000	07	0.3404	Démentant que le chef de l'Etat ait pu peser sur le départ annoncé de Patrick Poivre d'Arvor de TF1, Dominique Paillé, porte - parole de l'UMP a déclaré, mardi 10 juin, que Nicolas Sarkozy avait "d'autres chats à fouetter que de se préoccuper de qui doit ou ne doit pas présenter le 20h d'une chaîne privée".
+001	07	0.4824	De nombreux médias ont annoncé le départ de Patrick Poivre d'Arvor de la présentation du journal de TF1, mais la direction de la chaîne ne l'a pas confirmé.
+002	07	0.4447	"Les rumeurs qu'on essaie de distiller sont infondées", a - t - il assuré.
+003	07	0.3742	Il a rappelé l'"épisode" qui l'a opposé à Martin Bouygues, PDG du groupe TF1, il y a un an.

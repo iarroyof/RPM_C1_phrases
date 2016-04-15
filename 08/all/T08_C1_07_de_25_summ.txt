@@ -1,0 +1,2 @@
+000	07	0.4295	Lance Armstrong refuse de nouvelles analyses anti - dopage Le septuple vainqueur du Tour de France, qui a annoncé son retour à la compétition en 2009, refuse que les échantillons prélevés pendant le Tour de France 1999 soient de nouveau analysés, arguant qu'il "n'ont pas été conservés correctement".
+001	07	0.3374	Le laboratoire français antidopage de Châtenay - Malabry (LNDD) avait procédé à une analyse d'échantillons contenant de l'EPO dont six ont été attribués par le journal au coureur américain.

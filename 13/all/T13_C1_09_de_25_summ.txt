@@ -1,0 +1,3 @@
+000	09	0.2106	Quand le Cambodge et la Thaïlande se disputent un temple Le temple de Preah Vihear, situé à la frontière entre le Cambodge et la Thaïlande, a été inscrit sur la liste du Patrimoine mondial de l'Unesco.
+001	09	0.2815	Dernier rebondissement du litige qui oppose les deux pays au sujet de ce site.
+002	09	0.1997	Le Comité encourage donc le Cambodge et la Thaïlande à collaborer pour obtenir une nouvelle "inscription transfrontalière" de l'ensemble, afin que la conservation de ce site d'une "valeur exceptionnelle" soit assurée.

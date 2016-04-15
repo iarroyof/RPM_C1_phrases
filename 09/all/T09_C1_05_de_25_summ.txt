@@ -1,0 +1,5 @@
+000	05	0.2762	Didier Pobel, dans Le Dauphiné Libéré, pense que le moment est mal choisi pour répondre à une telle question: "Comment poser à froid des éléments législatifs déterminants à partir d'une aussi brûlante émotion?", demande - t - il.
+001	05	0.2846	L'émotion n'est pas compatible avec la réflexion".
+002	05	0.2857	Est - ce moralement satisfaisant?
+003	05	0.4162	Regardant du côté de la Belgique, "où l'euthanasie fermement encadrée est légalisée depuis cinq ans", il évoque les 495 cas autorisés l'an dernier.
+004	05	0.2601	"Quatre cent quatre - vingt - quinze exceptions?

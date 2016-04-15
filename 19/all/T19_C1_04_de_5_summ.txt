@@ -1,0 +1,2 @@
+000	04	0.3835	Pour les autres territoires, l'exécutif veut établir un « CTP de base », mais il doit pour cela négocier avec l'Unedic, qui gère et finance le dispositif actuel (CRP).
+001	04	0.3669	D'autres pistes sont également à l'étude, comme un assouplissement des recours au CDD et une refonte de l'indemnisation du chômage technique (en pleine recrudescence).

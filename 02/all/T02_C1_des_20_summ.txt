@@ -1,0 +1,35 @@
+000	01	0.2607	Vendredi matin, le groupe Caisse d’Epargne a annoncé avoir perdu 600 millions d’euros en raison d’un «incident de marché dans l’activité dérivés actions», du fait de «l’extrême volatilité des marchés et du krach boursier de la semaine du 6 octobre» .
+001	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
+002	01	0.2645	Et, selon l’AFP, le directeur financier de la CNCE devrait démissionner.
+003	01	0.2987	Le président du directoire de la CNCE aura - t - il le loisir d’annoncer son retrait une fois la fusion avec les Banques Populaires accomplie?
+000	02	0.3017	Le parquet de Paris avait ouvert une enquête préliminaire vendredi 24 octobre afin de «déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales».
+001	02	0.2289	Suite à des recherches menées par les services de l'inspection et de la déontologie de la Caisse nationale des Caisses d'épargne et de prévoyance (CNCE), la banque avait constaté des «éléments troublants» concernant les conditions de réalisation des opérations qui ont engendré cette perte.
+002	02	0.2424	Vendredi, la plainte déposée par la CNCE faisait référence à une perte de 751 millions d'euros.
+000	03	0.2687	"Elle vise à déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales", a précisé le parquet de Paris.
+001	03	0.3214	"Une stratégie risquée" Le directoire de la Caisse d'Épargne avait décidé en avril dernier de l'arrêt des activités d'investissement pour son compte propre et l'équipe de la salle des marchés de l'Écureuil était censée liquider progressivement son portefeuille d'ici la fin de l'année.
+002	03	0.3530	"Cette stratégie sera renouvelée plusieurs fois au cours du mois et début octobre, y compris sur des montants exceptionnellement élevés", poursuit le document qui souligne que "cette dérive dans la gestion" n'a pas été perçue à temps "du fait d'un nombre important de défaillances du contrôle interne et d'alertes ignorées".
+003	03	0.2725	Des notes qui viennent contredire la version donnée par le numéro deux du groupe, Nicolas Mérindol, après la révélation des pertes.
+000	04	0.2105	La CNCE dans le rouge cette année Dépréciations.
+000	05	0.3972	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
+001	05	0.2662	« J'en accepte néanmoins l'entière responsabilité.
+002	05	0.2528	Ayant consacré ma vie entière aux Caisses d'Épargne, je n'ai pas un instant envisagé de me soustraire aux responsabilités qui sont les miennes », a - t - il ajouté.
+003	05	0.2600	Il a conduit avec détermination la transformation de cette «micheline de l'épargne» en une grande banque universelle à la faveur de diverses opérations de croissance (Crédit Foncier, CDC Ixis puis Natixis).
+004	05	0.2493	Diplômé de l'Ecole normale supérieure, et ancien élève de l'ENA, cet inspecteur des finances a fait ses classes à la direction financière de BNP Paribas.
+005	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
+006	05	0.2461	J'en accepte néanmoins l'entière responsabilité.
+007	05	0.3113	Je suis heureux et fier d'avoir pu y contribuer, au travers de transformations si profondes qu'elles ont, je le sais bien, dérangé beaucoup d'habitudes et de situations acquises.
+008	05	0.2967	De l'affaire Kerviel à «l'incident» de la Caisse d'Epargne: la folie des traders Une affaire Kerviel bis ?
+009	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
+010	05	0.2719	Nicolas Mérindol, jusqu'ici numéro 2 de la Caisse d'Épargne, estime de son côté que les traders emportés par l'emballement du système « ont été pris par la crise ».
+000	06	0.3230	L'emplacement de son domicile et l'éventuelle saisie de documents relatifs à l'affaire n'ont pas été précisés dans l'immédiat.
+001	06	0.2774	Cette garde à vue peut être prolongée jeudi matin de 24 heures supplémentaires.
+000	07	0.2890	Me Cécile Bernaille a pointé également la responsabilité de la banque à travers "la défaillance de ses systèmes de contrôle": "Dans une banque, il semble qu'il y ait un directeur des risques qui surveille".
+001	07	0.2745	Un rapport préliminaire de l'Inspection générale de la Caisse d'Epargne avait déjà pointé une "dérive" dans la gestion des risques ainsi qu'"un nombre important de défaillances" au sein de la banque.
+000	08	0.2618	Avant - hier, la société a fait savoir qu’elle avait été victime d’un incident informatique.
+001	08	0.2490	Interrogée sur l’incident, qu’elle a tenu à minimiser, la Caisse nationale des caisses d’épargne a affirmé que l’erreur devait être réparée hier soir.
+002	08	0.2652	Face aux tourments de l’Ecureuil, reste à savoir si les épargnants décideront d’aller placer leurs noisettes ailleurs.
+000	09	0.0999	﻿Démission des trois dirigeants de la Caisse d'épargne A l’issue d’un conseil de surveillance extraordinaire, qui s’est tenu dimanche, les trois principaux dirigeants de la Caisse d’Epargne, le président Charles Milhaud, le directeur général Nicolas Mérindol et Julien Carmona, en charge des finances et des risques, ont démissionné dimanche, a indiqué à l’ AFP une source proche du dossier.
+000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
+001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+002	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.
+003	10	0.2963	Ce qui justifie l'annonce de Bercy de débloquer en urgence 10,5 milliards d’euros pour les banques.

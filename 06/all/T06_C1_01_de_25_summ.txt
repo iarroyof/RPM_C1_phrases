@@ -1,0 +1,4 @@
+000	01	0.2905	JO: une cérémonie d'ouverture à grand spectacle attendue par le monde entier PÉKIN (AFP) - Tout aux jeux Olympiques de Pékin est à grande échelle et la cérémonie d'ouverture vendredi n'y échappera pas, avec un spectacle de trois heures marqué par l'ouverture au monde, la promotion de la culture chinoise traditionnelle et son inscription dans la modernité.
+001	01	0.2734	La Chine, longtemps réticente aux regards indiscrets de l'étranger, est désormais prête à devenir le centre d'attention d'une audience de plusieurs centaines de millions de téléspectateurs.
+002	01	0.2839	Il a déjà révélé que le spectacle allait porter sur "la longue et ancienne histoire de la nation chinoise".
+003	01	0.3303	La seule information demeurée vraiment secrète reste l'identité du dernier porteur de la flamme.

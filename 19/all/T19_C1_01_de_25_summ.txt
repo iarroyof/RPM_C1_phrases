@@ -1,0 +1,6 @@
+000	01	0.2667	Pour combien de temps ?
+001	01	0.2954	Conciliabule.
+002	01	0.3582	Les mesures que nous avons prises ont permis de stabiliser les choses, on n’en est pas encore sorti mais il faut changer les choses.
+003	01	0.2435	Il faut les changer durablement, structurellement.»
+004	01	0.2376	Agenda.
+005	01	0.2847	Mais son absence à ce sommet n’a pas été prise comme une mauvaise nouvelle par l’Elysée.

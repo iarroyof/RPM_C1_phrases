@@ -1,0 +1,11 @@
+000	01	0.4751	Ferrari recrutée pour son "franc - parler" Laurence Ferrari, qui prendra les rênes du journal télévisé de 20H00 de TF1 à la rentrée, dit avoir été recrutée par la Une pour son franc - parler, dans un entretien à l'hebdomadaire Elle à paraître lundi.
+000	02	0.4844	Jean - Claude Dassier, 66 ans, venu de la chaîne d'informations LCI, fait part de son intention de "rapprocher véritablement" les rédactions de TF1 et de sa filiale, "sans licenciement ni guichet de départ", pour que le groupe TF1 "reste leader sur l'information" et devienne un "média global".
+000	03	0.3279	S’il doit y avoir une mutation, indiquait, confiant, Robert Namias, le patron de l’info de TF1, en février, elle se fera avec eux ».
+001	03	0.3358	Ce proche de Sarkozy aura la tâche de rapprocher les rédactions des chaînes TF1 et LCI.
+000	04	0.4699	En février dernier, le directeur de l'information Robert Namias affirmait que les présentateurs actuels du JT de 20H00, Patrick Poivre d'Arvor et Claire Chazal, "n'étaient absolument pas menacés".
+000	05	0.3302	Les dirigeants de TF1 me l'ont, depuis, fébrilement confirmée, sans me donner la moindre explication sérieuse.
+000	06	0.3562	Le champagne et les petits fours étaient commandés depuis longtemps.
+000	07	0.4824	De nombreux médias ont annoncé le départ de Patrick Poivre d'Arvor de la présentation du journal de TF1, mais la direction de la chaîne ne l'a pas confirmé.
+000	08	0.3938	A l'écran jeudi soir, comme tous les soirs depuis lundi, Patrick Poivre d'Arvor n'a rien laissé paraître, terminant son JT en annonçant aux téléspectateurs qu'il "aurait le plaisir de les retrouver lundi".
+000	09	0.4205	Le groupe audiovisuel privé lui a proposé le poste de directeur délégué de l'information, avec la responsabilité des magazines de l'information, de l'organisation des opérations spéciales et du pilotage de la réforme des éditions des journaux du groupe TF1.
+000	10	0.2798	Après l'annonce de son remplacement à la rentrée prochaine par Laurence Ferrari, le présentateur du 20h aurait décidé de prendre les devants.

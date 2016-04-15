@@ -1,0 +1,2 @@
+000	04	0.3209	Normalement, dès l'an prochain, les élèves de seconde n'auront cours que 27 heures par semaine (contre 28 à 35 heures aujourd'hui).
+001	04	0.3885	Ces heures se partageront entre enseignements « obligatoires », enseignements d' « exploration » et d' « accompagnement ».

@@ -1,0 +1,6 @@
+000	09	0.3500	Bernard Blais a reçu mercredi une demande écrite du ministère lui suggérant vivement de demander un poste d’avocat général à la Cour de Cassation, "dans l’intérêt du service".
+001	09	0.3420	Une procédure normale pour la mutation des magistrats du parquet, dont la nomination intervient en conseil des ministres.
+002	09	0.3219	A l’unanimité, les magistrats de la Cour d’appel d’Agen ont voté une motion pour protester contre ces pressions.
+003	09	0.3067	"On ne veut pas croire qu’il s’agit cette fois de les transformer en fonctionnaires et d’en faire de simples exécutants." De son côté, le ministère de la Justice argue d’une volonté de féminiser et de rajeunir le parquet d’Agen.
+004	09	0.4244	C’est par une magistrate que la chancellerie entendait remplacer Blais.
+005	09	0.2988	Un argumentaire "habile" que réfutent les syndicats.

@@ -1,0 +1,6 @@
+000	05	0.2276	La situation à la frontière entre le Cambodge et la Thaïlande demeure particulièrement tendue, malgré l'ouverture dans la nuit de jeudi à vendredi de négociations avec l'ONU.
+001	05	0.2382	Par précaution, les populations locales ont été déplacées.
+002	05	0.2134	Le ministre cambodgien appelé à une réunion d'urgence du Conseil de sécurité de l'ONU.
+003	05	0.2742	Des diplomates des deux pays ont prévu de se rencontrer lundi matin, et le processus d'apaisement pourrait s'enclencher dans les jours à venir.
+004	05	0.2426	"Il s'agit d'un nouveau pas (effectué) par le Cambodge en vue de trouver une solution pacifique et bilatérale" avec la Thaïlande, a déclaré le ministre cambodgien des affaires étrangères.
+005	05	0.3009	Les troupes resteront mobilisées à la frontière pendant toute la durée des pourparlers.

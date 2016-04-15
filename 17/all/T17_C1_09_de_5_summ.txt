@@ -1,0 +1,2 @@
+000	09	0.4152	"La demande est énorme, surtout en maths et en physique" Comme souvent, le lancement soudain du programme « Lycée de la réussite » a pris de court les établissements, mais le succès rencontré n’a pas surpris le proviseur.
+001	09	0.4226	» Les animateurs du courant pédagogique voient pour leur part avec amertume revenir un thème qui était au cœur des expériences innovantes.

@@ -1,0 +1,45 @@
+000	01	0.2835	Alors que la justice a rejeté la demande d'euthanasie de Chantal Sébire et que Rachida Dati soutient que «la médecine n'est pas là pour administrer des substances létales», le ministre des Affaires étrangères avait souligné mercredi qu'il fallait «permettre» à l'enseignante, défigurée par une tumeur incurable, «de ne pas avoir besoin de se suicider dans une espèce de clandestinité dont ses proches souffriraient».
+001	01	0.3049	La malade devait décéder quelques heures plus tard.
+002	01	0.3608	Marie Humbert, qui avait bénéficié d'un non - lieu après avoir aidé son fils tétraplégique à mourir en 2003, en a appelé mercredi à Carla Sarkozy pour obtenir un droit à l'euthanasie «strictement encadré».
+003	01	0.3455	Elle invite les Français «à écrire à la première dame, en espérant qu'une femme et qu'une mère saura mieux comprendre les souffrances inutiles infligées à des patients qui ne le souhaitent pas».
+000	02	0.2759	A savoir En France, la loi Leonetti Votée en 2005 Adoptée à l’unanimité en 2005, la loi Leonetti, du nom de son rapporteur UMP, fixe les règles de la mort médicalisée.
+001	02	0.2955	Son principe de départ est l’opposition «à toute obstination thérapeutique».
+002	02	0.2845	Le patient a pu écrire des directives, mais le médecin n’est pas obligé de les suivre.
+000	03	0.3045	Faut - il revoir la loi Leonetti ?
+001	03	0.3283	En attendant, ce décès annoncé a relancé en France le débat brûlant sur la fin de vie.
+002	03	0.3191	Dans le cas d’un malade en « phase avancée ou terminale d’une affection grave et incurable », les praticiens ne peuvent que stopper le traitement et attendre que le patient périsse, tout en lui administrant des antidouleurs pour soulager ses ultimes souffrances.
+003	03	0.2903	En revanche, ils n’ont pas le droit de lui injecter une quelconque substance létale.
+004	03	0.3492	Bénéficiant de la loi Leonetti, leur fils de vingt - huit ans, plongé depuis huit ans dans un coma végétatif irréversible, a été « débranché » de la sonde qui le nourrissait.
+005	03	0.3023	Il n’était pas en « fin de vie » et sa mère aurait refusé qu’on le laisse mourir de faim en débranchant sa sonde gastrique.
+006	03	0.3046	Tandis que le porte - parole du gouvernement, Luc Chatel, a estimé hier qu’il fallait « prendre en compte les cas les plus douloureux ».
+007	03	0.3199	Il appelle désormais à aller plus loin, en s’inspirant des législations des pays avoisinants.
+000	04	0.2750	La loi votée en 2005 à l'unanimité instaurait un droit au "laisser mourir" mais pas à l'euthanasie active.
+000	05	0.2762	Didier Pobel, dans Le Dauphiné Libéré, pense que le moment est mal choisi pour répondre à une telle question: "Comment poser à froid des éléments législatifs déterminants à partir d'une aussi brûlante émotion?", demande - t - il.
+001	05	0.2846	L'émotion n'est pas compatible avec la réflexion".
+002	05	0.2857	Est - ce moralement satisfaisant?
+003	05	0.4162	Regardant du côté de la Belgique, "où l'euthanasie fermement encadrée est légalisée depuis cinq ans", il évoque les 495 cas autorisés l'an dernier.
+000	06	0.3106	CE QUE L'EMOTION EMPECHE DE VOIR Son visage déformé par une tumeur évolutive des sinus a bouleversé le pays.
+001	06	0.2834	Elle n'a pas disposé «des moyens techniques» pour vérifier si «les crédits allaient bien à leurs objectifs».
+002	06	0.3009	Sans compter que les équipes partaient avec un handicap lourd.
+003	06	0.4387	Manque d'argent En mars 2007, la psychologue s'était rendue en Haute - Normandie, qui figure parmi les six régions de France où la mortalité est la plus élevée.
+004	06	0.3626	Par conséquent, on les retrouve en cancérologie, en médecine ou en chirurgie, mais ils font cruellement défaut... en gériatrie, là où on en aurait le plus besoin!
+005	06	0.2845	Manque d'argent, sous - effectifs, mais déficit d'information... «La loi Leonetti et les autres textes réglementaires sont insuffisamment connus et compris, remarque avec sévérité l'auteur du best - seller la Mort intime (Robert Laffont).
+006	06	0.3106	Beaucoup ignorent encore ce que la loi leur permet défaire.
+007	06	0.2786	Et d'évoquer ce «déni de la mort» qui, en submergeant toujours le monde médical, serait «en partie responsable de l'hétérogénéité de la culture palliative».
+008	06	0.3506	Son médecin traitant l'a bien compris, en lui permettant dès le mois de janvier de rencontrer des journalistes de France 3 Bourgogne.
+009	06	0.2636	L'association dépêche alors son avocat, qui convainc Chantal Sébire de déposer un recours devant le tribunal.
+010	06	0.2827	Chaque jour, et même plusieurs fois par jour, Jean - Luc Romero téléphone à Chantal, l'encourage, lui prodigue des conseils.
+000	07	0.3045	Le chef de l'Etat «a indiqué qu'il était particulièrement sensible à la souffrance de Mme Sébire et de sa famille ainsi qu'à l'appel qui lui était lancé», selon un comuniqué de l'Elysée.
+001	07	0.3359	Nadine Morano, nommée hier secrétaire d'Etat à la famille, s'est dite elle aussi favorable à l'euthanasie.
+002	07	0.2920	Le député Leonetti - député - maire UMP d'Antibes et rapporteur de la loi votée à l'unanimité en 2005 instaurant un droit au «laisser mourir» mais pas à l'euthanasie active - a vertement répliqué à Bernard Kouchner en se disant «très irrité par (sa) réponse simpliste».
+003	07	0.3394	«Il faut aller plus loin» que la loi Léonetti, «en s'inspirant des législations des pays avoisinants», a - t - il souligné.
+000	08	0.3278	"Nous avons une loi qui est assez équilibrée", la loi Leonetti, "qui n’a pas étécomplètement appliquée", a poursuivi l’archevêque de Paris, en soulignant que, "par définition, les exceptions ne sont pas la loi".
+001	08	0.2598	Elle autorise l’utilisation de sédatifs, de calmants et d’antalgiques à des doses nécessaires pour supprimer toute douleur physique ou morale.
+000	09	0.3228	Pourquoi ?
+001	09	0.4560	Ainsi du drame de la famille Pierra dont le fils Hervé, plongé dans un coma végétatif irréversible, est décédé après le retrait de sa sonde alimentaire et une agonie de six jours (1).
+002	09	0.3081	Kouchner et Morano réclament une exception d'euthanasie Pour le député socialiste de la Nièvre, Gaëtan Gorce, l'exception d'euthanasie prendrait une autre forme.
+003	09	0.4390	Sa "formule d'exception" consisterait, "chaque fois qu'un malade entre dans le champ de la loi du 22 avril 2005 mais ne peut bénéficier de ses dispositions (dans la mesure où sa survie ne dépendrait pas encore d'un traitement que l'on pourrait interrompre), à permettre à celui - ci de saisir une haute autorité morale", comme il l'écrit dans une tribune au Monde daté du 19 mars.
+004	09	0.3154	Prudente, la chancellerie ne s'est pas prononcée, jeudi, sur une éventuelle modification de la loi, disant "attendre" l'évaluation de la loi actuelle.
+000	10	0.2623	La ministre de la Justice s'est dite opposée ce jeudi à une législation autorisant cette pratique.
+001	10	0.2468	Interrogée cejeudi sur France Inter, la ministre de la Justice a déclaré que le juge de Dijon qui statuera le 17 mars ne pouvait que répondre négativement à cette demande, en l'état actuel du droit français.
+002	10	0.2073	Selon elle, la loi Leonetti de 2005 est "assez équilibrée" et il ne faut pas aller plus loin.

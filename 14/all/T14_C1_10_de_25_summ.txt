@@ -1,0 +1,3 @@
+000	10	0.2856	"Tous les éléments dans son texte, dans sa volonté, dans sa démarche nous rapprochent de ce moment - là (...) Des rapprochements existent et je suis assez heureux de voir qu'un accord progresse".
+001	10	0.2769	"Si demain il sort de ce congrès une forme de statu quo où derrière l'illusion de nouvelles équipes on reconduit une ligne politique qui nous a conduit à l'échec à la dernière élection présidentielle par confusion, par improvisation stratégique, je pense que se prépare le long déclin du socialisme dans ce pays", a - t - il dit à propos de Ségolène Royal, avant de lancer un appel aux autres prétendants au poste de premier secrétaire.
+002	10	0.2683	"J'espère que ces 71% de militants arriveront à se retrouver", a - t - elle dit.

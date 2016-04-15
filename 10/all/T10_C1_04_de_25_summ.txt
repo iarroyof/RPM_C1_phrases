@@ -1,0 +1,5 @@
+000	04	0.2426	"La femme qui avait été missionnée par la mère pour garder l'enfant est identifiée.
+001	04	0.2283	Elle est toujours actuellement recherchée", a indiqué un porte - parole du parquet de Marseille.
+002	04	0.2694	"Tant que nous ne l'aurons pas entendu, beaucoup de choses ne pourront pas être vérifiées.
+003	04	0.2376	Le garçonnet est actuellement placé dans un foyer de l'Aide Sociale à l'Enfance.
+004	04	0.2305	"Elle a expliqué aux policiers qu'elle était partie le 9 juillet dernier en Algérie au chevet de sa mère malade, mais qu'elle n'avait pu prendre son petit dernier, né en Algérie, pour une question de passeport", a déclaré mardi le procureur de la République Jacques Dallest.

@@ -1,0 +1,4 @@
+000	07	0.3045	Le chef de l'Etat «a indiqué qu'il était particulièrement sensible à la souffrance de Mme Sébire et de sa famille ainsi qu'à l'appel qui lui était lancé», selon un comuniqué de l'Elysée.
+001	07	0.3359	Nadine Morano, nommée hier secrétaire d'Etat à la famille, s'est dite elle aussi favorable à l'euthanasie.
+002	07	0.2920	Le député Leonetti - député - maire UMP d'Antibes et rapporteur de la loi votée à l'unanimité en 2005 instaurant un droit au «laisser mourir» mais pas à l'euthanasie active - a vertement répliqué à Bernard Kouchner en se disant «très irrité par (sa) réponse simpliste».
+003	07	0.3394	«Il faut aller plus loin» que la loi Léonetti, «en s'inspirant des législations des pays avoisinants», a - t - il souligné.

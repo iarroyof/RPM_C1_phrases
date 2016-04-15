@@ -1,0 +1,2 @@
+000	08	0.3765	Les actes de protestation se sont d'ailleurs multipliés dans le monde vendredi: piratage par RSF d'une fréquence FM à Pékin pour évoquer la liberté d'expression en Chine, veillées et manifestations dans de nombreux pays, lettre ouverte envoyée par une centaine d'athlètes à Hu Jintao.
+001	08	0.2844	Un déplacement dont il a profité pour estimer qu'il fallait "accompagner la Chine vers l'ouverture, la tolérance, vers le progrès, vers le respect des valeurs qui sont les nôtres".

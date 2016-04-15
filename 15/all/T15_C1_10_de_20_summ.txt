@@ -1,0 +1,8 @@
+000	10	0.3755	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+001	10	0.2633	Elle a évoqué, par ailleurs, "une vie privée compliquée"... Depuis le 21 août, au lendemain d'un Conseil des ministres de rentrée, la rumeur enflait.
+002	10	0.2731	Les photos, publiées par le site Purepeople.com, allaient très vite alimenter le débat.
+003	10	0.2673	Jean - Michel Aphatie, sur les ondes de RTL, posait la question tout de go à Roselyne Bachelot, la ministre de la Santé, qui éludait.
+004	10	0.2564	Outre - Atlantique et outre - Manche tous les tabloïds et chaînes de télévision s'en seraient donné à coeur joie.
+005	10	0.3250	Elle l'a révélé à quelques journalistes mercredi matin, annonce l'édition électronique du quotidien Le Monde.
+006	10	0.3163	En communication cette fois.
+007	10	0.3555	Pierre - Yves Bournazel remplace Laurence Lasserre, qui a démissionné "car elle a d'autres projets professionnels", assure son entourage.

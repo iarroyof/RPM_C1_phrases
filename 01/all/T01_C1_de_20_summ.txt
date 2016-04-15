@@ -1,0 +1,45 @@
+000	01	0.3633	Dans sa déclaration transmise à la justice, le guérillero "assure qu'à aucun moment il n'a trahi les Farc, et que tout le monde sait que la libération des 15 otages est le fruit d'une opération de renseignement militaire poussée, surtout dans l'interception des communications téléphoniques", a indiqué l'avocat.
+000	02	0.3279	Selon le déroulement de cette opération présenté par le ministre colombien de la Défense Juan Manuel Santos, l'armée avait infiltré des hommes parmi les guérilleros des Forces armées révolutionnaires de Colombie (Farc - marxistes) chargés de surveiller les otages.
+001	02	0.3698	«Une heure avant que les hélicoptères n'arrivent, j'ai parlé avec le commandant (des Farc) Asprilla et il m'a dit que nous allions tous monter dans un hélicoptère et que nous irions dans un endroit qu'il ne connaissait pas pour parler avec un dirigeant des Farc.
+002	02	0.3147	«Quand les deux hélicoptères blancs sont arrivés, et je dois confesser que j'ai ressenti quelque chose d'étrange parce que normalement lorsque nous entendions les hélicoptères arriver nous sortions en courant pour nous cacher.
+003	02	0.3354	Ils ont alors fermé les portes de l'hélicoptère, et tout à coup j'ai vu le commandant (Farc) nu au sol.
+004	02	0.3180	Le ministre de la Défense Santos a estimé que cette opération de sauvetage des otages s'était déroulée «comme dans un film».
+000	03	0.2601	﻿La libération d'Ingrid Betancourt continue de susciter des interrogations Les explications officielles de Bogota sur la libération surprise d'Ingrid Betancourt et des autres otages de Colombie, ainsi que les démentis ce week - end sur le versement d'une rançon, n'ont pas pas levé toutes les zones d'ombres sur l'opération et le rôle joué par la France.
+001	03	0.2501	La thèse officielle selon laquelle Bogota a tout simplement berné les guérilleros sans aucune contrepartie est très plausible", assure à l'AFP Fabrice Delloye, l'ex - mari d'Ingrid Betancourt.
+002	03	0.5739	Une mission des émissaires chargés par la France, la Suisse et l'Espagne d'une médiation avec les Farc en faveur des otages, se trouvait dans le sud du pays peu avant l'opération, selon l'un d'eux, le Français Noël Saez.
+003	03	0.3397	"Cela a permis que les membres des Farc qui retenaient les otages ne s'étonnent pas de l'opération que nous avions montée", a - t - il expliqué au journal Le Figaro de lundi.
+004	03	0.2845	La France a surtout accentué la pression internationale "afin que le caillou devienne trop lourd" pour le président colombien Alvaro Uribe, assure - t - on dans l'entourage de M. Sarkozy.
+000	04	0.2241	Elle constitue une victoire politique importante pour le président colombien Alvaro Uribe, qui avait défendu une ligne dure vis - à - vis des guérilleros des FARC en dépit des critiques internationales.
+000	05	0.2816	Quel état de santé pour Ingrid?
+001	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
+002	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
+003	05	0.3222	Le caporal Perez a nourri Ingrid Betancourt à la petite cuillère : " Elle a été très malade.
+004	05	0.2956	Les preuves de vie que nous avez vues et qui ont scandalisé le monde dataient pourtant d'un moment où sa santé s'améliorait.
+005	05	0.4589	Un scénario trop parfait?
+006	05	0.2484	Les Américains se sont intéressés au sort de leurs trois otages, qu'ils avaient localisés dans la jungle.
+007	05	0.2361	Il n'a pas appelé Paris.
+000	06	0.2904	"La France a tout fait" pour privilégier la négociation et ne pas "mettre en risque la vie des otages", a - t - elle expliqué sur le tarmac de Villacoublay.
+001	06	0.3255	"Vous m'avez sauvé la vie parce que je pense que si cette réflexion n'avait pas été faite au bon moment avec la force, avec l'énergie nécessaires, probablement nous aurions connu d'autres échecs".
+002	06	0.3430	"C'est un moment très très émouvant pour moi, respirer l'air de la France, d'être avec vous", a - t - elle confié devant l'avion de la République française.
+003	06	0.2911	Vous l'avez dit, je suis à la maison, je suis chez moi.
+000	07	0.2872	Des soldats se sont présentés comme les membres d'un groupe humanitaire chargé de convoyer les otages par hélicoptère vers un autre camp pour y rencontrer le nouveau chef des Farc, Alfonso Cano.
+001	07	0.2722	BETANCOURT ATTENDUE VENDREDI À PARIS Betancourt n'avait plus donné signe de vie depuis la diffusion d'une vidéo par la guérilla le 30 novembre 2007, où elle apparaissait très amaigrie et affaiblie dans un camp.
+002	07	0.3319	Le président socialiste vénézuélien Hugo Chavez, aux antipodes d'Uribe sur l'échiquier politique, a téléphoné au président colombien pour le féliciter du succès de l'opération, a rapporté la télévision de Caracas.
+003	07	0.2448	Chavez, après avoir obtenu la libération de plusieurs captifs des Farc en début d'année, avait appelé les Farc à libérer les otages sans conditions.
+004	07	0.2301	"Le seul choix qui s'offre aux Farc est d'adopter une attitude plus politique envers le gouvernement", estime Pablo Casas, du groupe de réflexion Sécurité et Démocratie.
+005	07	0.2367	Jeudi, elle a entretenu le suspense sur son avenir, précisant qu'elle voulait se donner le temps de la réflexion avant de reprendre éventuellement en Colombie une carrière politique interrompue par plus de six ans de captivité.
+006	07	0.2386	Aujourd'hui âgée de 46 ans, elle est devenue le symbole de la souffrance des otages des Farc, la mobilisation de ses proches et sa double nationalité ayant contribué à médiatiser sa lutte sur le plan international.
+000	08	0.3160	Elle a descendu seule, lentement, la passerelle de l'avion présidentiel.
+001	08	0.2761	"Cette opération extraordinaire, parfaite de l'armée colombienne" qui a permis de la délivrer "est aussi le produit de votre lutte", a déclaré Ingrid Betancourt, en s'adressant aux Français qui l'ont soutenue et qui lui ont "sauvé la vie".
+002	08	0.2736	L'ex - otage a rappelé que le gouvernement colombien avait au début de sa captivité tenté une libération d'otages par la force, qui s'était soldée par la mort de deux d'entre eux.
+003	08	0.3753	"Nous savions, nous qui étions dans cette même situation (...) qu'avec un scénario comme celui là, nous n'avions aucune chance de survie", a - t - elle expliqué.
+004	08	0.2696	Après l'arrivée à Villacoublay, Ingrid Betancourt s'est rendue à l'Elysée en compagnie du couple présidentiel.
+005	08	0.2596	"Je marchais avec un chapeau sur la tête parce que toutes sortes de choses vous tombent sur la tête", a - t - elle encore rapporté, évoquant notamment "fourmis", "bestioles", "poux", "tiques".
+006	08	0.3802	"Un état de santé satisfaisant" Le médecin - chef de l'Elysée, Christophe Fernandez, qui se trouvait dans la délégation, a déjà brièvement examiné l'ex - otage, âgée de 46 ans.
+007	08	0.4119	Depuis sa libération, l'ex - otage est apparue rayonnante et pleine d'énergie, multipliant les interviews, alors qu'elle a expliqué avoir été gravement malade durant certaines parties de sa détention.
+000	09	0.3220	Dans le courrier électronique cité par RCN, Reyes s'adresse à Noël Saez, l'un des deux émissaires chargés par la France, la Suisse et l'Espagne d'établir des contacts avec les Farc en vue de la libération des otages en Colombie.
+001	09	0.3015	Une opération lancée alors "en solo" par Dominique de Villepin, ancien professeur et ami d'Ingrid Betancourt.
+000	10	0.3046	Libération d'Ingrid Betancourt: la joie et les arrières pensées La France a vécu mercredi soir un de ces moments exceptionnels de joie collective comme il en existe trop peu souvent.
+001	10	0.3952	Cette médiatisation, qui s’est progressivement imposée comme l’un des rares moyens de pression pour espérer obtenir la libération des otages, peut être risquée pour les responsables politiques ainsi contraints à des obligations de résultats.
+002	10	0.2779	Dans la joie unanime, mercredi soir, de voir Ingrid Betancourt libre, il était difficile de ne pas lire aussi les arrières pensées.
+003	10	0.2953	Comme dans tous les dénouements de prises d’otages.

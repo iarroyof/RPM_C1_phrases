@@ -1,0 +1,4 @@
+000	09	0.2802	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il avait été remarqué par des passants qui l'avaient confié à la police.
+001	09	0.3765	La mère, de nationalité algérienne et résidente régulière en France, a soutenu avoir appelé à plusieurs reprises la "nounou" de son fils.
+002	09	0.2948	Le problème, c'est que la nounou lui a menti pendant 13 jours.
+003	09	0.2488	Selon Khaldia Dussourt, le petit garçon aurait échappé à la surveillance de la "nounou" dans un jardin de la cité.

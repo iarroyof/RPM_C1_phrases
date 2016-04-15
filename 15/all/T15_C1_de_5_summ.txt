@@ -1,0 +1,13 @@
+000	01	0.3126	Elle l'a elle - même confirmée mercredi.
+001	01	0.2889	Mais sur ce point, Rachida Dati reste muette.
+000	02	0.4067	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+000	03	0.3628	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
+000	04	0.3685	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
+001	04	0.3635	Cette grossesse audacieusement assumée change la donne.
+000	05	0.3048	"Ce n'est pas une maladie", a - t - elle dit.
+000	06	0.3507	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
+000	07	0.3956	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
+000	08	0.2852	La grossesse de Dati passionne la presse européenne Certains journaux européens sont revenus jeudi 4 septembre sur la grossesse de la Garde des Sceaux, Rachida Dati, après un démenti mercredi de l'ancien chef du gouvernement espagnol José Maria Aznar à une rumeur lui attribuant la paternité.
+000	09	0.3844	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
+000	10	0.3755	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+001	10	0.3555	Pierre - Yves Bournazel remplace Laurence Lasserre, qui a démissionné "car elle a d'autres projets professionnels", assure son entourage.

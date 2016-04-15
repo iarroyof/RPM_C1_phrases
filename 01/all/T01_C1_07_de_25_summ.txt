@@ -1,0 +1,9 @@
+000	07	0.2235	Le fils et la fille de la sénatrice, Lorenzo et Mélanie, sont arrivés jeudi matin à Bogota en provenance de Paris.
+001	07	0.2872	Des soldats se sont présentés comme les membres d'un groupe humanitaire chargé de convoyer les otages par hélicoptère vers un autre camp pour y rencontrer le nouveau chef des Farc, Alfonso Cano.
+002	07	0.2264	Les Farc, considérés comme une organisation terroriste aux Etats - Unis et en Europe, détiennent encore des centaines d'otages, dont certains depuis une décennie.
+003	07	0.2722	BETANCOURT ATTENDUE VENDREDI À PARIS Betancourt n'avait plus donné signe de vie depuis la diffusion d'une vidéo par la guérilla le 30 novembre 2007, où elle apparaissait très amaigrie et affaiblie dans un camp.
+004	07	0.3319	Le président socialiste vénézuélien Hugo Chavez, aux antipodes d'Uribe sur l'échiquier politique, a téléphoné au président colombien pour le féliciter du succès de l'opération, a rapporté la télévision de Caracas.
+005	07	0.2448	Chavez, après avoir obtenu la libération de plusieurs captifs des Farc en début d'année, avait appelé les Farc à libérer les otages sans conditions.
+006	07	0.2301	"Le seul choix qui s'offre aux Farc est d'adopter une attitude plus politique envers le gouvernement", estime Pablo Casas, du groupe de réflexion Sécurité et Démocratie.
+007	07	0.2367	Jeudi, elle a entretenu le suspense sur son avenir, précisant qu'elle voulait se donner le temps de la réflexion avant de reprendre éventuellement en Colombie une carrière politique interrompue par plus de six ans de captivité.
+008	07	0.2386	Aujourd'hui âgée de 46 ans, elle est devenue le symbole de la souffrance des otages des Farc, la mobilisation de ses proches et sa double nationalité ayant contribué à médiatiser sa lutte sur le plan international.
