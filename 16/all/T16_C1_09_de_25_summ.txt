@@ -1,6 +1,6 @@
 000	09	0.3500	Bernard Blais a reçu mercredi une demande écrite du ministère lui suggérant vivement de demander un poste d’avocat général à la Cour de Cassation, "dans l’intérêt du service".
-001	09	0.3420	Une procédure normale pour la mutation des magistrats du parquet, dont la nomination intervient en conseil des ministres.
-002	09	0.3219	A l’unanimité, les magistrats de la Cour d’appel d’Agen ont voté une motion pour protester contre ces pressions.
-003	09	0.3067	"On ne veut pas croire qu’il s’agit cette fois de les transformer en fonctionnaires et d’en faire de simples exécutants." De son côté, le ministère de la Justice argue d’une volonté de féminiser et de rajeunir le parquet d’Agen.
-004	09	0.4244	C’est par une magistrate que la chancellerie entendait remplacer Blais.
-005	09	0.2988	Un argumentaire "habile" que réfutent les syndicats.
+001	09	0.2366	Signataire de la motion, Christophe Straudo en appelle à "l’indépendance et l’unité de la magistrature" et refuse de voir dans cette mutation "l’intérêt du service public", comme avancé par la chancellerie : "Les magistrats du parquet sont certes soumis à la hiérarchie du fait de leur statut, mais, même s’ils sont chargés de mettre en oeuvre l’action publique en matière de poursuites, ils ont leur liberté de parole.
+002	09	0.3067	"On ne veut pas croire qu’il s’agit cette fois de les transformer en fonctionnaires et d’en faire de simples exécutants." De son côté, le ministère de la Justice argue d’une volonté de féminiser et de rajeunir le parquet d’Agen.
+003	09	0.2768	Pour Laurent Bedouet, secrétaire général de l’Union syndicale des magistrats, proposer la Cour de Cassation à Bernard Blais trahit à la fois un contrôle politique accru et une gestion malheureuse par la Chancellerie.
+004	09	0.2142	Il parle de "caporalisation" : Comme d’autres syndicats et les pétitionnaires d'Agen, l’USM fait le lien entre l’histoire de Bernard Blais et la récente convocation au ministère du vice - procureur de Nancy.
+005	09	0.2486	Une fois n’est pas coutume, l’USM et le Syndicat de la magistrature(SM) ont signé jeudi un communiqué commun pour dénoncer d’une même voix "une tentative d’intimidation".

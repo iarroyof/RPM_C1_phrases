@@ -1,8 +1,8 @@
 000	02	0.3197	Jusqu'à la déclaration du Snes, le syndicat majoritaire des enseignants du secondaire, qui a annoncé quitter les discussions, il y a dix jours, accusant la réforme d'être essentiellement guidée par des objectifs d'économies budgétaires.
 001	02	0.3478	Principale innovation de la nouvelle seconde qui sera effective dès la rentrée 2009 : elle sera découpée en semestres, remplaçant l'actuelle organisation annuelle.
 002	02	0.3636	Ils pourront par exemple suivre un enseignement d'économie au premier semestre et embrayer sur un cours d'arts plastiques ou de technologie au second.
-003	02	0.3253	Les élèves bénéficieront de cet accompagnement par demi - groupe de quinze.
-004	02	0.4122	Les modules optionnels compteront pour leur part six heures de cours dont notamment le latin, le grec, les sciences économiques et sociales, une troisième langue vivante, les arts plastiques.
-005	02	0.2946	S'y ajoutent de nouvelles matières comme «l'informatique et la société numérique» ou la gestion.
+003	02	0.2618	Nouvelles matières en option La réorganisation des enseignements en quatre familles (littéraire, scientifique, sciences de l'homme et de la société, technologie) est actée.
+004	02	0.2861	L'autre grande nouveauté de la réforme, c'est un accompagnement éducatif obligatoire de trois heures par semaine : une aide à l'orientation ou à la méthodologie et des exercices oraux feront leur entrée dans ce cadre.
+005	02	0.4122	Les modules optionnels compteront pour leur part six heures de cours dont notamment le latin, le grec, les sciences économiques et sociales, une troisième langue vivante, les arts plastiques.
 006	02	0.3943	S'ils le souhaitent, les lycéens pourront plutôt choisir d'approfondir certaines matières du tronc commun comme le français ou les mathématiques.
 007	02	0.3199	Le système retenu en seconde inaugure une série de retouches pour les années de première et de terminale prévues pour 2010 et 2011.

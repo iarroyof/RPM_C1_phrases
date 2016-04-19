@@ -1,4 +1,4 @@
-000	05	0.3380	Aucune rencontre n'est prévue avec Nicolas Sarkozy.
-001	05	0.2795	Le prix Nobel de la paix dites donc !
+000	05	0.2279	« Hypocrisie » Aucune rencontre n'est donc prévue avec le chef de l'Etat français, lors des douze jours de visite, tandis que le gouvernement reste silencieux : seul Bernard Kouchner laisse filtrer qu'il pourrait participer à une cérémonie religieuse prévue à Lodève le 22 août.
+001	05	0.2396	C'est sur ce dernier point davantage que sur le fond que le Parti socialiste a choisi de mettre l'accent, en accusant le président français d'«hypocrisie », comme l'a fait François Hollande.
 002	05	0.3056	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
 003	05	0.2829	Hier matin, Jean - Pierre Raffarin, qui accompagnait le chef de l'Etat en Chine, a estimé qu'il y avait « un lien entre la présence de Nicolas Sarkozy, ses discussions avec le président chinois et le contrat très important que vient de signer EDF avec le géant de l'électricité en Chine ».

@@ -1,3 +1,3 @@
-000	01	0.2771	Pourquoi le CSM était - il saisi ?
+000	01	0.2387	Celui - ci, ainsi que sa hiérarchie, va être auditionné par le CSM dans la première semaine de novembre.
 001	01	0.3010	«Il est sain que le CSM entende directement les protagonistes pour se faire une opinion en toute indépendance», estime Christophe Regnard, le nouveau président de l’USM.
-002	01	0.2631	Le CSM poursuit sa réflexion sur ce point.
+002	01	0.2523	Quant aux modalités de l’inspection [la nuit, avec des délais de réponse très courts, ndlr], ce n’est pas la ministre qui les fixe».

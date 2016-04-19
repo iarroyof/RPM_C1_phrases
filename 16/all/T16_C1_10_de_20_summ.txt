@@ -1,4 +1,4 @@
 000	10	0.2501	Mobilisation contre Dati: les raisons de la grogne des magistrats Les magistrats et les organisations du monde pénitentiaire ont manifesté ce jeudi pour protester contre la politique de la Garde des Sceaux Rachida Dati.
-001	10	0.3083	Centre de rétention Autre motif d'inquiétude, les centres de rétention.
-002	10	0.2565	Ce monopole de la Cimade est remis en cause par le décret du 22 août 2008.
-003	10	0.2437	Manque de moyens La France figure parmi les mauvais élèves dans l'Union européenne en matière de dépenses judiciaires.
+001	10	0.1806	Menaces sur l'indépendance Les syndicats craignent une mainmise de l'exécutif sur l'autorité judiciaire, et ont écrit à ce sujet au Conseil supérieur de la magistrature.
+002	10	0.1533	Applicables dès la première récidive, ces peines sont valables pour les crimes et délits passibles de trois ans d'emprisonnement et plus.
+003	10	0.2417	Selon le tout récent rapport de la Commission européenne pour l'efficacité de la justice (CEPEJ), la France est passée, en deux ans, du 29e au 35e rang.

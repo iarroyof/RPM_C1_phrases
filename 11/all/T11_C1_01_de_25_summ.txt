@@ -1,7 +1,7 @@
-000	01	0.2351	«L’Amérique a montré que tout est possible!»
-001	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
-002	01	0.2312	«Nous connaissions un candidat qui a séduit le monde.
-003	01	0.3832	Maintenant nous allons connaître le président», écrit le quotidien conservateur espagnol ABC.
-004	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
-005	01	0.2726	A lui d’inscrire ce moment dans la marche du temps».
-006	01	0.2851	«L’absence de résultats rapides pourrait transformer les espoirs de changement en déception», avertit son concurrent le Nikkei.
+000	01	0.2178	«La chance de l'Amérique» Les journaux du monde entier ont salué à l’unisson ce mercredi l’élection «historique» de Barack Obama à la Maison Blanche.
+001	01	0.2184	«Un pas de géant pour l’humanité» A l’instar de nombreux journaux, le quotidien zurichois Neue Zürcher Zeitung (NZZ) souligne que les Américains ont «franchi un pas supplémentaire en laissant derrière eux les anciennes barrières raciales».
+002	01	0.2179	«We have a dream», peut - on lire en Une, en hommage à la phrase prononcée par Martin Luther King.
+003	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
+004	01	0.2128	Le quotidien israélien de gauche Haaretz souligne quant à lui les défis qui attendent Obama au Proche - Orient.
+005	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
+006	01	0.1937	Devenu président, Obama «doit mettre en scène le changement» promis lors de sa campagne, écrit le Yomiuri Shimbun japonais.

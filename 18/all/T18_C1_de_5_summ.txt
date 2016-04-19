@@ -2,11 +2,11 @@
 001	01	0.5704	Informer sans chercher à plaire, éduquer sans ennuyer, distraire sans déshonorer, aimer sans compromettre, rassembler sans aseptiser, explorer sans se perdre : l'exercice relève de la contradiction permanente, entre un média calibré pour s'adresser aux émotions, et la nécessité d'en distordre en permanence les messages pour qu'ils trouvent aussi, en même temps, le chemin des cerveaux réfractaires.
 000	02	0.2946	Nicolas Sarkozy, qui doit se voir remettre mercredi après - midi le rapport de la commission Copé sur la nouvelle télévision publique, envisagerait de simplifier le scénario qu'elle préconise, en particulier en matière de financement.
 000	03	0.3429	En matant un Copé dont il a démonté les propositions, Sarkozy veut mettre la télé publique à terre et sous sa coupe.
-001	03	0.3349	Or, pour Marc Chauvelot, du SNRT CGT, « rien de ce qu’il propose ne tient debout.
+001	03	0.3211	Éditorialement ensuite : supprimer la pub après 20 heures, ça veut dire qu’en journée va falloir faire M6 pour attirer la pub et le soir Arte !
 000	04	0.5179	"Il nous a pris pour des ânes !" C'est qu'entre les deux hommes, la température s'est clairement rafraîchie depuis que France 2 a chipé Julien Courbet et a manqué de subtiliser Jean - Luc Reichmann (qui rempile finalement sur la Une).
 000	05	0.3570	Actuellement, la loi de 1986 sur l'audiovisuel autorise une seule coupure dans les films et les fictions de 90 minutes.
 000	06	0.4163	Ils citent l'exemple des quatre premiers mois de 2008, où les recettes publicitaires de TF1 et M6 ont reculé, alors que France Télévisions subissait dans le même temps une chute de 20 % de ses rentrées publicitaires.
 000	07	0.3345	Les mesures prônées par la commission Copé Voici les principaux points du rapport Copé sur la nouvelle télévision publique, qui doit être remis à Nicolas Sarkozy mercredi 25 juin : Suppression de la publicité à la télévision publique : - La publicité sera supprimée à partir de 20 heures le 1er juillet 2009, et définitivement d'ici 2012.
-000	08	0.3336	« Cinq mois plus tard, je suis terriblement déçu.
+000	08	0.3303	Nous avons vu très vite que la commission Copé était désavouée sur l’essentiel par Nicolas Sarkozy : la hausse de la redevance.
 000	09	0.3461	La nouvelle grève survient le jour où la commission Copé, chargée de réfléchir à l'avenir de la télévision publique sans publicité, tiendra une dernière réunion plénière dans la matinée.
 000	10	0.3961	Dans la cour de l'Elysée, le président du CSA, Michel Boyon, n'a pas répondu à la question "à quoi sert désormais le CSA ?

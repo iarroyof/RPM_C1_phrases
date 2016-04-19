@@ -1,2 +1,2 @@
 000	05	0.2899	Quelques heures après Bernard Kouchner, mardi 25 mars, le chef de l’Etat s’est fait beaucoup plus menaçant, en affirmant ne pas exclure un boycott personnel de la cérémonie d’ouverture des JO de Pékin, le 08 août.
-001	05	0.3349	Autant de précaution et de conditionnel qui renvoient principalement aux relations très déséquilibrées entre Paris et Pékin.
+001	05	0.2562	Dialogue « engagé depuis plusieurs années » et dont le chef de l’Etat français souhaite qu’il « reprenne et s’approfondisse », en soulignant « la disponibilité de la France (…) dans le cadre du partenariat stratégique franco - chinois ».

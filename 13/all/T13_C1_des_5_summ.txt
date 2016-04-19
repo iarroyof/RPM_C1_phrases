@@ -1,10 +1,10 @@
-000	01	0.2601	Grincements de dents La propriété du temple a été officiellement attribuée au Cambodge en 1904.
+000	01	0.2193	Ce joyau de l'architecture khmère d'où la vue sur la jungle cambodgienne est époustouflante a décidément une histoire mouvementée.
 000	02	0.3338	«Nous avons déployé des rangers et quelques civils pour patrouiller le long de la frontière», a - t - il expliqué.
 000	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
-000	04	0.2899	Aucune date n'a été fixée pour les prochaines négociations entre les deux hommes.
-000	05	0.3009	Les troupes resteront mobilisées à la frontière pendant toute la durée des pourparlers.
+000	04	0.2706	Après 12 heures de négociations à Siem Reap, au nord - ouest du Cambodge, les ministres des Affaires étrangères des deux pays ont indiqué qu'ils demanderaient à leur gouvernement respectif de redéployer les milliers de soldats qui se font face près du temple de Preah Vihear qui date du XIe siècle.
+000	05	0.2742	Des diplomates des deux pays ont prévu de se rencontrer lundi matin, et le processus d'apaisement pourrait s'enclencher dans les jours à venir.
 000	06	0.2633	L'ancien temple hindou de Preah Vihear au Cambodge, situé à 400 kilomètres au nord de la capitale Phnom Penh, à la frontière de la Thaïlande, et récemment entré sur la liste du Patrimoine mondial de l'Unesco, est au centre d'un conflit territorial entre les deux pays.
 000	07	0.5052	Le Premier ministre, Hun Sen, a demandé à son homologue thaïlandais d’ordonner le retrait de ses troupes du sol cambodgien, afin que : « la situation retourne à la normale ».
 000	08	0.3154	A la sortie de sa pause déjeuner, le ministre des affaires étrangères cambodgien, Hor Nam Hong s’est montré peu prolixe.
-000	09	0.2815	Dernier rebondissement du litige qui oppose les deux pays au sujet de ce site.
+000	09	0.2106	Quand le Cambodge et la Thaïlande se disputent un temple Le temple de Preah Vihear, situé à la frontière entre le Cambodge et la Thaïlande, a été inscrit sur la liste du Patrimoine mondial de l'Unesco.
 000	10	0.3123	Thaïlande - Cambodge: bruit de bottes autour d’un temple Malgré l’inscription, en début de mois, du temple de Preah Vihear sur la liste du patrimoine mondial, l’Unesco ayant laissé le soin au Cambodge et à la Thaïlande de régler leur différend frontalier dans cette zone, un nouvel épisode vient d’attiser la discorde entre les deux voisins.

@@ -1,2 +1,2 @@
-000	10	0.3083	Centre de rétention Autre motif d'inquiétude, les centres de rétention.
-001	10	0.2565	Ce monopole de la Cimade est remis en cause par le décret du 22 août 2008.
+000	10	0.2501	Mobilisation contre Dati: les raisons de la grogne des magistrats Les magistrats et les organisations du monde pénitentiaire ont manifesté ce jeudi pour protester contre la politique de la Garde des Sceaux Rachida Dati.
+001	10	0.2417	Selon le tout récent rapport de la Commission européenne pour l'efficacité de la justice (CEPEJ), la France est passée, en deux ans, du 29e au 35e rang.

@@ -1,8 +1,8 @@
 000	10	0.3017	Une période de latence délicate « Le pays est plongé dans deux guerres, en Irak et en Afghanistan, et se dirige vers un déficit annuel de 1000 milliards de dollars, soit 775 milliards d’euros.
 001	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
-002	10	0.2942	Elle permettra à l’équipe de Barack Obama de se constituer.
-003	10	0.3011	Ce renouvellement doit recueillir, pour une bonne part, l’assentiment du Congrès, contrôlé également par les démocrates.
-004	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
+002	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
+003	10	0.2354	John Podesta, qui fut secrétaire général de la Maison - Blanche sous Bill Clinton, est à la tête de l’équipe chargée de la transition.
+004	10	0.2295	De son côté, le président sortant a demandé que 6,5 millions d’euros du budget 2009 soient consacrés à ce passage de relais.
 005	10	0.2760	Le sommet des pays du G20 sur la crise financière mondiale réunira de manière inédite les dirigeants des principales nations industrialisées et émergentes.
-006	10	0.3256	Le président Bush, qui a convoqué le sommet du G20, l’envisage comme le début d’un processus.
-007	10	0.3101	Le dossier irakien comme deuxième échéance de la transition La deuxième échéance prévisible, avant le 20 janvier, vient d’Irak.
+006	10	0.3101	Le dossier irakien comme deuxième échéance de la transition La deuxième échéance prévisible, avant le 20 janvier, vient d’Irak.
+007	10	0.2398	Les forces américaines, qui ont renversé le régime de l’ancien président Saddam Hussein en avril 2003, sont toujours présentes dans ce pays cinq ans plus tard.

@@ -1,6 +1,6 @@
 000	05	0.2998	Les pleurs de l'enfant abandonné Ce garçonnet a été trouvé le 5 août, sur une esplanade de la cité de Fonscolombes, au nord de Marseille.
-001	05	0.2681	appel a temoins Le garçonnet, dont on ne connaît même pas le prénom et dont l'âge a été évalué à 30 mois, a été trouvé le 5 août, tout seul errant sur une esplanade de la cité de Fonscolombes, vaste labyrinthe d'immeubles du nord de la ville.
-002	05	0.3056	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il a été remarqué par des passants qui l'ont confié à la police.
-003	05	0.2969	Les enquêteurs ont pensé dans un premier temps que ses parents se manifesteraient rapidement, mais personne n'est venu déclarer une disparition.
-004	05	0.4358	Pour éclaircir le mystère, le parquet a décidé en début de semaine de lancer un appel à témoins, relayé dans la presse.
-005	05	0.2985	«Beaucoup de parents sont partis en vacances ici et reviendront dans 10 jours.
+001	05	0.2579	» Les habitants de la cité de Fonscolombes à Marseille sont perplexes: «Il n'est pas du quartier ce petit», assure Nora, une jeune mère de famille assise avec son fils devant un immeuble de la cité.
+002	05	0.2681	appel a temoins Le garçonnet, dont on ne connaît même pas le prénom et dont l'âge a été évalué à 30 mois, a été trouvé le 5 août, tout seul errant sur une esplanade de la cité de Fonscolombes, vaste labyrinthe d'immeubles du nord de la ville.
+003	05	0.3056	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il a été remarqué par des passants qui l'ont confié à la police.
+004	05	0.2969	Les enquêteurs ont pensé dans un premier temps que ses parents se manifesteraient rapidement, mais personne n'est venu déclarer une disparition.
+005	05	0.4358	Pour éclaircir le mystère, le parquet a décidé en début de semaine de lancer un appel à témoins, relayé dans la presse.

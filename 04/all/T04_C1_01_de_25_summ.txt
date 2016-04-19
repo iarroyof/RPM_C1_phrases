@@ -1,4 +1,4 @@
 000	01	0.3236	Quelques heures avant de commencer un cycle d'enseignements de cinq jours, le dalaï - lama a accordé un entretien à Ségolène Royal, samedi matin, à Nantes.
-001	01	0.2263	«La cause du Tibet est une cause pour la vérité et la justice.
-002	01	0.2459	«Si très modestement ma présence peut servir à faire progresser la cause du Tibet, à faire reculer les souffrances, reculer la terreur, reculer la violence, je suis très très honorée qu'une éminente personnalité comme vous qui symbolise la paix et la non violence puisse m'accorder quelques instants», a - t - elle ajouté.
-003	01	0.2712	«Les choses pourront ainsi bouger» «Dès la semaine prochaine je vais demander un visa pour me rendre au Tibet, je crois que les choses pourront ainsi bouger», a encore indiqué Ségolène Royal.
+001	01	0.2459	«Si très modestement ma présence peut servir à faire progresser la cause du Tibet, à faire reculer les souffrances, reculer la terreur, reculer la violence, je suis très très honorée qu'une éminente personnalité comme vous qui symbolise la paix et la non violence puisse m'accorder quelques instants», a - t - elle ajouté.
+002	01	0.2712	«Les choses pourront ainsi bouger» «Dès la semaine prochaine je vais demander un visa pour me rendre au Tibet, je crois que les choses pourront ainsi bouger», a encore indiqué Ségolène Royal.
+003	01	0.1906	Le ministre des Affaires étrangères, Bernard Kouchner, devrait quant à lui voir Tenzin Gyatso, de son vrai nom, mercredi prochain.

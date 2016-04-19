@@ -1,12 +1,12 @@
 000	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
 000	02	0.3017	Le parquet de Paris avait ouvert une enquête préliminaire vendredi 24 octobre afin de «déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales».
 000	03	0.3530	"Cette stratégie sera renouvelée plusieurs fois au cours du mois et début octobre, y compris sur des montants exceptionnellement élevés", poursuit le document qui souligne que "cette dérive dans la gestion" n'a pas été perçue à temps "du fait d'un nombre important de défaillances du contrôle interne et d'alertes ignorées".
-000	04	0.2105	La CNCE dans le rouge cette année Dépréciations.
+000	04	0.1894	Outre les 600 millions d'euros évaporés sur les marchés, les déboires du rehausseur de crédit CIFG ou les pertes encourues sur Lehman Brothers, l'Ecureuil pourrait aussi avoir à déprécier ses participations dans Natixis et Nexity, dont les cours de Bourse se sont effondrés depuis un an.
 000	05	0.3972	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
 001	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
 002	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
-000	06	0.3230	L'emplacement de son domicile et l'éventuelle saisie de documents relatifs à l'affaire n'ont pas été précisés dans l'immédiat.
+000	06	0.2324	Boris, le Jérôme Kerviel de la Caisse d'Epargne Le trader de la Caisse d'Epargne responsable dela perte de 751 millions d'euros s'appelle Boris et est âgé de 33 ans.
 000	07	0.2890	Me Cécile Bernaille a pointé également la responsabilité de la banque à travers "la défaillance de ses systèmes de contrôle": "Dans une banque, il semble qu'il y ait un directeur des risques qui surveille".
-000	08	0.2652	Face aux tourments de l’Ecureuil, reste à savoir si les épargnants décideront d’aller placer leurs noisettes ailleurs.
+000	08	0.2490	Interrogée sur l’incident, qu’elle a tenu à minimiser, la Caisse nationale des caisses d’épargne a affirmé que l’erreur devait être réparée hier soir.
 000	09	0.0999	﻿Démission des trois dirigeants de la Caisse d'épargne A l’issue d’un conseil de surveillance extraordinaire, qui s’est tenu dimanche, les trois principaux dirigeants de la Caisse d’Epargne, le président Charles Milhaud, le directeur général Nicolas Mérindol et Julien Carmona, en charge des finances et des risques, ont démissionné dimanche, a indiqué à l’ AFP une source proche du dossier.
-000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
+000	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.

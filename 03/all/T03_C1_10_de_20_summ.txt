@@ -1,5 +1,5 @@
-000	10	0.3046	En attendant, en interne, la contestation monte, notamment des caisses régionales, qui demeurent les actionnaires majoritaires.
+000	10	0.2186	Car contrairement aux discours optimistes tenus il y a encore quelques mois, la crise du subprime pèse de plus en plus lourd dans le bilan des banques françaises.
 001	10	0.3034	Il a aussi décidé de réduire son enveloppe de « bonus », ces primes accordées aux traders en fonction de leurs résultats, en laissant plus de place dans leur calcul à la performance collective.
 002	10	0.2982	Au printemps dernier, la Société générale, encore sous le coup de l’affaire Kerviel, a ouvert le bal, en émettant pour 5,5 milliards d’euros d’actions nouvelles.
-003	10	0.2966	Mais aujourd’hui les appels au marché s’avèrent compliqués.
-004	10	0.2983	Un plan d’économies a aussi été mis en place, avec l’annonce, en mai, de la suppression de 850 emplois, sur un effectif total de 22 000.
+003	10	0.2983	Un plan d’économies a aussi été mis en place, avec l’annonce, en mai, de la suppression de 850 emplois, sur un effectif total de 22 000.
+004	10	0.2020	Des informations ni confirmées ni démenties par les dirigeants de Natixis qui se retranchent pour l’heure derrière leurs obligations de confidentialité.

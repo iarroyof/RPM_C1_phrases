@@ -1,14 +1,14 @@
 000	06	0.3106	CE QUE L'EMOTION EMPECHE DE VOIR Son visage déformé par une tumeur évolutive des sinus a bouleversé le pays.
-001	06	0.2580	Encore faudrait - il qu'elle soit appliquée.
-002	06	0.2834	Elle n'a pas disposé «des moyens techniques» pour vérifier si «les crédits allaient bien à leurs objectifs».
-003	06	0.3009	Sans compter que les équipes partaient avec un handicap lourd.
+001	06	0.2350	En saisissant la justice d'une demande d'exception pour autoriser un médecin à mettre fin à ses jours, Chantal Sébire a brutalement relancé le débat sur l'«euthanasie active» et le «suicide assisté».
+002	06	0.2299	Sous le coup de l'émotion, le gouvernement a chargé d'une mission d'évaluation Jean Leonetti, député - maire UMP d'Antibes et rapporteur de la loi, votée à l'unanimité en 2005, instaurant un droit au «laisser - mourir» - ce qui, selon le rapporteur lui - même, «n'est pas l'euthanasie active».
+003	06	0.2403	Résultat, le développement des services de soins palliatifs a été mené à l'aveuglette, à partir «d'estimations sommaires», sans «études préalables».
 004	06	0.4387	Manque d'argent En mars 2007, la psychologue s'était rendue en Haute - Normandie, qui figure parmi les six régions de France où la mortalité est la plus élevée.
 005	06	0.2596	Dans les Pays de Loire, la psychologue a pu observer « la misère en personnel» des services de soins de suite et des unités de soins de longue durée.
 006	06	0.3626	Par conséquent, on les retrouve en cancérologie, en médecine ou en chirurgie, mais ils font cruellement défaut... en gériatrie, là où on en aurait le plus besoin!
 007	06	0.2845	Manque d'argent, sous - effectifs, mais déficit d'information... «La loi Leonetti et les autres textes réglementaires sont insuffisamment connus et compris, remarque avec sévérité l'auteur du best - seller la Mort intime (Robert Laffont).
-008	06	0.3106	Beaucoup ignorent encore ce que la loi leur permet défaire.
-009	06	0.2786	Et d'évoquer ce «déni de la mort» qui, en submergeant toujours le monde médical, serait «en partie responsable de l'hétérogénéité de la culture palliative».
-010	06	0.2515	Il la conseillait lors de l'audience du tribunal de Dijon au cours de laquelle elle plaidait l'euthanasie active, lasse de souffrir.
+008	06	0.2786	Et d'évoquer ce «déni de la mort» qui, en submergeant toujours le monde médical, serait «en partie responsable de l'hétérogénéité de la culture palliative».
+009	06	0.2515	Il la conseillait lors de l'audience du tribunal de Dijon au cours de laquelle elle plaidait l'euthanasie active, lasse de souffrir.
+010	06	0.2192	Le rôle de l'ADMD Chantal Sébire exigeait de la société qu'elle prenne en compte sa souffrance et qu'elle lui permette d'en finir, alors même que la maladie, incurable, n'était pas entrée dans la phase ultime.
 011	06	0.3506	Son médecin traitant l'a bien compris, en lui permettant dès le mois de janvier de rencontrer des journalistes de France 3 Bourgogne.
-012	06	0.2636	L'association dépêche alors son avocat, qui convainc Chantal Sébire de déposer un recours devant le tribunal.
+012	06	0.2351	Le lendemain, l'association publiait un communiqué réclamant le droit pour Chantal «de mourir paisiblement entourée de l'amour des siens».
 013	06	0.2827	Chaque jour, et même plusieurs fois par jour, Jean - Luc Romero téléphone à Chantal, l'encourage, lui prodigue des conseils.

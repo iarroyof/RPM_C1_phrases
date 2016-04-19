@@ -1,3 +1,3 @@
-000	03	0.3250	Mais, échange de bons procédés, Carla, ça peut booster l’audience de la Une et la cote de l’autre.
-001	03	0.3429	En matant un Copé dont il a démonté les propositions, Sarkozy veut mettre la télé publique à terre et sous sa coupe.
-002	03	0.3349	Or, pour Marc Chauvelot, du SNRT CGT, « rien de ce qu’il propose ne tient debout.
+000	03	0.3429	En matant un Copé dont il a démonté les propositions, Sarkozy veut mettre la télé publique à terre et sous sa coupe.
+001	03	0.2912	Face au tollé, comme si de rien n’était, la ministre de la Culture (celle qui présentera la refonte de l’audiovisuel à la rentrée, elle qui, le jour de l’annonce de la suppression de la pub par Sarkozy, négociait les possibilités pour Radio France d’en avoir plus), assure qu’« il n’y a aucun risque de reprise en main », qu’il est « logique que l’État, actionnaire à 100 %, nomme le dirigeant [de France Télévisions] et que ce soit contrôlé par le CSA et par le Parlement ».
+002	03	0.3211	Éditorialement ensuite : supprimer la pub après 20 heures, ça veut dire qu’en journée va falloir faire M6 pour attirer la pub et le soir Arte !

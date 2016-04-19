@@ -1,6 +1,6 @@
 000	07	0.2484	Les causes de la mort sont «pour l'instant indéterminées», a indiqué à l'AFP une source autorisée au ministère de l'Intérieur.
 001	07	0.3045	Le chef de l'Etat «a indiqué qu'il était particulièrement sensible à la souffrance de Mme Sébire et de sa famille ainsi qu'à l'appel qui lui était lancé», selon un comuniqué de l'Elysée.
-002	07	0.3359	Nadine Morano, nommée hier secrétaire d'Etat à la famille, s'est dite elle aussi favorable à l'euthanasie.
-003	07	0.2920	Le député Leonetti - député - maire UMP d'Antibes et rapporteur de la loi votée à l'unanimité en 2005 instaurant un droit au «laisser mourir» mais pas à l'euthanasie active - a vertement répliqué à Bernard Kouchner en se disant «très irrité par (sa) réponse simpliste».
-004	07	0.2425	Je crois qu'il est préférable de répondre à Chantal Sébire par le dialogue et l'accompagnement afin que l'on trouve avec elle des solutions pour qu'elle parte apaisée», a - t - il ajouté.
-005	07	0.3394	«Il faut aller plus loin» que la loi Léonetti, «en s'inspirant des législations des pays avoisinants», a - t - il souligné.
+002	07	0.2920	Le député Leonetti - député - maire UMP d'Antibes et rapporteur de la loi votée à l'unanimité en 2005 instaurant un droit au «laisser mourir» mais pas à l'euthanasie active - a vertement répliqué à Bernard Kouchner en se disant «très irrité par (sa) réponse simpliste».
+003	07	0.2425	Je crois qu'il est préférable de répondre à Chantal Sébire par le dialogue et l'accompagnement afin que l'on trouve avec elle des solutions pour qu'elle parte apaisée», a - t - il ajouté.
+004	07	0.3394	«Il faut aller plus loin» que la loi Léonetti, «en s'inspirant des législations des pays avoisinants», a - t - il souligné.
+005	07	0.2209	Marie Humbert, qui avait bénéficié d'un non - lieu après avoir aidé avec un médecin son fils tétraplégique à mourir en 2003, en a appelé aujourd'hui à Carla Bruni - Sarkozy pour obtenir un droit à l'euthanasie active, faute de réponse à une demande d'entretien avec Nicolas Sarkozy.

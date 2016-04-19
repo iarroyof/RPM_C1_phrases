@@ -1,4 +1,4 @@
-000	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
-001	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
-002	05	0.3222	Le caporal Perez a nourri Ingrid Betancourt à la petite cuillère : " Elle a été très malade.
-003	05	0.4589	Un scénario trop parfait?
+000	05	0.2148	Dans une vidéo diffusée au mois de novembre, cette femme de 46 ans était apparue amaigrie et très affaiblie.
+001	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
+002	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
+003	05	0.2956	Les preuves de vie que nous avez vues et qui ont scandalisé le monde dataient pourtant d'un moment où sa santé s'améliorait.

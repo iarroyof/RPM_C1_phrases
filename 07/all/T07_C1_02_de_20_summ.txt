@@ -1,2 +1,2 @@
-000	02	0.3515	L'appartement d'Olivier Kerviel situe au 2e étage d'un immeuble haussmannien du VIIIème arrondissement de Paris.
-001	02	0.3104	Il a expliqué avoir agi seul.
+000	02	0.2896	Perquisition au domicile du frère de Jérôme Kerviel Quatre policiers se sont rendus dans l'appartement d'Olivier Kerviel, et sont repartis avec des mallettes dans les mains.
+001	02	0.2209	Les forces de l'ordre se sont rendues dans ce logement vers 15h00, pour en ressortir environ deux heures plus tard.

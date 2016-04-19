@@ -1,7 +1,7 @@
-000	03	0.3250	Mais, échange de bons procédés, Carla, ça peut booster l’audience de la Une et la cote de l’autre.
-001	03	0.3429	En matant un Copé dont il a démonté les propositions, Sarkozy veut mettre la télé publique à terre et sous sa coupe.
-002	03	0.2912	Face au tollé, comme si de rien n’était, la ministre de la Culture (celle qui présentera la refonte de l’audiovisuel à la rentrée, elle qui, le jour de l’annonce de la suppression de la pub par Sarkozy, négociait les possibilités pour Radio France d’en avoir plus), assure qu’« il n’y a aucun risque de reprise en main », qu’il est « logique que l’État, actionnaire à 100 %, nomme le dirigeant [de France Télévisions] et que ce soit contrôlé par le CSA et par le Parlement ».
-003	03	0.2960	Qu’importe.
-004	03	0.3349	Or, pour Marc Chauvelot, du SNRT CGT, « rien de ce qu’il propose ne tient debout.
-005	03	0.3211	Éditorialement ensuite : supprimer la pub après 20 heures, ça veut dire qu’en journée va falloir faire M6 pour attirer la pub et le soir Arte !
-006	03	0.2942	Alors que, dans le même temps, les tâches vont se multiplier ».
+000	03	0.2440	France télévision Décidément, le titre de l’album de Carla Bruni - Sarkozy sied à merveille à ce qui se passe dans le PAF.
+001	03	0.2664	Comme si de rien n’était, la chaîne du parrain du fils d’un certain Nicolas Sarkozy offrira le 11 juillet prochain sa grand - messe à la première dame de France pour qu’elle présente Comme si de rien n’était.
+002	03	0.2510	TF1 est à la peine, au point que Jean - Claude Dassier, le patron de l’info, est contraint d’expliquer dans le Monde qu’il n’y a « ni plan social ni guichet de départs » de prévu et d’assurer que Sarkozy n’est pas derrière l’éviction de PPDA.
+003	03	0.3429	En matant un Copé dont il a démonté les propositions, Sarkozy veut mettre la télé publique à terre et sous sa coupe.
+004	03	0.2912	Face au tollé, comme si de rien n’était, la ministre de la Culture (celle qui présentera la refonte de l’audiovisuel à la rentrée, elle qui, le jour de l’annonce de la suppression de la pub par Sarkozy, négociait les possibilités pour Radio France d’en avoir plus), assure qu’« il n’y a aucun risque de reprise en main », qu’il est « logique que l’État, actionnaire à 100 %, nomme le dirigeant [de France Télévisions] et que ce soit contrôlé par le CSA et par le Parlement ».
+005	03	0.2467	Pourtant, est - ce par hasard, a - t - on appris auprès du SNJ, si « à France 2 est en projet la mise en place d’une cellule pour gérer le stress et les tensions psychosociales » ?
+006	03	0.3211	Éditorialement ensuite : supprimer la pub après 20 heures, ça veut dire qu’en journée va falloir faire M6 pour attirer la pub et le soir Arte !

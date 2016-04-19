@@ -1,2 +1,2 @@
-000	03	0.3283	En attendant, ce décès annoncé a relancé en France le débat brûlant sur la fin de vie.
+000	03	0.3191	Dans le cas d’un malade en « phase avancée ou terminale d’une affection grave et incurable », les praticiens ne peuvent que stopper le traitement et attendre que le patient périsse, tout en lui administrant des antidouleurs pour soulager ses ultimes souffrances.
 001	03	0.3492	Bénéficiant de la loi Leonetti, leur fils de vingt - huit ans, plongé depuis huit ans dans un coma végétatif irréversible, a été « débranché » de la sonde qui le nourrissait.

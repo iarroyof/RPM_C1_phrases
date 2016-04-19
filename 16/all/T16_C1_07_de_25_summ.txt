@@ -1,5 +1,5 @@
 000	07	0.2620	Les magistrats ont beaucoup de chose à reprocher à Rachida Dati : ses méthodes d’abord, mais aussi sa politique répressive et contradictoire, et enfin, son caractère autoritaire voir colérique.
 001	07	0.2484	Le fil des événements Le 9 octobre dernier, Rachida Dati retournait à la maison d’arrêt de Metz, un établissement qu’elle qualifiait jusque - là de « modèle ».
-002	07	0.2642	Au début de la semaine, les syndicats pénitentiaires avaient rendez - vous avec la ministre de la Justice, mais ils ont eu la surprise de n’être reçus que par son directeur de cabinet.
-003	07	0.3376	Rachida Dati a rapidement éteint l’incendie en recevant mercredi les syndicats.
-004	07	0.3604	Mais pour que ces postes supplémentaires deviennent réalité il faudra d’abord que soit votée la prochaine loi pénitentiaire.
+002	07	0.2000	Il purgeait une peine de six mois de prison pour trafic de stupéfiant, il a été retrouvé pendu dans sa cellule le 6 octobre dernier.
+003	07	0.2642	Au début de la semaine, les syndicats pénitentiaires avaient rendez - vous avec la ministre de la Justice, mais ils ont eu la surprise de n’être reçus que par son directeur de cabinet.
+004	07	0.1838	Initialement prévu pour la fin de l’année, son examen à l’Assemblée nationale a été repoussé à 2009, pour cause de crise financière.

@@ -1,4 +1,4 @@
 000	08	0.3401	La ministre française de l'Economie, Christine Lagarde, a estimé lundi sur la radio RMC que la croissance française serait "autour de 1%" en 2009, comme cette année.
 001	08	0.2540	Interrogée sur le ralentissement de la croissance et le niveau qu'elle atteindrait en 2008 et 2009, Mme Lagarde a répondu: "autour de 1%".
-002	08	0.3489	Interrogée sur l'éventuelle mise en place d'un "fichier positif", elle a indiqué que c'était "une des pistes examinées".
-003	08	0.5295	Il s'agit d'un fichier qui "permet à des banques de vérifier si la personne à laquelle elles font du crédit à la consommation a déjà d'autres crédits et se trouve en bonne ou mauvaise situation", a - t - elle expliqué.
+002	08	0.5295	Il s'agit d'un fichier qui "permet à des banques de vérifier si la personne à laquelle elles font du crédit à la consommation a déjà d'autres crédits et se trouve en bonne ou mauvaise situation", a - t - elle expliqué.
+003	08	0.2532	"Ce que je veux, c'est que que les organismes de crédit à la consommation qui aujourd'hui ont plutôt moins d'activité, n'aillent pas dans des politiques extraordinairement agressives vis - à - vis de ménages qui sont fragiles", a souligné la ministre.

@@ -1,2 +1,2 @@
 000	09	0.3220	Dans le courrier électronique cité par RCN, Reyes s'adresse à Noël Saez, l'un des deux émissaires chargés par la France, la Suisse et l'Espagne d'établir des contacts avec les Farc en vue de la libération des otages en Colombie.
-001	09	0.3015	Une opération lancée alors "en solo" par Dominique de Villepin, ancien professeur et ami d'Ingrid Betancourt.
+001	09	0.2883	"Les raisons que vous aviez de remettre de l'argent pour la libération de Madame Ingrid Betancourt sans vous assurer auparavant des identités (des geôliers) et des garanties (...) demeurent inexpliquées", dit Reyes à Saez, dans le courrier électronique cité par la chaîne de télévision.

@@ -1,4 +1,4 @@
 000	09	0.3603	Histoire avec un grand "H" d'ailleurs, si l'on considère la profusion d'effets et de lumières entourant la manifestation, d'une force visuelle il est vrai sidérante.
 001	09	0.2974	On a pu ainsi voir, au fur et à mesure, célébrées les inventions chinoises comme le papier, l'impression, la poudre et la boussole.
-002	09	0.3244	Avant la proclamation officielle du président chinois Hu Jintao et l'allumage de la flamme par l'ancien gymnaste chinois Li Ning.
-003	09	0.3164	Pour un accueil mitigé, entre applaudissements et sifflets, les premiers d'ailleurs de la cérémonie.
+002	09	0.2161	Avant que n'apparaisse une célèbre maxime de Confucius, "N'est ce pas un bonheur d'avoir des amis qui viennent de loin".
+003	09	0.3244	Avant la proclamation officielle du président chinois Hu Jintao et l'allumage de la flamme par l'ancien gymnaste chinois Li Ning.

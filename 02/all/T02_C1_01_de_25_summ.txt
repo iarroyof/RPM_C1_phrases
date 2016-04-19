@@ -1,5 +1,5 @@
 000	01	0.2607	Vendredi matin, le groupe Caisse d’Epargne a annoncé avoir perdu 600 millions d’euros en raison d’un «incident de marché dans l’activité dérivés actions», du fait de «l’extrême volatilité des marchés et du krach boursier de la semaine du 6 octobre» .
-001	01	0.2319	«Je suis particulièrement frustrée et découragée de la survenance de cet événement», a lancé Christine Lagarde vendredi, alors qu’elle sortait justement du premier conseil d’administration de la société de refinancement des banques, instaurée par le gouvernement pour les aider à emprunter.
-002	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
-003	01	0.2645	Et, selon l’AFP, le directeur financier de la CNCE devrait démissionner.
+001	01	0.2301	La révélation de cette «paume» tombe au plus mauvais moment pour l’Ecureuil, qui discute fusion avec les Banques Populaires.
+002	01	0.2319	«Je suis particulièrement frustrée et découragée de la survenance de cet événement», a lancé Christine Lagarde vendredi, alors qu’elle sortait justement du premier conseil d’administration de la société de refinancement des banques, instaurée par le gouvernement pour les aider à emprunter.
+003	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
 004	01	0.2987	Le président du directoire de la CNCE aura - t - il le loisir d’annoncer son retrait une fois la fusion avec les Banques Populaires accomplie?

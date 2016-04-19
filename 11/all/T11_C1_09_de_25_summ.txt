@@ -1,6 +1,6 @@
 000	09	0.3278	Le candidat démocrate a recueilli environ 52,6% des suffrages populaires, contre 46,4% pour McCain, soit 7 millions de voix d'écart environ entre les deux adversaires.
-001	09	0.2611	C'est la première fois depuis Jimmy Carter, en 1976, qu'un démocrate remporte la majorité du vote populaire.
-002	09	0.3020	Barack Obama a notamment remporté la Floride et l'Ohio, deux Etats très disputés qui avaient voté Bush en 2004, ainsi que la Virginie, un bastion républicain.
+001	09	0.3020	Barack Obama a notamment remporté la Floride et l'Ohio, deux Etats très disputés qui avaient voté Bush en 2004, ainsi que la Virginie, un bastion républicain.
+002	09	0.2480	Un second tour sera organisé en Géorgie le 2 décembre, alors que les résultats ne sont toujours pas définitifs dans le Minnesota et en Alaska.
 003	09	0.4153	Hommage unanime en Europe L'Europe est en tout cas en fête depuis l'annonce des résultats, avec l'espoir que Barack Obama permettra d'instaurer un "new deal" entre les Etats - Unis et l'Europe.
 004	09	0.3043	Cinq ans après la brouille entre Paris et Washington, provoquée par l'intervention américaine en Irak, Nicolas Sarkozy a adressé des félicitations élogieuses au premier président Noir des Etats - Unis.
 005	09	0.4115	Sur le plan international, alors que le pays est engagé dans deux guerres, en Irak et en Afghanistan, le nouveau chef d'Etat a promis de retirer les soldats américains d'Irak "de façon responsable" dans un délai de 16 mois et de concentrer les efforts à la lutte contre Al - Qaïda et les talibans.

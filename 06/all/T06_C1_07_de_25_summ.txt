@@ -1,5 +1,5 @@
-000	07	0.3243	La délégation française a reçu un accueil mitigé avec quelques sifflets isolés.
+000	07	0.2602	Des tableaux émouvants Si la fête a commencé par une ouverture au monde avec le message de bienvenue de l'incontournable Confucius ("N'est - ce pas un bonheur d'avoir des amis qui viennent de loin?"), elle est revenue rapidement à la mère - patrie.
 001	07	0.2769	L'art de l'écriture s'est ensuite dessiné dans une chorégraphie de blocs mouvants, animés par des humains pour une performance éblouissante.
-002	07	0.2916	Place à la modernité et à la fluorescence d'une masse humaine ondoyante et chatoyante cernant le célèbre pianiste Lang Lang et son instrument, jusqu'à bâtir en 'pyramide humaine' le Nid d'oiseau lui - même.
-003	07	0.2896	Quelques sifflets pour la délégation française L'ouverture au monde s'est concrétisée avec l'arrivée des 204 délégations.
+002	07	0.2607	Musique, tradition et nature La musique était évoquée à travers l'opéra puis les cinq dynasties chinoises (Tang, Song, Yuan, Ming et Qing), lorsque des musiciens aux trônes ascensionnels terminaient en stylites mélomanes.
+003	07	0.2916	Place à la modernité et à la fluorescence d'une masse humaine ondoyante et chatoyante cernant le célèbre pianiste Lang Lang et son instrument, jusqu'à bâtir en 'pyramide humaine' le Nid d'oiseau lui - même.
 004	07	0.3210	A l'inverse, la délégation française a reçu un accueil mitigé avec quelques sifflets isolés vite couverts par l'ambiance du Nid d'oiseau.

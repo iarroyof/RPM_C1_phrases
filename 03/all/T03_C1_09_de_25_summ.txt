@@ -1,5 +1,5 @@
 000	09	0.2582	Elle ajoute que les engagements des établissements de crédit français sur Lehman Brothers "demeurent limités" et que Paris reste très vigilant sur l'évolution de la situation des marchés financiers.
-001	09	0.2519	Elles ont néanmoins décroché en Bourse avec l'ensemble du secteur en Europe.
-002	09	0.4245	Outre sa créance obligataire, BNP Paribas a fait état auprès d'analystes de garanties d'appels de marge sur la banque américaine de l'ordre de 200 millions de dollars sur des marchés organisés, celles - ci bénéficiant d'actifs très liquides comme collatéral.
-003	09	0.3099	La Société générale comme le Crédit agricole n'ont pas voulu chiffrer leur exposition, mais les deux banques ont indiqué aux analystes que le risque le plus important était celui de contrepartie et était pareillement limité.
-004	09	0.2648	Interrogée par Reuters, une porte - parole du véhicule coté de la banque verte a fait état en outre de l'existence d'une ligne de crédit sur Lehman Brothers, qui bénéficie de garanties.
+001	09	0.4245	Outre sa créance obligataire, BNP Paribas a fait état auprès d'analystes de garanties d'appels de marge sur la banque américaine de l'ordre de 200 millions de dollars sur des marchés organisés, celles - ci bénéficiant d'actifs très liquides comme collatéral.
+002	09	0.3099	La Société générale comme le Crédit agricole n'ont pas voulu chiffrer leur exposition, mais les deux banques ont indiqué aux analystes que le risque le plus important était celui de contrepartie et était pareillement limité.
+003	09	0.2648	Interrogée par Reuters, une porte - parole du véhicule coté de la banque verte a fait état en outre de l'existence d'une ligne de crédit sur Lehman Brothers, qui bénéficie de garanties.
+004	09	0.2432	L'AMF étudie parallèlement avec la filiale de gestion d'actifs de Lehman Brothers dans l'Hexagone l'impact des annonces faites à New York sur l'activité de celle - ci.

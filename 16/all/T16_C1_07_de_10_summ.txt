@@ -1,2 +1,2 @@
-000	07	0.3376	Rachida Dati a rapidement éteint l’incendie en recevant mercredi les syndicats.
-001	07	0.3604	Mais pour que ces postes supplémentaires deviennent réalité il faudra d’abord que soit votée la prochaine loi pénitentiaire.
+000	07	0.2620	Les magistrats ont beaucoup de chose à reprocher à Rachida Dati : ses méthodes d’abord, mais aussi sa politique répressive et contradictoire, et enfin, son caractère autoritaire voir colérique.
+001	07	0.2642	Au début de la semaine, les syndicats pénitentiaires avaient rendez - vous avec la ministre de la Justice, mais ils ont eu la surprise de n’être reçus que par son directeur de cabinet.

@@ -1,2 +1,2 @@
 000	10	0.4302	C'est là qu'intervient la fameuse "autonomie des établissements": aux principaux et à leur entourage de trouver la meilleure façon de rentabiliser ces heures.
-001	10	0.4871	Les modules d' "exploration et d'approfondissement" concernent de nombreuses disciplines.
+001	10	0.4038	- Plus de choix: en plus des enseignements généraux (21 heures par semaine, avec du français, des maths, de l'histoire - géographie et de l'éducation civique, de l'EPS, des sciences expérimentales et deux langues vivantes), les lycéens choisiront des disciplines dites d' "exploration et d'approfondissement".

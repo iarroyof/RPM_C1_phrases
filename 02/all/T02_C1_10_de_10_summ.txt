@@ -1,2 +1,2 @@
-000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
-001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+000	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+001	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.

@@ -1,2 +1,2 @@
-000	08	0.2534	Les pays occidentaux ont appelé hier la Chine à la retenue.
-001	08	0.3088	Depuis Dharamsala, dans le nord de l'Inde, le dalaï - lama a demandé à Pékin de « renoncer à l'usage de la force » contre les manifestants.
+000	08	0.3088	Depuis Dharamsala, dans le nord de l'Inde, le dalaï - lama a demandé à Pékin de « renoncer à l'usage de la force » contre les manifestants.
+001	08	0.2076	Son porte - parole a jugé sans fondement les accusations chinoises selon lesquelles il aurait fomenté les manifestations violentes.

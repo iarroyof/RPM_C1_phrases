@@ -1,4 +1,4 @@
-000	04	0.2756	Les États doivent avoir résolu tous les problèmes concernant le dépouillement des bulletins populaires.
-001	04	0.2500	w 6 janvier.
-002	04	0.2387	Réunion du Congrès pour compter les votes des grands électeurs.
-003	04	0.2500	w 20 janvier.
+000	04	0.1440	Investiture le 20 janvier Entre l’élection de Barack Obama et son investiture, il se passera un mois et demi.
+001	04	0.1853	Leur mandat est quasiment impératif bien que la loi fédérale ne les oblige pas à suivre le vote populaire dans leur État.
+002	04	0.2068	Date limite à laquelle le président du Sénat et les Archives nationales (NARA) doivent avoir réceptionné les votes des grands électeurs.
+003	04	0.2305	Si aucun candidat ne devait atteindre ce seuil, la Chambre des représentants élit le président et le Sénat choisit le vice - président.

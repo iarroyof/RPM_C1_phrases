@@ -1,10 +1,10 @@
-000	01	0.3832	Maintenant nous allons connaître le président», écrit le quotidien conservateur espagnol ABC.
-001	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
-002	01	0.2851	«L’absence de résultats rapides pourrait transformer les espoirs de changement en déception», avertit son concurrent le Nikkei.
+000	01	0.2184	«Un pas de géant pour l’humanité» A l’instar de nombreux journaux, le quotidien zurichois Neue Zürcher Zeitung (NZZ) souligne que les Américains ont «franchi un pas supplémentaire en laissant derrière eux les anciennes barrières raciales».
+001	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
+002	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
 000	02	0.2971	Il tiendra sa première conférence de presse à 20h30, heure française dans un hôtel de Chicago, à l'issue d'une réunion avec ses conseillers économiques, dont les anciens secrétaires au Trésor Larry Summers et Robert Rubin, l'ancien patron de la Réserve fédérale américaine Paul Volcker et le président de Google Eric Schmidt.
 001	02	0.3581	Le vice - président élu Joe Biden sera également présent lors de la conférence de presse de vendredi ainsi que la gouverneure du Michigan Jennifer Granholm et l'ancien président de la SEC (haute autorité de supervision des marchés), William Donaldson.
 000	03	0.3762	Le leader socialiste a appelé la France et l'Europe à «engager un dialogue nouveau avec l'Amérique, de le faire avec le respect qui s'attache à ce qui a été la volonté du peuple américain, avec l'admiration qui doit être vouée à Barack Obama, mais aussi avec le sens des intérêts du monde».
-000	04	0.2756	Les États doivent avoir résolu tous les problèmes concernant le dépouillement des bulletins populaires.
+000	04	0.2305	Si aucun candidat ne devait atteindre ce seuil, la Chambre des représentants élit le président et le Sénat choisit le vice - président.
 000	05	0.3586	Timothy Geithner, président de la Réserve fédérale de New York, Lawrence Summers et Paul Volcker figurent parmi les personnalités envisagées pour le poste.
 001	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
 002	05	0.3355	James Steinberg, ancien conseiller de Clinton, est favori pour accéder au poste de conseiller à la sécurité nationale mais Susan Rice, elle aussi issue de l'administration de l'ancien président démocrate, pourrait aussi briguer cette fonction.
@@ -17,7 +17,7 @@
 000	09	0.3278	Le candidat démocrate a recueilli environ 52,6% des suffrages populaires, contre 46,4% pour McCain, soit 7 millions de voix d'écart environ entre les deux adversaires.
 001	09	0.4153	Hommage unanime en Europe L'Europe est en tout cas en fête depuis l'annonce des résultats, avec l'espoir que Barack Obama permettra d'instaurer un "new deal" entre les Etats - Unis et l'Europe.
 002	09	0.4115	Sur le plan international, alors que le pays est engagé dans deux guerres, en Irak et en Afghanistan, le nouveau chef d'Etat a promis de retirer les soldats américains d'Irak "de façon responsable" dans un délai de 16 mois et de concentrer les efforts à la lutte contre Al - Qaïda et les talibans.
-000	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
-001	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
-002	10	0.3256	Le président Bush, qui a convoqué le sommet du G20, l’envisage comme le début d’un processus.
+000	10	0.3017	Une période de latence délicate « Le pays est plongé dans deux guerres, en Irak et en Afghanistan, et se dirige vers un déficit annuel de 1000 milliards de dollars, soit 775 milliards d’euros.
+001	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
+002	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
 003	10	0.3101	Le dossier irakien comme deuxième échéance de la transition La deuxième échéance prévisible, avant le 20 janvier, vient d’Irak.

@@ -1,2 +1,2 @@
-000	07	0.2677	"Cela, a - t - il souligné, ne tient pas debout, ni techniquement ni comptablement".
+000	07	0.2363	Les policiers s'étaient également rendus vendredi au siège administratif de la Société Générale à La Défense où "des pièces utiles à l'enquête" leur ont été remises volontairement, selon le parquet de Paris.
 001	07	0.3195	La banque explique que l'un de ses traders, Jérôme Kerviel, 31 ans, a profité de "sa connaissance approfondie des procédures de contrôle" pour "dissimuler ses positions grâce à un montage élaboré de transactions fictives".

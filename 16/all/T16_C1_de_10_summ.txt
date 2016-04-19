@@ -1,6 +1,6 @@
-000	01	0.2771	Pourquoi le CSM était - il saisi ?
+000	01	0.2387	Celui - ci, ainsi que sa hiérarchie, va être auditionné par le CSM dans la première semaine de novembre.
 001	01	0.3010	«Il est sain que le CSM entende directement les protagonistes pour se faire une opinion en toute indépendance», estime Christophe Regnard, le nouveau président de l’USM.
-002	01	0.2631	Le CSM poursuit sa réflexion sur ce point.
+002	01	0.2523	Quant aux modalités de l’inspection [la nuit, avec des délais de réponse très courts, ndlr], ce n’est pas la ministre qui les fixe».
 000	02	0.3432	«Caporalisation» du parquet Demandant au CSM « de bien vouloir prendre position sur ces graves atteintes», les syndicats énumèrent leurs griefs : «un magistrat est convoqué à la Chancellerie pour des propos tenus lors de ses réquisitions, au mépris du principe de la liberté de parole à l'audience; des procureurs généraux sont priés par la Garde des sceaux de solliciter des mutations (...); cinq procureurs généraux sont convoqués à la Chancellerie pour rendre des comptes sur les «mauvais résultats» de leur cour d'appel en matière d'application de la loi (sur les peines planchers)».
 000	03	0.3566	Juges du siège, avocats, personnels pénitentiaires, éducateurs de la protection judiciaire de la jeunesse et, dans une moindre mesure, magistrats du parquet affichaient une belle unité pour dire « le ras - le - bol » ambiant.
 001	03	0.4050	Nous ne demandons pas son départ, mais qu’elle se mette à travailler », pointe ainsi Christophe Régnard, le nouveau président de l’Union syndicale des magistrats (USM), qui appelait, avec le Syndicat de la magistrature (SM), à cette journée de mobilisation (lire nos éditions d’hier).
@@ -11,11 +11,11 @@
 001	05	0.3858	» Jouer l'apaisement Une bienveillance qui étonne dans le contexte actuel, surtout après la libération par erreur d'un violeur récidiviste dans la nuit de jeudi dernier.
 000	06	0.3031	En début d'après - midi, Nicolas Sarkozy a reçu l'USM (Union syndicale des magistrats, majoritaire) qui est sortie « satisfaite » de l'entretien d'une heure dont la deuxième partie en présence de la ministre de la Justice.
 001	06	0.3360	Dès que l'occasion se présente, la Garde des Sceaux désigne des prétendus responsables pour servir au mieux sa communication personnelle », a - t - il rappelé ».
-000	07	0.3376	Rachida Dati a rapidement éteint l’incendie en recevant mercredi les syndicats.
-001	07	0.3604	Mais pour que ces postes supplémentaires deviennent réalité il faudra d’abord que soit votée la prochaine loi pénitentiaire.
+000	07	0.2620	Les magistrats ont beaucoup de chose à reprocher à Rachida Dati : ses méthodes d’abord, mais aussi sa politique répressive et contradictoire, et enfin, son caractère autoritaire voir colérique.
+001	07	0.2642	Au début de la semaine, les syndicats pénitentiaires avaient rendez - vous avec la ministre de la Justice, mais ils ont eu la surprise de n’être reçus que par son directeur de cabinet.
 000	08	0.3074	Le dialogue très tendu entre les magistrats et la garde des sceaux s’est mué, au fil des semaines, en une impressionnante fronde contre l’ensemble de son action : qu’il s’agisse des lois phares de la ministre (loi de lutte contre la récidive, loi sur la rétention de sûreté), de la gestion des prisons ou encore de ses rapports avec le parquet.
 001	08	0.3404	Et ce, grâce à des « engagements écrits forts, mais non chiffrés, en matière d’embauche de personnel », précise Claude Tournel, secrétaire général de l’Ufap, l’un des principaux syndicats pénitentiaires.
 000	09	0.3500	Bernard Blais a reçu mercredi une demande écrite du ministère lui suggérant vivement de demander un poste d’avocat général à la Cour de Cassation, "dans l’intérêt du service".
-001	09	0.4244	C’est par une magistrate que la chancellerie entendait remplacer Blais.
-000	10	0.3083	Centre de rétention Autre motif d'inquiétude, les centres de rétention.
-001	10	0.2565	Ce monopole de la Cimade est remis en cause par le décret du 22 août 2008.
+001	09	0.3067	"On ne veut pas croire qu’il s’agit cette fois de les transformer en fonctionnaires et d’en faire de simples exécutants." De son côté, le ministère de la Justice argue d’une volonté de féminiser et de rajeunir le parquet d’Agen.
+000	10	0.2501	Mobilisation contre Dati: les raisons de la grogne des magistrats Les magistrats et les organisations du monde pénitentiaire ont manifesté ce jeudi pour protester contre la politique de la Garde des Sceaux Rachida Dati.
+001	10	0.2417	Selon le tout récent rapport de la Commission européenne pour l'efficacité de la justice (CEPEJ), la France est passée, en deux ans, du 29e au 35e rang.

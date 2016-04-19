@@ -1,6 +1,6 @@
-000	01	0.3016	Des craintes qui sont montées d'un cran ces derniers jours.
-001	01	0.3089	Mais légère pour le cas d'école, pour l'instant improbable, de la déconfiture d'une grosse pointure.
-002	01	0.3165	Par contre, cela bloque pour les crédits - relais.
-003	01	0.3129	Certains sont piégés par des formules particulièrement vicieuses.
+000	01	0.2061	Les sommes déposées sur les comptes - courants, les livrets, les PEA (plans d'épargne en actions) sont assurés à hauteur de 70 000 euros par une cagnotte gérée par le Fonds de garanties des dépôts.
+001	01	0.0531	Le plafond de 70 000 euros ne protège que les déposants des banques qui ont un siège social en France.
+002	01	0.1670	Il ne s'agit pas encore de «rationnement du crédit», modère Jean Bosvieux, directeur des études à l'Agence nationale d'information sur le logement (Anil).
+003	01	0.0690	Les délais pour vendre se sont rallongés : «Les banques n'avancent plus que 40 à 50 % de la valeur du bien à vendre, contre 70 à 80 % auparavant.»
 004	01	0.2855	En février, la Banque de France avait pointé la gourmandise de banques, en train de reconstituer leurs marges, qui poussaient sans raison leurs taux vers le haut.
-005	01	0.2852	Avec la crise, suppute l'Afub, «les banques vont renforcer encore leurs ententes».
+005	01	0.1223	Et le pire est à venir, selon l'Afub : «Nous sommes en train d'identifier des pratiques attentatoires à la libre concurrence.»

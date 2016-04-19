@@ -1,8 +1,8 @@
-000	08	0.3626	Le laboratoire na pas que ça à faire.»
-001	08	0.4404	Maintenant.
-002	08	0.4148	Dans la perspective de son retour, Armstrong sest réinscrit sur les listes du passeport biologique depuis le 1er août, a fait savoir lagence américaine antidopage (USADA).
-003	08	0.3574	Le règlement de l'UCI stipule quun coureur doit notifier six mois à lavance sa décision de retour afin dêtre prêt à se soumettre durant cette période à des contrôles inopinés.
-004	08	0.3216	Armstrong affirme avoir déjà été contrôlé chez lui courant daoût et espère toujours la clémence de linstance internationale.
-005	08	0.3273	Douteux.
-006	08	0.3917	En attendant, lexamen de certains échantillons douteux du dernier Tour, ordonné par l'AFLD a débuté.
-007	08	0.3725	«Nous avons commencé lundi dernier en utilisant deux méthodes, dit Bordry.
+000	08	0.3083	Les pipis dArmstrong restent au frigo Lance Armstrong a repoussé sèchement loffre de l'Agence française de Lutte contre le dopage (AFLD).
+001	08	0.2714	Pierre Bordry, son président, avait proposé doffrir au septuple vainqueur du Tour de France le moyen de faire taire les rumeurs sur son dopage à l'EPO lors de sa première victoire sur le Tour en 1999 en faisant analyser des échantillons durine restants par le laboratoire de Châtenay - Malabry.
+002	08	0.1871	«Il ny a absolument rien en quoi je puisse être daccord qui pourrait fournir des preuves tangibles quant au Tour 1999, explique dans un communiqué l'Américain qui vient dannoncer son retour à la compétition à lâge de 37 ans.
+003	08	0.2863	Même en cas de positivité, l'Américain ne pourrait en aucun cas être sanctionné pour dopage, le délai de prescription de huit ans étant dépassé.
+004	08	0.4148	Dans la perspective de son retour, Armstrong sest réinscrit sur les listes du passeport biologique depuis le 1er août, a fait savoir lagence américaine antidopage (USADA).
+005	08	0.3158	Ce qui ne lui donne pas, selon les règles de lUCI, le droit de disputer sa première course en Australie début janvier, comme il lavait prévu.
+006	08	0.3574	Le règlement de l'UCI stipule quun coureur doit notifier six mois à lavance sa décision de retour afin dêtre prêt à se soumettre durant cette période à des contrôles inopinés.
+007	08	0.3201	La détection par focalisation iso électrique de l'EPO à Châtenay - Malabry et par recherche danticorps au labo de Lausanne.»

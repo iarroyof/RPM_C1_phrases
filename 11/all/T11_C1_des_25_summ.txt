@@ -1,55 +1,55 @@
-000	01	0.2351	«L’Amérique a montré que tout est possible!»
-001	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
-002	01	0.2312	«Nous connaissions un candidat qui a séduit le monde.
-003	01	0.3832	Maintenant nous allons connaître le président», écrit le quotidien conservateur espagnol ABC.
-004	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
-005	01	0.2726	A lui d’inscrire ce moment dans la marche du temps».
-006	01	0.2851	«L’absence de résultats rapides pourrait transformer les espoirs de changement en déception», avertit son concurrent le Nikkei.
+000	01	0.2178	«La chance de l'Amérique» Les journaux du monde entier ont salué à l’unisson ce mercredi l’élection «historique» de Barack Obama à la Maison Blanche.
+001	01	0.2184	«Un pas de géant pour l’humanité» A l’instar de nombreux journaux, le quotidien zurichois Neue Zürcher Zeitung (NZZ) souligne que les Américains ont «franchi un pas supplémentaire en laissant derrière eux les anciennes barrières raciales».
+002	01	0.2179	«We have a dream», peut - on lire en Une, en hommage à la phrase prononcée par Martin Luther King.
+003	01	0.2451	«L’élection de Barack Obama rétablit de manière spectaculaire [le] crédit et [le] rayonnement» de l’Amérique, juge Le Temps à Genève.
+004	01	0.2128	Le quotidien israélien de gauche Haaretz souligne quant à lui les défis qui attendent Obama au Proche - Orient.
+005	01	0.2921	Obama, «la chance» de l’Amérique Le Monde voit en Barack Obama «la chance» de l’Amérique mais également «celle de ses partenaires» et «de ses ennemis, à commencer par l’islamisme armé qui s’est nourri d’une idéologie bushiste belliqueuse».
+006	01	0.1937	Devenu président, Obama «doit mettre en scène le changement» promis lors de sa campagne, écrit le Yomiuri Shimbun japonais.
 000	02	0.2971	Il tiendra sa première conférence de presse à 20h30, heure française dans un hôtel de Chicago, à l'issue d'une réunion avec ses conseillers économiques, dont les anciens secrétaires au Trésor Larry Summers et Robert Rubin, l'ancien patron de la Réserve fédérale américaine Paul Volcker et le président de Google Eric Schmidt.
 001	02	0.3581	Le vice - président élu Joe Biden sera également présent lors de la conférence de presse de vendredi ainsi que la gouverneure du Michigan Jennifer Granholm et l'ancien président de la SEC (haute autorité de supervision des marchés), William Donaldson.
 002	02	0.2706	Il a téléphoné jeudi à neuf dirigeants de pays alliés des Etats - Unis pour les remercier de leurs messages de félicitations après sa victoire mardi face au républicain John McCain, a indiqué une de ses assistantes.
 003	02	0.2193	La présidence française a indiqué jeudi que la conversation téléphonique entre Obama et Sarkozy avait porté sur les grands dossiers internationaux, dont la crise financière.
 000	03	0.3407	Obama président des États - Unis... pas du monde Barack Obama est le président des États - Unis, pas du monde, a déclaré mercredi le premier secrétaire du PS François Hollande, tempérant «l'Obamamania» qui a saisi la France avec l'élection du premier président noir américain.
 001	03	0.3762	Le leader socialiste a appelé la France et l'Europe à «engager un dialogue nouveau avec l'Amérique, de le faire avec le respect qui s'attache à ce qui a été la volonté du peuple américain, avec l'admiration qui doit être vouée à Barack Obama, mais aussi avec le sens des intérêts du monde».
-000	04	0.2756	Les États doivent avoir résolu tous les problèmes concernant le dépouillement des bulletins populaires.
-001	04	0.2500	w 6 janvier.
-002	04	0.2387	Réunion du Congrès pour compter les votes des grands électeurs.
-003	04	0.2500	w 20 janvier.
+000	04	0.1440	Investiture le 20 janvier Entre l’élection de Barack Obama et son investiture, il se passera un mois et demi.
+001	04	0.1853	Leur mandat est quasiment impératif bien que la loi fédérale ne les oblige pas à suivre le vote populaire dans leur État.
+002	04	0.2068	Date limite à laquelle le président du Sénat et les Archives nationales (NARA) doivent avoir réceptionné les votes des grands électeurs.
+003	04	0.2305	Si aucun candidat ne devait atteindre ce seuil, la Chambre des représentants élit le président et le Sénat choisit le vice - président.
 000	05	0.2299	Ce choix a aussitôt été critiqué par John Boehner, chef de la minorité républicaine à la Chambre des représentants, qui a accusé Obama de revenir sur sa promesse de campagne d'apporter le changement à Washington et de transcender les clivages politiques.
 001	05	0.3586	Timothy Geithner, président de la Réserve fédérale de New York, Lawrence Summers et Paul Volcker figurent parmi les personnalités envisagées pour le poste.
-002	05	0.2427	Obama doit aussi commencer à préparer une stratégie pour les guerres d'Irak et d'Afghanistan.
-003	05	0.2344	La crainte qu'Al Qaïda ne décide de tester la nouvelle administration pourrait le conduire à mettre sur pied rapidement son équipe pour la sécurité intérieure.
-004	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
+002	05	0.2344	La crainte qu'Al Qaïda ne décide de tester la nouvelle administration pourrait le conduire à mettre sur pied rapidement son équipe pour la sécurité intérieure.
+003	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
+004	05	0.2137	"Nous savons qu'Al Qaïda et les autres essaient de tester une nouvelle administration", a déclaré Dana Perino, porte - parole de la Maison blanche.
 005	05	0.3034	Outre Geithner, Summers et Volcker, l'ancienne conseillère de Bill Clinton Laura Tyson est également citée comme possible secrétaire au Trésor.
 006	05	0.3355	James Steinberg, ancien conseiller de Clinton, est favori pour accéder au poste de conseiller à la sécurité nationale mais Susan Rice, elle aussi issue de l'administration de l'ancien président démocrate, pourrait aussi briguer cette fonction.
 000	06	0.2686	Barack Obama peut s’appuyer sur sa nette victoire pour lancer ses réformes L’Amérique entière respire un air de renouveau.
-001	06	0.3338	L’ascension sera rude.
+001	06	0.2358	C’est la première fois depuis la victoire de Bill Clinton en 1996 que l’on constate un tel écart entre les deux candidats à la Maison - Blanche, avec un taux record de participation de 66 %, le plus élevé dans l’histoire des élections américaines depuis 1908, et supérieur à celui de l’élection de John F. Kennedy en 1960 (63 %).
 002	06	0.4721	Avec une confortable majorité au Congrès et le gain de plusieurs Etats décisifs tels que l’Ohio, la Virginie, le Nouveau Mexique et la Floride, le nouveau président semble assuré de pouvoir engager ses deux grands chantiers prioritaires de la refonte de la politique énergétique et du système de santé.
 003	06	0.3735	» Certains experts parient aussi sur une certaine politique d’ouverture, avec la nomination éventuelle de Colin Powell, qui s’est récemment rallié à la candidature de Barack Obama, à un poste significatif.
 004	06	0.3596	« Pour avoir travaillé avec lui sur la réforme de l’éthique au Congrès, je pense qu’il a la capacité d’être un président extraordinaire », assure le politologue Norman Ornstein, pourtant affilié à un « think tank » conservateur.
 000	07	0.3039	"Obama a gagné les primaires, les Clinton la transition" Barack Obama a été reçu ce lundi par le président sortant, George W. Bush, pour faire le tour du propriétaire et commencer à préparer la transition qu'il espère "douce et efficace".
-001	07	0.2636	(voir la vidéo) L'équipe d'Obama se prépare maintenant fébrilement à prendre les commandes le 20 janvier.
-002	07	0.2611	L'équipe de transition est en train de se mettre en place.
-003	07	0.3175	Pour ceux qui la rejoignent, après avoir fait campagne sans compter leur temps pendant des semaines, c'est une période à la fois excitante et périlleuse qui s'ouvre: chaque expert qui ambitionne de rejoindre la Maison blanche ou une des grandes administrations fédérales, essaye de se placer, exploitant les moindres recoins de son réseau, et prenant garde à ne pas être doublé par d'autres.
-004	07	0.2622	C'est un proche ami du couple, John Podesta, qui co - dirigera l'équipe.
-005	07	0.2916	Susan Rice, conseillère en politique étrangère d'Obama, a également travaillé à la Maison blanche et au Département d'Etat dans les années 90.
-006	07	0.2671	Ils ont un souvenir douloureux de la transition de 1992, qui a avait tourné au désastre, donnant aux premiers mois du mandat des airs pour le moins chaotiques.
+001	07	0.3175	Pour ceux qui la rejoignent, après avoir fait campagne sans compter leur temps pendant des semaines, c'est une période à la fois excitante et périlleuse qui s'ouvre: chaque expert qui ambitionne de rejoindre la Maison blanche ou une des grandes administrations fédérales, essaye de se placer, exploitant les moindres recoins de son réseau, et prenant garde à ne pas être doublé par d'autres.
+002	07	0.2524	Ancien secrétaire général de la Maison Blanche, il est originaire de Chicago, mais ce n'est pas un ami proche d'Obama (lors des primaires, il a fait campagne pour Hillary).
+003	07	0.2217	Après l'arrivée de George W. Bush au pouvoir, il a fondé un nouveau Think Tank, le Center for American Progress, qui a servi d'asile à de nombreux experts démocrates.
+004	07	0.2916	Susan Rice, conseillère en politique étrangère d'Obama, a également travaillé à la Maison blanche et au Département d'Etat dans les années 90.
+005	07	0.2671	Ils ont un souvenir douloureux de la transition de 1992, qui a avait tourné au désastre, donnant aux premiers mois du mandat des airs pour le moins chaotiques.
+006	07	0.2255	La tâche n'est pas simple: il s'agit de préparer des équipes, d'asseoir des hiérarchies, d'obtenir la collaboration de l'administration sortante, tout en concoctant des réformes qui prendront le contrepied des politiques suivies par cette dernière... Barack Obama s'est résolu à ouvrir la porte aux Clintoniens après sa victoire aux primaires, mais ira - t - il plus loin, maintenant qu'il est élu?
 000	08	0.2503	Les premiers pas d'Obama à la Maison Blanche USA - Le président élu a été reçu par George W. Bush, ce lundi, pour leurs premiers entretiens de cette période de transition... Barack Obama n'est pas encore du bon côté du bureau ovale, mais il était à la Maison Blanche lundi.
-001	08	0.2652	George W. Bush l'a reçu pour leurs premiers entretiens approfondis en cette délicate période de transition.
-002	08	0.3036	Le souvenir de 2004 Nul doute que, cette fois, George W. Bush s'est abstenu de se passer les mains au savon hygiénique après avoir serré celle de Barack Obama.
+001	08	0.3036	Le souvenir de 2004 Nul doute que, cette fois, George W. Bush s'est abstenu de se passer les mains au savon hygiénique après avoir serré celle de Barack Obama.
+002	08	0.2471	Mettant en garde celui qui est devenu son successeur, il avait ajouté: «Tout le monde va attendre que vous fassiez un faux - pas, vous voyez ce que je veux dire, alors faites attention à vous.»
 000	09	0.3278	Le candidat démocrate a recueilli environ 52,6% des suffrages populaires, contre 46,4% pour McCain, soit 7 millions de voix d'écart environ entre les deux adversaires.
-001	09	0.2611	C'est la première fois depuis Jimmy Carter, en 1976, qu'un démocrate remporte la majorité du vote populaire.
-002	09	0.3020	Barack Obama a notamment remporté la Floride et l'Ohio, deux Etats très disputés qui avaient voté Bush en 2004, ainsi que la Virginie, un bastion républicain.
+001	09	0.3020	Barack Obama a notamment remporté la Floride et l'Ohio, deux Etats très disputés qui avaient voté Bush en 2004, ainsi que la Virginie, un bastion républicain.
+002	09	0.2480	Un second tour sera organisé en Géorgie le 2 décembre, alors que les résultats ne sont toujours pas définitifs dans le Minnesota et en Alaska.
 003	09	0.4153	Hommage unanime en Europe L'Europe est en tout cas en fête depuis l'annonce des résultats, avec l'espoir que Barack Obama permettra d'instaurer un "new deal" entre les Etats - Unis et l'Europe.
 004	09	0.3043	Cinq ans après la brouille entre Paris et Washington, provoquée par l'intervention américaine en Irak, Nicolas Sarkozy a adressé des félicitations élogieuses au premier président Noir des Etats - Unis.
 005	09	0.4115	Sur le plan international, alors que le pays est engagé dans deux guerres, en Irak et en Afghanistan, le nouveau chef d'Etat a promis de retirer les soldats américains d'Irak "de façon responsable" dans un délai de 16 mois et de concentrer les efforts à la lutte contre Al - Qaïda et les talibans.
-000	10	0.3017	Une période de latence délicate « Le pays est plongé dans deux guerres, en Irak et en Afghanistan, et se dirige vers un déficit annuel de 1000 milliards de dollars, soit 775 milliards d’euros.
-001	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
-002	10	0.2942	Elle permettra à l’équipe de Barack Obama de se constituer.
-003	10	0.3011	Ce renouvellement doit recueillir, pour une bonne part, l’assentiment du Congrès, contrôlé également par les démocrates.
-004	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
-005	10	0.2354	John Podesta, qui fut secrétaire général de la Maison - Blanche sous Bill Clinton, est à la tête de l’équipe chargée de la transition.
-006	10	0.2760	Le sommet des pays du G20 sur la crise financière mondiale réunira de manière inédite les dirigeants des principales nations industrialisées et émergentes.
-007	10	0.3256	Le président Bush, qui a convoqué le sommet du G20, l’envisage comme le début d’un processus.
+000	10	0.2249	La transition entre Bush et Obama durera soixante - dix - sept jours Jusqu’au 20 janvier,le président élu Barack Obama sera informé des décisions prises par le président Bush Elu le 4 novembre, le nouveau président américain ne prendra possession du bureau ovale de la Maison - Blanche que le 20 janvier.
+001	10	0.3017	Une période de latence délicate « Le pays est plongé dans deux guerres, en Irak et en Afghanistan, et se dirige vers un déficit annuel de 1000 milliards de dollars, soit 775 milliards d’euros.
+002	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
+003	10	0.3085	John Podesta est à la tête de l’équipe chargée de la transition « Dans ces conditions, aucune administration n’est complète avant le mois de juin.
+004	10	0.2354	John Podesta, qui fut secrétaire général de la Maison - Blanche sous Bill Clinton, est à la tête de l’équipe chargée de la transition.
+005	10	0.2295	De son côté, le président sortant a demandé que 6,5 millions d’euros du budget 2009 soient consacrés à ce passage de relais.
+006	10	0.2225	Un premier test lors du sommet des pays du G20 Le premier test du fonctionnement de la transition aura lieu le 15 novembre à Washington.
+007	10	0.2760	Le sommet des pays du G20 sur la crise financière mondiale réunira de manière inédite les dirigeants des principales nations industrialisées et émergentes.
 008	10	0.3101	Le dossier irakien comme deuxième échéance de la transition La deuxième échéance prévisible, avant le 20 janvier, vient d’Irak.
 009	10	0.2398	Les forces américaines, qui ont renversé le régime de l’ancien président Saddam Hussein en avril 2003, sont toujours présentes dans ce pays cinq ans plus tard.

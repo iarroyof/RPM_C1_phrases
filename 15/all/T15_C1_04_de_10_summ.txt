@@ -1,4 +1,4 @@
-000	04	0.3026	«J'ai une vie privée compliquée, a - t - elle déclaré sans ambages au Monde, et je ne dirai rien là - dessus.»
-001	04	0.3685	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
-002	04	0.3136	En tant que symbole de l'ouverture en direction de l'immigration, elle était intouchable.
-003	04	0.3635	Cette grossesse audacieusement assumée change la donne.
+000	04	0.2303	Sans dire pour autant qui est le père: plusieurs noms de personnalités connues circulent, mais pour l'instant personne ne semble avoir été mis dans le secret.
+001	04	0.3026	«J'ai une vie privée compliquée, a - t - elle déclaré sans ambages au Monde, et je ne dirai rien là - dessus.»
+002	04	0.3685	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
+003	04	0.2949	On prêtait à Rachida Dati des relations avec deux grands patrons français, l'un de l'industrie, l'autre de l'hôtellerie de luxe.

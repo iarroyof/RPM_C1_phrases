@@ -1,4 +1,4 @@
 000	02	0.2744	Le chef de l'État aurait décidé d'aller plus loin que les recommandations de la commission Copé en portant leur contribution à au moins 0,8%.
 001	02	0.2946	Nicolas Sarkozy, qui doit se voir remettre mercredi après - midi le rapport de la commission Copé sur la nouvelle télévision publique, envisagerait de simplifier le scénario qu'elle préconise, en particulier en matière de financement.
-002	02	0.2765	Côté information, chaque chaîne conservera sa rédaction, mais des synergies seront mises en oeuvre.
-003	02	0.2624	Les obligations d'investissement dans la production par France Télévisions sont revues à la hausse.
+002	02	0.2331	La taxe sur les recettes publicitaires supplémentaires des télévisions privées, chiffrée à 80 millions d'euros, resterait inchangée, précise le quotidien économique En outre, le président de la République devrait demander l'arrêt de la publicité avant 20 heures dès le 1er janvier 2009, et non au 1er septembre 2009 comme le suggère la commission Copé.
+003	02	0.2440	Le montant de la redevance serait lui indexé sur l'inflation, comme le suggérait la commission, ajoute le quotidien, et son assiette élargie aux nouveaux supports de réception (ordinateurs, téléphones portables capables de recevoir la télévision).

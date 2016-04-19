@@ -1,5 +1,5 @@
-000	06	0.2499	Cette visite, essentiellement religieuse et spirituelle, dure douze jours.
-001	06	0.2968	Outre sa rencontre avec Dagpo Rimpotché, l'un des grands maîtres tibétains vivant en France, le Dalaï Lama donnera mardi sa bénédiction à la nouvelle pagode d’Evry dans la banlieue sud de Paris.
-002	06	0.2713	Pour calmer les esprits, le bureau du Tibet à Paris a expliqué que de toute façon, le Dalaï Lama ne souhaitait pas cette rencontre, les dates coïncidant avec les Jeux Olympiques de Pékin qu'il a soutenus de manière constante.
-003	06	0.3005	En attendant, c'est sa femme Carla Bruni - Sarkozy qui doit l'accompagner le 22 août dans le sud de la France, à Lodève dans l'Hérault, à l'occasion de l'inauguration du temple de Lerab Ling, l'un des plus grands d'Europe.
-004	06	0.2330	Il trouve donc un écho dans une société chrétienne comme la France.
+000	06	0.2968	Outre sa rencontre avec Dagpo Rimpotché, l'un des grands maîtres tibétains vivant en France, le Dalaï Lama donnera mardi sa bénédiction à la nouvelle pagode d’Evry dans la banlieue sud de Paris.
+001	06	0.2179	Temps fort de la visite, le chef spirituel délivrera une série d'enseignements à Nantes (ouest de la France) du 15 au 20 août.
+002	06	0.1954	Une annonce qui a suscité la polémique, provoquant la colère de la gauche et la déception des associations des droits de l'homme.
+003	06	0.2713	Pour calmer les esprits, le bureau du Tibet à Paris a expliqué que de toute façon, le Dalaï Lama ne souhaitait pas cette rencontre, les dates coïncidant avec les Jeux Olympiques de Pékin qu'il a soutenus de manière constante.
+004	06	0.3005	En attendant, c'est sa femme Carla Bruni - Sarkozy qui doit l'accompagner le 22 août dans le sud de la France, à Lodève dans l'Hérault, à l'occasion de l'inauguration du temple de Lerab Ling, l'un des plus grands d'Europe.

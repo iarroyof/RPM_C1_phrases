@@ -1,5 +1,5 @@
-000	03	0.2242	C'est l'un des sites les plus visités du Cambodge, après Angkor.
-001	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
-002	03	0.2470	"Les soldats étaient en alerte" Mardi, la tension est montée d'un cran.
-003	03	0.2676	"Nos troupes et les troupes thaïlandaises ont pointé leurs armes les unes vers les autres.
-004	03	0.2573	Néanmoins, les deux pays semblent jouer la carte de l'apaisement.
+000	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
+001	03	0.1403	Il a cependant accepté de soutenir la candidature du site à une condition : il ne devait en aucun cas inclure les environs du temple.
+002	03	0.2056	Selon des témoins, les soldats des deux pays ont pointé leurs armes en direction les uns des autres, à deux reprises pendant dix minutes.
+003	03	0.1520	Des délégations de chaque pays, comprenant les ministres de la Défense, se rencontreront lundi en Thaïlande pour tenter d'apaiser les tensions, a annoncé Khieu Kanharith, porte - parole du gouvernement cambodgien.
+004	03	0.1434	Ils ont consenti des avancées afin d'éviter toute tension", a - t - il déclaré, précisant cependant que les deux pays maintiendraient leurs soldats sur place.

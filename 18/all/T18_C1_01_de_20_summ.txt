@@ -1,8 +1,8 @@
-000	01	0.4404	A la vérité, l'esprit du service public audiovisuel est mort en 1987, quand un ministre nommé François Léotard (il s'en est mordu les doigts, tardivement, depuis) a privatisé TF1.
-001	01	0.3676	Dès les années 80, avec les créations de Canal + et de la Cinq berlusconienne, l'argent vient rôder autour du système, avant de l'engloutir en 1987, s'appropriant la Une, et contaminant le reste.
-002	01	0.3159	Bénéficiant de davantage de moyens, TF1 est techniquement meilleur que son concurrent, et recourt moins systématiquement au cache - misère du micro - trottoir permanent.
-003	01	0.3134	Mais si bien cachés, si épisodiques, si tardifs !
-004	01	0.2848	Certes, le 19 - 20 de France 3 offre souvent une vraie alternative aux deux autres journaux, réussissant parfois à imposer une hiérarchie véritablement différente.
-005	01	0.3211	Embaucher d'anciens animateurs de la télévision privée (Sabatier et Courbet), c'est donner un étrange signal.
+000	01	0.2230	En un mot, un seul, au micro de RTL, Sarkozy a donc fusillé la commission Copé, qu'il avait lui - même mise en place pour tenter de donner une forme cohérente à son annonce - surprise de la suppression de la publicité sur les chaînes publiques.
+001	01	0.2263	Il en va de ces phénomènes comme des krachs boursiers, amplifiés et auto - entretenus dès lors qu'ils sont déclenchés.
+002	01	0.4404	A la vérité, l'esprit du service public audiovisuel est mort en 1987, quand un ministre nommé François Léotard (il s'en est mordu les doigts, tardivement, depuis) a privatisé TF1.
+003	01	0.3676	Dès les années 80, avec les créations de Canal + et de la Cinq berlusconienne, l'argent vient rôder autour du système, avant de l'engloutir en 1987, s'appropriant la Une, et contaminant le reste.
+004	01	0.3159	Bénéficiant de davantage de moyens, TF1 est techniquement meilleur que son concurrent, et recourt moins systématiquement au cache - misère du micro - trottoir permanent.
+005	01	0.2848	Certes, le 19 - 20 de France 3 offre souvent une vraie alternative aux deux autres journaux, réussissant parfois à imposer une hiérarchie véritablement différente.
 006	01	0.5704	Informer sans chercher à plaire, éduquer sans ennuyer, distraire sans déshonorer, aimer sans compromettre, rassembler sans aseptiser, explorer sans se perdre : l'exercice relève de la contradiction permanente, entre un média calibré pour s'adresser aux émotions, et la nécessité d'en distordre en permanence les messages pour qu'ils trouvent aussi, en même temps, le chemin des cerveaux réfractaires.
-007	01	0.2920	La recette n'est déposée dans aucun grimoire.
+007	01	0.2556	Et ce n'est qu'au prix de cette volonté, que l'Etat pourra un jour expliquer aux citoyens la nécessité d'augmenter l'impôt finançant l'entreprise, parce que le service le vaut bien.

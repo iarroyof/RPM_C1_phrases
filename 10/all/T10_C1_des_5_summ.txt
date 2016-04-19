@@ -1,7 +1,7 @@
 000	01	0.3467	La nounou en situation irrégulière Le 5 août, des passants ont trouvé Mohamed, seul, sur une esplanade de la cité Fonscolombes et l'ont confi à la police.
-000	02	0.2623	Elle est toujours recherchée activement», a déclaré à l'AFP le procureur de la République, Jacques Dallest.
-000	03	0.2996	Elle est toujours recherchée activement", a affirmé le procureur de la République, Jacques Dallest.
-000	04	0.2694	"Tant que nous ne l'aurons pas entendu, beaucoup de choses ne pourront pas être vérifiées.
+000	02	0.2503	En effet, les enquêteurs n'ont pas pu déterminer si la maman du petit Mohamed savait que la nourrice à qui elle a confié son fils était en situation irrégulière.
+000	03	0.2306	Les enquêteurs n'ont pas pu déterminer avec certitude si elle savait que la nourrice occasionnelle était en situation irrégulière.
+000	04	0.2305	"Elle a expliqué aux policiers qu'elle était partie le 9 juillet dernier en Algérie au chevet de sa mère malade, mais qu'elle n'avait pu prendre son petit dernier, né en Algérie, pour une question de passeport", a déclaré mardi le procureur de la République Jacques Dallest.
 000	05	0.4358	Pour éclaircir le mystère, le parquet a décidé en début de semaine de lancer un appel à témoins, relayé dans la presse.
 000	06	0.3221	Si elle a laissé son fils entre les mains de la nounou, Naïma, toujours introuvable, c'est parce qu'elle avait "confiance en elle".
 000	07	0.4077	Selon Karine Dussourt, le petit garçon aurait échappé à la surveillance de la "nounou" dans un jardin de la cité.

@@ -1,5 +1,5 @@
-000	09	0.3228	Pourquoi ?
-001	09	0.4560	Ainsi du drame de la famille Pierra dont le fils Hervé, plongé dans un coma végétatif irréversible, est décédé après le retrait de sa sonde alimentaire et une agonie de six jours (1).
+000	09	0.4560	Ainsi du drame de la famille Pierra dont le fils Hervé, plongé dans un coma végétatif irréversible, est décédé après le retrait de sa sonde alimentaire et une agonie de six jours (1).
+001	09	0.2958	"La famille a vécu une situation inacceptable qui n'aurait pas eu lieu avec des soins palliatifs adaptés et un véritable accompagnement des parents", assure Bernard Devalois, chef de l'unité des soins palliatifs de l'hôpital de Puteaux (Hauts - de - Seine).
 002	09	0.3079	"Les équipes médicales se trouvent alors dans une situation très délicate", estime le député, pour qui la transgression pourrait en ce cas être assumée collectivement par une équipe qui, au final, ne serait pas poursuivie, compte tenu des circonstances exceptionnelles.
 003	09	0.2971	"Cette approche permet un traitement au cas par cas avec l'avantage de ne pas dépénaliser l'euthanasie et l'acte de tuer", fait observer Jean Leonetti.
 004	09	0.3081	Kouchner et Morano réclament une exception d'euthanasie Pour le député socialiste de la Nièvre, Gaëtan Gorce, l'exception d'euthanasie prendrait une autre forme.

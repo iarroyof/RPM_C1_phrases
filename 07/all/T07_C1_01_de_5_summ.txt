@@ -1,2 +1,2 @@
-000	01	0.3038	Extrait : "La question du jour est : qui va porter le chapeau ?
-001	01	0.3232	On dirait des hamsters sous acides, ces branIeurs.
+000	01	0.2406	A signaler pour les fans, on peut acheter en ligne un T - shirt "Jerôme Kerviel's girlfriend", 17,99 dollars pièce, plusieurs coloris disponibles.
+001	01	0.2890	Ou adhérer au comité de soutien "sauvez Kerviel,victime d'un lynchage médiatique sans précédent", qui pour le moment, il faut bien le dire, ne fait pas beaucoup d'émules.

@@ -1,2 +1,2 @@
-000	05	0.3380	Aucune rencontre n'est prévue avec Nicolas Sarkozy.
-001	05	0.3056	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
+000	05	0.3056	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
+001	05	0.2829	Hier matin, Jean - Pierre Raffarin, qui accompagnait le chef de l'Etat en Chine, a estimé qu'il y avait « un lien entre la présence de Nicolas Sarkozy, ses discussions avec le président chinois et le contrat très important que vient de signer EDF avec le géant de l'électricité en Chine ».

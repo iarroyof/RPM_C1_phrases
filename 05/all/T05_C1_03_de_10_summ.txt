@@ -1,2 +1,2 @@
-000	03	0.3047	Réaction d'Alex Türk, président de la Cnil (Commission nationale de l'informatique et des libertés).
-001	03	0.2943	C'est juste une adaptation au nouveau système de renseignements, à la fusion des RG et de la DST.
+000	03	0.2453	Sa création est contestée par la Ligue des droits de l'homme et par le premier syndicat d'éducateurs de la protection judiciaire de la jeunesse.
+001	03	0.2174	Mais le décret stipule que les «mineurs de 16 ans» sont concernés uniquement par les atteintes à l'ordre public, les deux autres points concernant les mineurs âgés de 13 ans et plus.

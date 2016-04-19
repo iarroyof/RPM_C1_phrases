@@ -1,6 +1,6 @@
-000	01	0.2771	Pourquoi le CSM était - il saisi ?
-001	01	0.2278	Les syndicats de magistrats dénoncent aussitôt «des pressions» exercées sur leur collègue.
-002	01	0.2387	Celui - ci, ainsi que sa hiérarchie, va être auditionné par le CSM dans la première semaine de novembre.
-003	01	0.3010	«Il est sain que le CSM entende directement les protagonistes pour se faire une opinion en toute indépendance», estime Christophe Regnard, le nouveau président de l’USM.
+000	01	0.2088	Entre 23h45 et 0h30, ils interrogent le substitut du procureur sur les raisons qui l’avaient amené à incarcérer ce mineur.
+001	01	0.2387	Celui - ci, ainsi que sa hiérarchie, va être auditionné par le CSM dans la première semaine de novembre.
+002	01	0.3010	«Il est sain que le CSM entende directement les protagonistes pour se faire une opinion en toute indépendance», estime Christophe Regnard, le nouveau président de l’USM.
+003	01	0.2204	L’initiative du CSM intervient alors que les magistrats dans leur ensemble tempêtent contre le manque de soutien et les pressions dont ils s’estiment victimes de la part de Rachida Dati, la garde des Sceaux.
 004	01	0.2523	Quant aux modalités de l’inspection [la nuit, avec des délais de réponse très courts, ndlr], ce n’est pas la ministre qui les fixe».
-005	01	0.2631	Le CSM poursuit sa réflexion sur ce point.
+005	01	0.2214	Une telle audition n’aurait aucune conséquence sur la situation de la ministre, le CSM pouvant seulement transmettre un avis défavorable au chef de l’Etat, mais sans valeur contraignante.

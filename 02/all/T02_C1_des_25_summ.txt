@@ -1,44 +1,44 @@
 000	01	0.2607	Vendredi matin, le groupe Caisse d’Epargne a annoncé avoir perdu 600 millions d’euros en raison d’un «incident de marché dans l’activité dérivés actions», du fait de «l’extrême volatilité des marchés et du krach boursier de la semaine du 6 octobre» .
-001	01	0.2319	«Je suis particulièrement frustrée et découragée de la survenance de cet événement», a lancé Christine Lagarde vendredi, alors qu’elle sortait justement du premier conseil d’administration de la société de refinancement des banques, instaurée par le gouvernement pour les aider à emprunter.
-002	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
-003	01	0.2645	Et, selon l’AFP, le directeur financier de la CNCE devrait démissionner.
+001	01	0.2301	La révélation de cette «paume» tombe au plus mauvais moment pour l’Ecureuil, qui discute fusion avec les Banques Populaires.
+002	01	0.2319	«Je suis particulièrement frustrée et découragée de la survenance de cet événement», a lancé Christine Lagarde vendredi, alors qu’elle sortait justement du premier conseil d’administration de la société de refinancement des banques, instaurée par le gouvernement pour les aider à emprunter.
+003	01	0.3012	Et la ministre de l’Economie de poursuivre : «Je suis découragée car nous sommes en train de mettre en place une déclinaison puissante du plan convenu au sein de l’Eurogroupe.
 004	01	0.2987	Le président du directoire de la CNCE aura - t - il le loisir d’annoncer son retrait une fois la fusion avec les Banques Populaires accomplie?
 000	02	0.3017	Le parquet de Paris avait ouvert une enquête préliminaire vendredi 24 octobre afin de «déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales».
-001	02	0.2289	Suite à des recherches menées par les services de l'inspection et de la déontologie de la Caisse nationale des Caisses d'épargne et de prévoyance (CNCE), la banque avait constaté des «éléments troublants» concernant les conditions de réalisation des opérations qui ont engendré cette perte.
-002	02	0.2264	Le 22 octobre, un audit interne de la banque l'estimait à 695 millions d'euros.
-003	02	0.2424	Vendredi, la plainte déposée par la CNCE faisait référence à une perte de 751 millions d'euros.
+001	02	0.1663	Lundi, les policiers de la brigade financière s'étaient ainsi rendus au siège parisien de la banque pour se faire remettre des documents.
+002	02	0.2289	Suite à des recherches menées par les services de l'inspection et de la déontologie de la Caisse nationale des Caisses d'épargne et de prévoyance (CNCE), la banque avait constaté des «éléments troublants» concernant les conditions de réalisation des opérations qui ont engendré cette perte.
+003	02	0.1740	La Caisse d'épargne avait annoncé le 17 octobre avoir perdu 600 millions d'euros suite au débouclage d'opérations effectuées par des traders en pleine débâcle financière.
 000	03	0.2687	"Elle vise à déterminer le mécanisme qui a conduit à cette perte et à rechercher d'éventuelles responsabilités pénales", a précisé le parquet de Paris.
 001	03	0.3214	"Une stratégie risquée" Le directoire de la Caisse d'Épargne avait décidé en avril dernier de l'arrêt des activités d'investissement pour son compte propre et l'équipe de la salle des marchés de l'Écureuil était censée liquider progressivement son portefeuille d'ici la fin de l'année.
 002	03	0.2572	Pourtant, "à partir du 15 septembre", au lieu d'agir en ce sens, le trader "semble s'être engagé de sa propre initiative et pour des montants importants (...) dans une stratégie risquée", note le rapport interne.
 003	03	0.3530	"Cette stratégie sera renouvelée plusieurs fois au cours du mois et début octobre, y compris sur des montants exceptionnellement élevés", poursuit le document qui souligne que "cette dérive dans la gestion" n'a pas été perçue à temps "du fait d'un nombre important de défaillances du contrôle interne et d'alertes ignorées".
 004	03	0.2725	Des notes qui viennent contredire la version donnée par le numéro deux du groupe, Nicolas Mérindol, après la révélation des pertes.
-000	04	0.2105	La CNCE dans le rouge cette année Dépréciations.
+000	04	0.1894	Outre les 600 millions d'euros évaporés sur les marchés, les déboires du rehausseur de crédit CIFG ou les pertes encourues sur Lehman Brothers, l'Ecureuil pourrait aussi avoir à déprécier ses participations dans Natixis et Nexity, dont les cours de Bourse se sont effondrés depuis un an.
 000	05	0.3972	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
-001	05	0.2662	« J'en accepte néanmoins l'entière responsabilité.
-002	05	0.2528	Ayant consacré ma vie entière aux Caisses d'Épargne, je n'ai pas un instant envisagé de me soustraire aux responsabilités qui sont les miennes », a - t - il ajouté.
-003	05	0.2395	Il est remplacé par Bernard Comolet, président du directoire de la Caisse d'Épargne d'Ile - de - France.
-004	05	0.2251	Alors que le président Nicolas Sarkozy avait exigé vendredi que les responsables de cette affaire, qui a suscité un vif émoi en France, « en tirent les conséquences », seuls les responsables directs de cette perte, des traders jusqu'au directeur financier, avaient jusqu'à présent été sanctionnés.
-005	05	0.2600	Il a conduit avec détermination la transformation de cette «micheline de l'épargne» en une grande banque universelle à la faveur de diverses opérations de croissance (Crédit Foncier, CDC Ixis puis Natixis).
+001	05	0.2528	Ayant consacré ma vie entière aux Caisses d'Épargne, je n'ai pas un instant envisagé de me soustraire aux responsabilités qui sont les miennes », a - t - il ajouté.
+002	05	0.2251	Alors que le président Nicolas Sarkozy avait exigé vendredi que les responsables de cette affaire, qui a suscité un vif émoi en France, « en tirent les conséquences », seuls les responsables directs de cette perte, des traders jusqu'au directeur financier, avaient jusqu'à présent été sanctionnés.
+003	05	0.2600	Il a conduit avec détermination la transformation de cette «micheline de l'épargne» en une grande banque universelle à la faveur de diverses opérations de croissance (Crédit Foncier, CDC Ixis puis Natixis).
+004	05	0.2121	Titulaire d'un diplôme de l'Institut supérieur de gestion (ISG), il fait ses classes chez Renault et à la Caisse des Dépôts, avant d'intégrer l'Ecureuil en 1988.
+005	05	0.2228	Chargé des finances et des risques, Julien Carmona, 38 ans, est entré au directoire de la CNCE en juin 2007.
 006	05	0.2493	Diplômé de l'Ecole normale supérieure, et ancien élève de l'ENA, cet inspecteur des finances a fait ses classes à la direction financière de BNP Paribas.
 007	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
-008	05	0.2461	J'en accepte néanmoins l'entière responsabilité.
-009	05	0.3113	Je suis heureux et fier d'avoir pu y contribuer, au travers de transformations si profondes qu'elles ont, je le sais bien, dérangé beaucoup d'habitudes et de situations acquises.
-010	05	0.2967	De l'affaire Kerviel à «l'incident» de la Caisse d'Epargne: la folie des traders Une affaire Kerviel bis ?
+008	05	0.3113	Je suis heureux et fier d'avoir pu y contribuer, au travers de transformations si profondes qu'elles ont, je le sais bien, dérangé beaucoup d'habitudes et de situations acquises.
+009	05	0.2097	Depuis la révélation de la perte de 600 millions d'euros par la Caisse d'Épargne, lors d'un « incident » lié à des opérations financières conduites par des traders, la question du rapprochement entre les sinistres bancaires à la Société générale et à l'Écureuil ne manque pas de se poser.
+010	05	0.2036	En janvier dernier, la Soc Gen avait vu s'envoler la somme colossale de 4,9 milliards d'euros à la suite de spéculations sur les marchés et de manipulations sur plus de 50 millions d'euros.
 011	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
 012	05	0.2719	Nicolas Mérindol, jusqu'ici numéro 2 de la Caisse d'Épargne, estime de son côté que les traders emportés par l'emballement du système « ont été pris par la crise ».
 013	05	0.2420	Interrogé sur les suites de l'affaire et de la perte de 600 millions d'euros, l'entourage de la ministre a rappelé avoir «demandé un pré - rapport» à la commission bancaire «avant la fin de la semaine pour savoir exactement ce qui s'est passé et les mesures qui doivent être prises pour renforcer les contrôles internes aux Caisses d'Epargne».
-000	06	0.3230	L'emplacement de son domicile et l'éventuelle saisie de documents relatifs à l'affaire n'ont pas été précisés dans l'immédiat.
-001	06	0.2774	Cette garde à vue peut être prolongée jeudi matin de 24 heures supplémentaires.
+000	06	0.2324	Boris, le Jérôme Kerviel de la Caisse d'Epargne Le trader de la Caisse d'Epargne responsable dela perte de 751 millions d'euros s'appelle Boris et est âgé de 33 ans.
+001	06	0.0821	Ce trader de 33 ans, Boris P. , a été placé en garde à vue mercredi matin dans les locaux de la Brigade financière dans le cadre de l'enquête préliminaire ouverte vendredi par le parquet de paris à la suite d'une plainte contre X de la Caisse nationale des Caisses d'épargne et de prévoyance (CNCE) pour "abus de confiance".
 000	07	0.2683	Interrogée sur ce qui a conduit son client à prendre ces positions, Me Bernaille a indiqué qu'il réservait ses réponses au juge d'instruction et qu'elle n'avait pas l'intention de "médiatiser" ce dossier, "comme dans l'affaire Kerviel".
 001	07	0.2890	Me Cécile Bernaille a pointé également la responsabilité de la banque à travers "la défaillance de ses systèmes de contrôle": "Dans une banque, il semble qu'il y ait un directeur des risques qui surveille".
 002	07	0.2745	Un rapport préliminaire de l'Inspection générale de la Caisse d'Epargne avait déjà pointé une "dérive" dans la gestion des risques ainsi qu'"un nombre important de défaillances" au sein de la banque.
 000	08	0.2176	L’enseigne avait évoqué un « incident de marché », et imputé l’affaire à des manœuvres irrégulières isolées de ses employés.
-001	08	0.2618	Avant - hier, la société a fait savoir qu’elle avait été victime d’un incident informatique.
-002	08	0.2490	Interrogée sur l’incident, qu’elle a tenu à minimiser, la Caisse nationale des caisses d’épargne a affirmé que l’erreur devait être réparée hier soir.
-003	08	0.2652	Face aux tourments de l’Ecureuil, reste à savoir si les épargnants décideront d’aller placer leurs noisettes ailleurs.
+001	08	0.2003	Selon ce rapport, l’affaire résulterait d’un dysfonctionnement global du système interne de contrôle et de direction de la banque.
+002	08	0.2049	Coïncidence fâcheuse pour l’Ecureuil : l’arrestation du trader se produit au moment où une autre affaire vient dégrader l’image de la banque, traditionnellement considérée comme spécialiste du placement sans risque.
+003	08	0.2490	Interrogée sur l’incident, qu’elle a tenu à minimiser, la Caisse nationale des caisses d’épargne a affirmé que l’erreur devait être réparée hier soir.
 000	09	0.0999	﻿Démission des trois dirigeants de la Caisse d'épargne A l’issue d’un conseil de surveillance extraordinaire, qui s’est tenu dimanche, les trois principaux dirigeants de la Caisse d’Epargne, le président Charles Milhaud, le directeur général Nicolas Mérindol et Julien Carmona, en charge des finances et des risques, ont démissionné dimanche, a indiqué à l’ AFP une source proche du dossier.
-000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
-001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
-002	10	0.2511	Le débouclage des opérations débute le 15 octobre et s’achève le 17 octobre.
-003	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.
-004	10	0.2963	Ce qui justifie l'annonce de Bercy de débloquer en urgence 10,5 milliards d’euros pour les banques.
+000	10	0.2156	Ce n'est pas un "incident de marché" mais le résultat d'une "dérive" dans la gestion des risques de la banque.
+001	10	0.2433	Ainsi, la perte de 695 millions d'euros de l'Ecureuil s'expliquerait par "un nombre important de défaillances de contrôle interne", des "alertes ignorées" et "cette dérive dans la gestion n’(a pas été) perçue à temps", note le document de 13 pages Aucune réaction... En avril 2008, la banque avait décidé l'arrêt de ses activités de trading.
+002	10	0.2073	L'établissement devait donc en finir avec ses pratiques de gestion pour compte propre (ou utilisation de ses fonds propres en Bourse) avant fin 2008.
+003	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+004	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.

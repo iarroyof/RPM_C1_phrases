@@ -1,3 +1,3 @@
 000	09	0.2549	SocGen - Pour Nick Leeson, Jérôme Kerviel doit être soulagé Nick Leeson, le trader britannique ayant causé la chute de la Barings dans les années 90 estime que le fraudeur présumé de la Société générale doit se sentir soulagé d’avoir été démasqué après avoir joué aussi gros.
-001	09	0.2753	C’était l’ancien "recordman".
-002	09	0.2633	"Ca arrive tous les jours" Jérôme Kerviel, qui serait à l’origine de cette fraude, est aujourd’hui introuvable.
+001	09	0.2289	En février 1995, à 28 ans, Nick Leeson avait engagé près de 27 milliards de dollars sur les produits dérivés asiatiques, provoquant 1,4 milliards de dollars de pertes pour la Barings (950 millions d'euros actuels).
+002	09	0.2309	"Les gens du règlement chez SocGen auraient dû se rendre compte que quelque chose n'allait pas", estime Nick Leeson.

@@ -1,4 +1,4 @@
 000	01	0.4404	A la vérité, l'esprit du service public audiovisuel est mort en 1987, quand un ministre nommé François Léotard (il s'en est mordu les doigts, tardivement, depuis) a privatisé TF1.
 001	01	0.3676	Dès les années 80, avec les créations de Canal + et de la Cinq berlusconienne, l'argent vient rôder autour du système, avant de l'engloutir en 1987, s'appropriant la Une, et contaminant le reste.
-002	01	0.3211	Embaucher d'anciens animateurs de la télévision privée (Sabatier et Courbet), c'est donner un étrange signal.
+002	01	0.3159	Bénéficiant de davantage de moyens, TF1 est techniquement meilleur que son concurrent, et recourt moins systématiquement au cache - misère du micro - trottoir permanent.
 003	01	0.5704	Informer sans chercher à plaire, éduquer sans ennuyer, distraire sans déshonorer, aimer sans compromettre, rassembler sans aseptiser, explorer sans se perdre : l'exercice relève de la contradiction permanente, entre un média calibré pour s'adresser aux émotions, et la nécessité d'en distordre en permanence les messages pour qu'ils trouvent aussi, en même temps, le chemin des cerveaux réfractaires.

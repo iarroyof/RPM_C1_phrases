@@ -1,5 +1,5 @@
 000	09	0.2393	La mère du garçon de deux ans et demi trouvé seul à Marseille il y a deux semaines, a expliqué mardi aux enquêteurs, dès son retour à Marseille, que l'amie à qui elle avait confié son fils avant de partir en Algérie ne lui avait pas dit que le garçon avait disparu.
-001	09	0.2802	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il avait été remarqué par des passants qui l'avaient confié à la police.
-002	09	0.3765	La mère, de nationalité algérienne et résidente régulière en France, a soutenu avoir appelé à plusieurs reprises la "nounou" de son fils.
-003	09	0.2948	Le problème, c'est que la nounou lui a menti pendant 13 jours.
+001	09	0.2187	Ce qui pourrait expliquer le fait qu'elle ne se soit pas présentée aux autorités après la découverte le 5 août de l'enfant errant, seul, dans une cité du nord de Marseille, Fonscolombe.
+002	09	0.2802	Vêtu d'un T - shirt blanc, d'un short orange et de baskets argentées, il avait été remarqué par des passants qui l'avaient confié à la police.
+003	09	0.3765	La mère, de nationalité algérienne et résidente régulière en France, a soutenu avoir appelé à plusieurs reprises la "nounou" de son fils.
 004	09	0.2488	Selon Khaldia Dussourt, le petit garçon aurait échappé à la surveillance de la "nounou" dans un jardin de la cité.

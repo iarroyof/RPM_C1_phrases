@@ -1,6 +1,6 @@
-000	01	0.2667	Pour combien de temps ?
-001	01	0.2954	Conciliabule.
+000	01	0.2234	Sarkozy, un président très exposé La crédibilité du chef de l’Etat français repose en partie sur la réussite de ce sommet.
+001	01	0.2117	Voulu par Nicolas Sarkozy fin septembre, depuis la tribune de l’ONU à New York, ce sommet du G20 qu’il n’a cessé de présenter des semaines durant comme un événement majeur, voire «révolutionnaire» , n’aura pas la portée d’un «nouveau Bretton Woods» qu’il souhaitait lui donner.
 002	01	0.3582	Les mesures que nous avons prises ont permis de stabiliser les choses, on n’en est pas encore sorti mais il faut changer les choses.
-003	01	0.2435	Il faut les changer durablement, structurellement.»
-004	01	0.2376	Agenda.
-005	01	0.2847	Mais son absence à ce sommet n’a pas été prise comme une mauvaise nouvelle par l’Elysée.
+003	01	0.1895	La veille encore, il prévenait depuis l’Elysée que le dollar ne pouvait plus «prétendre à être la seule monnaie du monde».
+004	01	0.2288	En aparté, avec ses pairs chefs d’Etat, il a menacé de «reprendre [son] avion» s’il sentait que rien n’allait sortir du grand conciliabule de Washington.
+005	01	0.2336	Il a confié au socialiste Didier Migaud et au centriste Jean Arthuis, la présidence d’un groupe de travail qui lui a remis jeudi des «propositions de réforme du système financier».

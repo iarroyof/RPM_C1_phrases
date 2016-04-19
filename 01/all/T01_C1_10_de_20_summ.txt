@@ -1,4 +1,4 @@
 000	10	0.3046	Libération d'Ingrid Betancourt: la joie et les arrières pensées La France a vécu mercredi soir un de ces moments exceptionnels de joie collective comme il en existe trop peu souvent.
 001	10	0.3952	Cette médiatisation, qui s’est progressivement imposée comme l’un des rares moyens de pression pour espérer obtenir la libération des otages, peut être risquée pour les responsables politiques ainsi contraints à des obligations de résultats.
-002	10	0.2779	Dans la joie unanime, mercredi soir, de voir Ingrid Betancourt libre, il était difficile de ne pas lire aussi les arrières pensées.
-003	10	0.2953	Comme dans tous les dénouements de prises d’otages.
+002	10	0.2746	Et Jacques Chirac a vainement tenté de tirer un bénéfice politique de la libération d’otages du Liban en plein entre - deux tours de l’élection présidentielle de 1988.
+003	10	0.2779	Dans la joie unanime, mercredi soir, de voir Ingrid Betancourt libre, il était difficile de ne pas lire aussi les arrières pensées.

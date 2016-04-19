@@ -1,4 +1,4 @@
-000	03	0.3054	Alors qu’il vient de s’engager à disputer le Tour d’Italie, en mai 2009, l’Américain émet des doutes sur sa présence même au départ du Tour 2009, en juillet.
-001	03	0.2683	A - t - il brutalement pris conscience de la difficulté de son pari à 37 ans?
-002	03	0.2200	Tout est possible mais je trouverais cela incroyable.
-003	03	0.2346	J’espère qu’il y aura une solution diplomatique et pacifique.
+000	03	0.1583	Armstrong s’interroge Qunad il a annoncé son grand come - back voilà un mois, Lance Armstrong avançait pour principal objectif une huitième victoire dans le Tour de France… Etrangement, il semble aujourd’hui avoir largement revu ses ambitions à la baisse.
+001	03	0.3054	Alors qu’il vient de s’engager à disputer le Tour d’Italie, en mai 2009, l’Américain émet des doutes sur sa présence même au départ du Tour 2009, en juillet.
+002	03	0.1878	Tout le monde connaît son importance mais, avec les problèmes que j’ai avec les organisateurs, les journalistes et les fans, je pourrais être détourné de ma mission : focaliser l’attention internationale sur la bataille contre le cancer.
+003	03	0.2060	« Avant d’annoncer mon retour, j’ai contacté l’organisation mais je n’ai pas encore eu de réponse, dit - il encore.

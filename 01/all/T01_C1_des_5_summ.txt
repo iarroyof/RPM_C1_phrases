@@ -3,7 +3,7 @@
 000	03	0.5739	Une mission des émissaires chargés par la France, la Suisse et l'Espagne d'une médiation avec les Farc en faveur des otages, se trouvait dans le sud du pays peu avant l'opération, selon l'un d'eux, le Français Noël Saez.
 000	04	0.2241	Elle constitue une victoire politique importante pour le président colombien Alvaro Uribe, qui avait défendu une ligne dure vis - à - vis des guérilleros des FARC en dépit des critiques internationales.
 000	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
-001	05	0.4589	Un scénario trop parfait?
+001	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
 000	06	0.3430	"C'est un moment très très émouvant pour moi, respirer l'air de la France, d'être avec vous", a - t - elle confié devant l'avion de la République française.
 000	07	0.2872	Des soldats se sont présentés comme les membres d'un groupe humanitaire chargé de convoyer les otages par hélicoptère vers un autre camp pour y rencontrer le nouveau chef des Farc, Alfonso Cano.
 001	07	0.3319	Le président socialiste vénézuélien Hugo Chavez, aux antipodes d'Uribe sur l'échiquier politique, a téléphoné au président colombien pour le féliciter du succès de l'opération, a rapporté la télévision de Caracas.

@@ -1,11 +1,11 @@
-000	05	0.2625	Martine Aubry, quant à elle, a recueilli des applaudissements nourris, en plaidant pour un PS "ancré à gauche".
+000	05	0.2274	"Le congrès a envoyé un signe fort à Martine, elle est au bord de la candidature", a confié au JDD.
 001	05	0.3118	Martine Aubry a largement vaincu Ségolène Royal à l'applaudimètre, dans la salle plénière du parc des expositions de Reims.
-002	05	0.3663	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
-003	05	0.3316	Les applaudissements ont fusé.
-004	05	0.2457	Pourtant Martine Aubry, si elle a fait état, à nouveau, de sa "détermination", n'a pas annoncé sa candidature.
-005	05	0.2453	fr Philippe Martin, député du Gers, à la fin de la réunion.
-006	05	0.2426	"Le congrès dans son ensemble a envoyé une signal fort à Martine.
-007	05	0.2653	Aujourd'hui, il y a eu deux événements inattendus: le discours de Ségolène Royal qui a été mal accueilli par le parti, car il ne correspond pas aux valeurs du parti.
-008	05	0.4547	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+002	05	0.2030	A la "tendresse", "la guérison" et "l'amour" prônés par Royal, la maire de Lille a rétorqué "ancrage à gauche", "vision politique" et "donner un sens à la société".
+003	05	0.3663	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
+004	05	0.1685	La foule était bien plus dense que la veille, les responsables ont dû faire lever les militants pour que tout le monde puisse rentrer.
+005	05	0.2136	"Je souscris aux propos de Pierre Mauroy, a - t - il continué, avant d'ajouter: Lorsqu'on a entendu les deux discours, on comprend qu'il n'y a plus qu'une seule candidate".
+006	05	0.2653	Aujourd'hui, il y a eu deux événements inattendus: le discours de Ségolène Royal qui a été mal accueilli par le parti, car il ne correspond pas aux valeurs du parti.
+007	05	0.4547	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+008	05	0.1781	Ceux qui ont écouté les deux discours ont compris les différences de fond", a - t - il dit, en espérant que les congressistes fassent "bouger" Bertrand Delanoë.
 009	05	0.3072	Car du côté de la réunion de motion de Delanoë, on se disait toujours aussi sûr de réussir à constituer une "majorité".
 010	05	0.3006	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.

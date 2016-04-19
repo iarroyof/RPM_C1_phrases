@@ -1,5 +1,5 @@
-000	09	0.2408	Mais ces sites Web ne citaient aucune source officielle.
-001	09	0.2331	« Je veux rester prudente car ce n’est pas encore consolidé, a déclaré la ministre de la Justice, lors d’une conversation informelle rapportée sur le site Le Monde.fr.
-002	09	0.3844	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
+000	09	0.2331	« Je veux rester prudente car ce n’est pas encore consolidé, a déclaré la ministre de la Justice, lors d’une conversation informelle rapportée sur le site Le Monde.fr.
+001	09	0.3844	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
+002	09	0.2003	Exclue du « G7 », ce groupe de ministres privilégiés se réunissant régulièrement autour de Nicolas Sarkozy, et moins en vue auprès du président de la République, Rachida Dati, un des symboles les plus marquants de l’ouverture à la diversité voulue par Sarkozy, restera - t - elle longtemps au gouvernement ?
 003	09	0.2981	Ou bien sa grossesse fournira - t - elle un prétexte pour une « sortie » en douceur ?
 004	09	0.2710	» De fait, elle n’est pas la première femme à être ministre et enceinte : Ségolène Royal à l’Environnement en 1992, Frédérique Bredin aux Sports la même année et Florence Parly au Budget en 2000 sont restées en poste malgré leur grossesse.

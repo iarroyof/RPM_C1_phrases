@@ -1,3 +1,3 @@
 000	02	0.2744	Le chef de l'État aurait décidé d'aller plus loin que les recommandations de la commission Copé en portant leur contribution à au moins 0,8%.
 001	02	0.2946	Nicolas Sarkozy, qui doit se voir remettre mercredi après - midi le rapport de la commission Copé sur la nouvelle télévision publique, envisagerait de simplifier le scénario qu'elle préconise, en particulier en matière de financement.
-002	02	0.2765	Côté information, chaque chaîne conservera sa rédaction, mais des synergies seront mises en oeuvre.
+002	02	0.2440	Le montant de la redevance serait lui indexé sur l'inflation, comme le suggérait la commission, ajoute le quotidien, et son assiette élargie aux nouveaux supports de réception (ordinateurs, téléphones portables capables de recevoir la télévision).

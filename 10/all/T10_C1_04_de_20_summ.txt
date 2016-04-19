@@ -1,4 +1,4 @@
-000	04	0.2426	"La femme qui avait été missionnée par la mère pour garder l'enfant est identifiée.
-001	04	0.2694	"Tant que nous ne l'aurons pas entendu, beaucoup de choses ne pourront pas être vérifiées.
-002	04	0.2376	Le garçonnet est actuellement placé dans un foyer de l'Aide Sociale à l'Enfance.
+000	04	0.2174	La somme en liquide, 500 euros au départ puis 200 euros prévus au retour, versée pour la garde du garçonnet pourrait constituer une aide au séjour irrégulier de la nourrice, sans papiers.
+001	04	0.2158	Nous avons donc décidé de lever la garde à vue des trois personnes entendues par la brigade des mineurs, dont la maman du petit Mohamed", a - t - il ajouté.
+002	04	0.2264	Elle réside dans le 3e arrondissement de Marseille, non loin de la cité Fonscolombes où a été retrouvé Mohamed le 5 août.
 003	04	0.2305	"Elle a expliqué aux policiers qu'elle était partie le 9 juillet dernier en Algérie au chevet de sa mère malade, mais qu'elle n'avait pu prendre son petit dernier, né en Algérie, pour une question de passeport", a déclaré mardi le procureur de la République Jacques Dallest.

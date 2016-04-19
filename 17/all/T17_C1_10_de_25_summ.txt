@@ -1,12 +1,12 @@
 000	10	0.3123	Xavier Darcos présente sa nouvelle seconde Xavier Darcos a présenté ce mardi matin les grandes lignes de sa réforme de la classe de seconde.
 001	10	0.3580	Au terme de plusieurs mois de consultations, Xavier Darcos a présenté ce mardi matin un "point d'étape" sur la réforme de la classe de seconde, effective dès la prochaine rentrée.
 002	10	0.3631	Après avoir pensé réduire le nombre d'heures d'enseignements hebdomadaires à 27 - ce qui avait provoqué le départ des négociations du SNES, syndicat majoritaire - il propose finalement une formule qui en propose 30.
-003	10	0.4302	C'est là qu'intervient la fameuse "autonomie des établissements": aux principaux et à leur entourage de trouver la meilleure façon de rentabiliser ces heures.
-004	10	0.4038	- Plus de choix: en plus des enseignements généraux (21 heures par semaine, avec du français, des maths, de l'histoire - géographie et de l'éducation civique, de l'EPS, des sciences expérimentales et deux langues vivantes), les lycéens choisiront des disciplines dites d' "exploration et d'approfondissement".
-005	10	0.2725	Ce qui importe, c'est la personnalisation des parcours.
-006	10	0.3337	Soit la seconde change vraiment, et naturellement, la première et la terminale s'en ressentent, jusqu'à l'examen final du bac.
-007	10	0.3311	Le nombre d'heures d'enseignements généraux est quasiment identique, tout comme les matières concernées.
-008	10	0.2785	- Quid des postes?
-009	10	0.4871	Les modules d' "exploration et d'approfondissement" concernent de nombreuses disciplines.
-010	10	0.2704	En Sciences: mathématiques, physique - chimie, sciences de la vie et de la Terre, informatique et société numérique.
+003	10	0.2498	Les autres pourront bénéficier de ce temps - là pour réfléchir à leur orientation, rencontrer des professionnels extérieurs afin de s'informer sur un futur métier, approfondir leurs enseignements.
+004	10	0.4302	C'est là qu'intervient la fameuse "autonomie des établissements": aux principaux et à leur entourage de trouver la meilleure façon de rentabiliser ces heures.
+005	10	0.4038	- Plus de choix: en plus des enseignements généraux (21 heures par semaine, avec du français, des maths, de l'histoire - géographie et de l'éducation civique, de l'EPS, des sciences expérimentales et deux langues vivantes), les lycéens choisiront des disciplines dites d' "exploration et d'approfondissement".
+006	10	0.2431	Xavier Darcos s'est voulu convaincant et l'a répété sur tous les tons: sa réforme de la seconde n'augure pas d'une réforme du bac.
+007	10	0.3337	Soit la seconde change vraiment, et naturellement, la première et la terminale s'en ressentent, jusqu'à l'examen final du bac.
+008	10	0.2671	"Cette seconde Darcos, si peu éloignée de l'actuelle, ne peut qu'aboutir aux mêmes travers structurels qui s'opposent à des parcours souples non enfermants et non ségrégatifs", écrit dans un communiqué son secrétaire général Luc Bérille.
+009	10	0.2403	Xavier Darcos a réaffirmé qu'il n'y aurait pas de suppressions de postes d'enseignants en lycée inscrites au budget 2009, et que les moyens supplémentaires alloués aux établissements les plus en difficulté seraient maintenus.
+010	10	0.2407	Dans la famille Humanités: littérature française, langues et cultures de l'Antiquité (latin, grec), langues vivantes étrangères ou régionales, arts et histoire des arts.
 011	10	0.3606	En technologies: initiation aux sciences de l'ingénieur et de la production, initiation aux sciences médico - sociales, techniques d'atelier et de laboratoire, design, initiation aux technologies de l'hôtellerie et de la restauration, activités physiques et sportives.

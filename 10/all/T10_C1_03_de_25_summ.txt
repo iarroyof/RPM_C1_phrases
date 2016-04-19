@@ -1,3 +1,3 @@
 000	03	0.2180	La maman de Mohamed avait donné à celle - ci de l'argent, de la nourriture et des vêtements pour s'occuper de son fils le temps de son séjour en Algérie.
 001	03	0.2306	Les enquêteurs n'ont pas pu déterminer avec certitude si elle savait que la nourrice occasionnelle était en situation irrégulière.
-002	03	0.2996	Elle est toujours recherchée activement", a affirmé le procureur de la République, Jacques Dallest.
+002	03	0.2053	Les enquêteurs souhaitent notamment l'interroger pour savoir dans quelles circonstances le petit Mohamed a échappé à sa surveillance et s'est retrouvé seul dans la rue.

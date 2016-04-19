@@ -1,10 +1,10 @@
 000	01	0.2738	Le Congrès du PS s'ouvre dans la plus grande confusion Tandis qu'Aubry adresse à Royal une fin de non recevoir, Delanoë temporise.
 001	01	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
 002	01	0.2757	Ségolène Royal, quant à elle, attend désormais de connaître les réactions de ses adversaires à ses propositions de rassemblement.
-003	01	0.3843	Rencontre discrète.
-004	01	0.2693	Mais elle a pris soin de lisser son discours de toute aspérité.
-005	01	0.3172	Mais chez les delanoïstes, certains espèrent encore un compromis avec les royalistes.
-006	01	0.2848	Pendant ce temps, le pôle écologique annonce qu'il «s'engage» au côté de Royal.
+003	01	0.2290	Gonflé à bloc, Benoît Hamon est le premier à réagir à l'intervention de Ségolène Royal mercredi soir sur TF1.
+004	01	0.2490	«On peut avoir le projet le plus socialiste qui soit» mais «qui peut penser qu'avec François Bayrou premier ministre le projet serait mis en œuvre ?
+005	01	0.2200	Il est dans des mains qui ne sont pas très responsables ces jours - ci», râle Vincent Peillon sur BFM.
+006	01	0.2565	«Hamon est mieux placé qu'Aubry pour défendre une ligne d'opposition à l'alliance au centre», explique - t - on à la gauche du PS en rappelant qu'à Lille, Martine Aubry a conclu un accord local avec le MoDem.
 007	01	0.2957	Prudent, il ne ferme aucune porte mais fait part de sa «déception» vis - à - vis des propositions de rassemblement de Royal.
 008	01	0.2685	C'est une fin de non - recevoir : «Nous constatons que (ses positions) ne nous paraissent malheureusement pas à la hauteur des enjeux.»
-009	01	0.2684	Il reste deux jours à Aubry et Delanoë pour s'entendre.
+009	01	0.2094	Même si jeudi soir, étrangement, la maire de Lille a expliqué sur France 2 que «ce n'est pas [son] rêve de diriger le PS».

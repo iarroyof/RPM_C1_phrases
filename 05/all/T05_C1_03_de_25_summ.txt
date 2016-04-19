@@ -1,6 +1,5 @@
-000	03	0.2453	Sa création est contestée par la Ligue des droits de l'homme et par le premier syndicat d'éducateurs de la protection judiciaire de la jeunesse.
-001	03	0.3047	Réaction d'Alex Türk, président de la Cnil (Commission nationale de l'informatique et des libertés).
-002	03	0.2266	La Cnil a émis des réserves sur ce fichier, pourquoi ?
-003	03	0.2329	Estimez - vous que nous arrivons à un excès de fichage ?
-004	03	0.2943	C'est juste une adaptation au nouveau système de renseignements, à la fusion des RG et de la DST.
-005	03	0.2361	Nous serons également vigilants sur la sécurité du système.
+000	03	0.1732	Fichage : «Baisser l'âge à 13 ans est excessif» Mardi, le Journal officiel publiait un décret instituant Edvige, un fichier mis à disposition de la direction centrale de la sécurité publique (DCSP) contenant des «données à caractère personnel» concernant «des personnes physiques âgées de 13 ans et plus».
+001	03	0.2453	Sa création est contestée par la Ligue des droits de l'homme et par le premier syndicat d'éducateurs de la protection judiciaire de la jeunesse.
+002	03	0.0872	D'abord parce que le gouvernement voulait faire passer le décret sans le publier au Journal officiel, ce qui est une possibilité juridique.
+003	03	0.1858	Le fichier peut recenser des données dans trois cas : dans le cadre d'une enquête administrative, d'une atteinte à l'ordre public, ou encore afin de centraliser des informations relatives aux personnalités (élus, syndicalistes, etc.
+004	03	0.2174	Mais le décret stipule que les «mineurs de 16 ans» sont concernés uniquement par les atteintes à l'ordre public, les deux autres points concernant les mineurs âgés de 13 ans et plus.

@@ -1,7 +1,7 @@
 000	05	0.2299	Ce choix a aussitôt été critiqué par John Boehner, chef de la minorité républicaine à la Chambre des représentants, qui a accusé Obama de revenir sur sa promesse de campagne d'apporter le changement à Washington et de transcender les clivages politiques.
 001	05	0.3586	Timothy Geithner, président de la Réserve fédérale de New York, Lawrence Summers et Paul Volcker figurent parmi les personnalités envisagées pour le poste.
-002	05	0.2427	Obama doit aussi commencer à préparer une stratégie pour les guerres d'Irak et d'Afghanistan.
-003	05	0.2344	La crainte qu'Al Qaïda ne décide de tester la nouvelle administration pourrait le conduire à mettre sur pied rapidement son équipe pour la sécurité intérieure.
-004	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
+002	05	0.2344	La crainte qu'Al Qaïda ne décide de tester la nouvelle administration pourrait le conduire à mettre sur pied rapidement son équipe pour la sécurité intérieure.
+003	05	0.3644	Jeudi, le président élu s'est rendu dans l'immeuble du FBI à Chicago où des informations ultra - secrètes lui ont été transmises.
+004	05	0.2137	"Nous savons qu'Al Qaïda et les autres essaient de tester une nouvelle administration", a déclaré Dana Perino, porte - parole de la Maison blanche.
 005	05	0.3034	Outre Geithner, Summers et Volcker, l'ancienne conseillère de Bill Clinton Laura Tyson est également citée comme possible secrétaire au Trésor.
 006	05	0.3355	James Steinberg, ancien conseiller de Clinton, est favori pour accéder au poste de conseiller à la sécurité nationale mais Susan Rice, elle aussi issue de l'administration de l'ancien président démocrate, pourrait aussi briguer cette fonction.

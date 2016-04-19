@@ -1,4 +1,4 @@
-000	02	0.2658	Après Ségolène Royal, c'est au tour de Rama Yade d'annoncer une rencontre, vite suivie de Bernard Kouchner.
-001	02	0.2515	La première à s'être lancée dans la course à la rencontre du dalaï - lama a été Ségolène Royal.
+000	02	0.2515	La première à s'être lancée dans la course à la rencontre du dalaï - lama a été Ségolène Royal.
+001	02	0.2493	Elle a été aussitôt suivie de Jean - Marc Ayrault qui, en tant que maire de Nantes, déroulera le tapis rouge au prix Nobel de la paix.
 002	02	0.2865	"Je voudrais le rencontrer, les contacts sont en cours avec mon cabinet et le bureau du représentant du dalaï - lama pour trouver le meilleur moment".
 003	02	0.2508	Sa femme Carla Bruni - Sarkozy sera envoyée en émissaire pour rencontrer le dalaï - lama à la fin de sa visite en France le 23 août.

@@ -1,6 +1,6 @@
-000	04	0.2909	Sa mise en place, ainsi que le phénomène du fichage (la police et la gendarmerie totalisent 37 fichiers différents) provoque de très vives inquiétudes, et une forte mobilisation.
-001	04	0.2607	Conseiller régional écologiste et adjoint au maire de Lyon, Etienne Tête est souvent critiqué par ses collègues de la gauche lyonnaise pour son juridisme, même lorsqu'il n'y a pas d'enjeu politique.
-002	04	0.2348	Mais c'est lui qui avait obtenu du Conseil d'Etat, en 1998, l'invalidation de Charles Millon, réélu quelques mois plus tôt président du conseil régional Rhône - Alpes, avec les voix du Front national.
-003	04	0.2929	Or, relève Etienne Tête, le premier article du décret instituant Edvige est beaucoup plus liberticide, car bien plus général.
-004	04	0.3152	Concernant les mineurs, Tête relève que pour la Convention européenne des droits de l'homme, l'une des conditions de la légalité d'un fichier reste le droit d'accès pour les personnes concernées.
-005	04	0.2314	«Choix curieux» quand «fichier» et «traitement» sont masculins.
+000	04	0.2121	Edvige (pour exploitation documentaire et valorisation de l'information générale) sera gérée par la Direction centrale du renseignement intérieur, fusion des anciennes directions des renseignements généraux et de la surveillance du territoire (lire ci - dessous).
+001	04	0.2909	Sa mise en place, ainsi que le phénomène du fichage (la police et la gendarmerie totalisent 37 fichiers différents) provoque de très vives inquiétudes, et une forte mobilisation.
+002	04	0.2607	Conseiller régional écologiste et adjoint au maire de Lyon, Etienne Tête est souvent critiqué par ses collègues de la gauche lyonnaise pour son juridisme, même lorsqu'il n'y a pas d'enjeu politique.
+003	04	0.2348	Mais c'est lui qui avait obtenu du Conseil d'Etat, en 1998, l'invalidation de Charles Millon, réélu quelques mois plus tôt président du conseil régional Rhône - Alpes, avec les voix du Front national.
+004	04	0.2929	Or, relève Etienne Tête, le premier article du décret instituant Edvige est beaucoup plus liberticide, car bien plus général.
+005	04	0.3152	Concernant les mineurs, Tête relève que pour la Convention européenne des droits de l'homme, l'une des conditions de la légalité d'un fichier reste le droit d'accès pour les personnes concernées.

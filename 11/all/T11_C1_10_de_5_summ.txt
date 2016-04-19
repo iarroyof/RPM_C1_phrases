@@ -1,2 +1,2 @@
 000	10	0.3538	» Au cours de l’histoire politique américaine, c’est l’urgence qui a fait aménager par deux fois cette période délicate de latence.
-001	10	0.3256	Le président Bush, qui a convoqué le sommet du G20, l’envisage comme le début d’un processus.
+001	10	0.3101	Le dossier irakien comme deuxième échéance de la transition La deuxième échéance prévisible, avant le 20 janvier, vient d’Irak.

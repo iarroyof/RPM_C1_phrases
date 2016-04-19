@@ -1,3 +1,3 @@
 000	04	0.2642	Temple de Preah Vihear : Cambodge et Thaïlande envisagent un retrait Le Cambodge et la Thaïlande ont décidé d'envisager un retrait de leurs troupes d'une zone frontalière contestée près d'un temple sacré sans prendre toutefois d'engagement ferme pour mettre fin à deux semaines de mobilisation militaire.
 001	04	0.2706	Après 12 heures de négociations à Siem Reap, au nord - ouest du Cambodge, les ministres des Affaires étrangères des deux pays ont indiqué qu'ils demanderaient à leur gouvernement respectif de redéployer les milliers de soldats qui se font face près du temple de Preah Vihear qui date du XIe siècle.
-002	04	0.2899	Aucune date n'a été fixée pour les prochaines négociations entre les deux hommes.
+002	04	0.2226	"Nous ferons preuve d'un maximum de retenue et éviterons le recours à la force", a - t - il dit.

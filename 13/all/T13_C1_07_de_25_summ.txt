@@ -1,3 +1,3 @@
 000	07	0.1793	Les dirigeants des deux pays n'excluent pas un affrontement armé, mais ils discutent d'un règlement pacifique de cette crise.
-001	07	0.2155	Les pourparlers reprendront en début de semaine prochaine, en Thaïlande, près de la frontière.
-002	07	0.5052	Le Premier ministre, Hun Sen, a demandé à son homologue thaïlandais d’ordonner le retrait de ses troupes du sol cambodgien, afin que : « la situation retourne à la normale ».
+001	07	0.5052	Le Premier ministre, Hun Sen, a demandé à son homologue thaïlandais d’ordonner le retrait de ses troupes du sol cambodgien, afin que : « la situation retourne à la normale ».
+002	07	0.1521	« Nous ne voulions pas envoyer de militaires plus nerveux, ni déployer de larges effectifs, dans le but de prévenir tout recours malheureux aux armes », explique Phom Penh.

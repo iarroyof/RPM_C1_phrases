@@ -1,8 +1,8 @@
-000	01	0.3126	Elle l'a elle - même confirmée mercredi.
-001	01	0.2779	Manque encore le nom du père pour assouvir la curiosité des médias qui, depuis quinze jours, ne bruissent que de «l'heureux événement» qu'attend la ministre de la Justice.
-002	01	0.2889	Mais sur ce point, Rachida Dati reste muette.
-003	01	0.2522	«Elle n'est pas Tokia Saïfi», glisse un proche.
-004	01	0.2420	Au Point, qui publie cette semaine un numéro sur le «mystère Dati», elle confie d'ailleurs qu'elle aimerait «rester le plus longtemps possible» à la Chancellerie.
-005	01	0.2810	Nicolas Sarkozy se réjouit d'ailleurs pour celle qui fut longtemps sa protégée.
-006	01	0.2792	Nous sommes contents pour elle», dit - on à l'Élysée.
+000	01	0.2779	Manque encore le nom du père pour assouvir la curiosité des médias qui, depuis quinze jours, ne bruissent que de «l'heureux événement» qu'attend la ministre de la Justice.
+001	01	0.2135	«J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
+002	01	0.1909	Je ne dirai rien là - dessus», a - t - elle expliqué à quelques journalistes, selon le site du Monde.fr.
+003	01	0.1806	Plus que jamais effervescente et volubile, Rachida Dati paraît avant tout «contente», affirment plusieurs sources qui l'ont côtoyée cet été.
+004	01	0.1974	Changer son image L'idée qu'elle puisse quitter le ministère pour se présenter aux élections européennes ne convainc pas son entourage.
+005	01	0.2163	Un proche la compare plus volontiers à Anne Lauvergeon, et rappelle que la patronne d'Areva, qui a connu elle aussi une maternité tardive, était restée à la barre «jusqu'à la dernière seconde».
+006	01	0.2420	Au Point, qui publie cette semaine un numéro sur le «mystère Dati», elle confie d'ailleurs qu'elle aimerait «rester le plus longtemps possible» à la Chancellerie.
 007	01	0.2345	Son avenir au gouvernement n'inspire que ce commentaire : «C'est une battante, elle ne va pas quitter les allées du pouvoir.»

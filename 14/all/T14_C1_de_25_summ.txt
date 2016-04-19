@@ -1,65 +1,65 @@
 000	01	0.2738	Le Congrès du PS s'ouvre dans la plus grande confusion Tandis qu'Aubry adresse à Royal une fin de non recevoir, Delanoë temporise.
 001	01	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
-002	01	0.2757	Ségolène Royal, quant à elle, attend désormais de connaître les réactions de ses adversaires à ses propositions de rassemblement.
-003	01	0.3843	Rencontre discrète.
-004	01	0.2693	Mais elle a pris soin de lisser son discours de toute aspérité.
-005	01	0.2668	L'intéressé dément : «Je ne suis pas candidat.»
-006	01	0.3172	Mais chez les delanoïstes, certains espèrent encore un compromis avec les royalistes.
-007	01	0.2848	Pendant ce temps, le pôle écologique annonce qu'il «s'engage» au côté de Royal.
-008	01	0.2634	Mais il faut l'expliquer.
-009	01	0.2565	«Hamon est mieux placé qu'Aubry pour défendre une ligne d'opposition à l'alliance au centre», explique - t - on à la gauche du PS en rappelant qu'à Lille, Martine Aubry a conclu un accord local avec le MoDem.
+002	01	0.1816	Estimant représenter 70 % du parti, ils cherchent comment contrer la marche sur Solferino de l'ancienne candidate à la présidentielle.
+003	01	0.2757	Ségolène Royal, quant à elle, attend désormais de connaître les réactions de ses adversaires à ses propositions de rassemblement.
+004	01	0.2290	Gonflé à bloc, Benoît Hamon est le premier à réagir à l'intervention de Ségolène Royal mercredi soir sur TF1.
+005	01	0.2490	«On peut avoir le projet le plus socialiste qui soit» mais «qui peut penser qu'avec François Bayrou premier ministre le projet serait mis en œuvre ?
+006	01	0.2052	Candidat déclaré au poste de premier secrétaire, il est catégorique : «Nous sommes près d'un accord politique avec Martine Aubry.»
+007	01	0.2200	Il est dans des mains qui ne sont pas très responsables ces jours - ci», râle Vincent Peillon sur BFM.
+008	01	0.2565	«Hamon est mieux placé qu'Aubry pour défendre une ligne d'opposition à l'alliance au centre», explique - t - on à la gauche du PS en rappelant qu'à Lille, Martine Aubry a conclu un accord local avec le MoDem.
+009	01	0.1794	«Je ne voterai jamais pour Hamon, il est trop loin de mes idées», explique un strauss - kahnien partisan d'Aubry.
 010	01	0.2957	Prudent, il ne ferme aucune porte mais fait part de sa «déception» vis - à - vis des propositions de rassemblement de Royal.
 011	01	0.2685	C'est une fin de non - recevoir : «Nous constatons que (ses positions) ne nous paraissent malheureusement pas à la hauteur des enjeux.»
-012	01	0.2684	Il reste deux jours à Aubry et Delanoë pour s'entendre.
-000	02	0.2735	Ségolène Royal relancée, Bertrand Delanoë désavoué, Benoît Hamon révélé.
+012	01	0.2094	Même si jeudi soir, étrangement, la maire de Lille a expliqué sur France 2 que «ce n'est pas [son] rêve de diriger le PS».
+000	02	0.2226	Congrès PS: les militants consacrent le retour de Royal La motion de Ségolène Royal arrive nettement en tête avec 29% des voix.
 001	02	0.4115	La confirmation en est venue sur les coups de 2h30 du matin, cette nuit, rue de Solférino, de la bouche de Stéphane Le Foll.
-002	02	0.3114	D'abord, le retour - ou le maintien, c'est selon - de Ségolène Royal, qui laisse ses rivaux à plus de quatre points d'écart.
-003	02	0.2934	Pas si sûr: en fonction des derniers dépouillements et au vu du faible écart le séparant de Martine Aubry, celui - ci pourrait même terminer troisième... Mais cela ne semble pas gêner les amis du maire de Paris, que ce score «place en situation de continuer à faire valoir nos positions dans le congrès».
-004	02	0.3903	Delanoë s'est isolé, il s'est vieilli, il n'était pas réactif.»
-005	02	0.3363	Pas sûr que François Hollande, qui assurait il y a quelques semaines qu'il « soutiendrait la motion arrivée en tête », soit totalement solidaire, ces jours - ci, de son associé.
-006	02	0.2777	D'intenses tractations s'ouvrent dès ce matin pour la constitution d'une majorité au PS.
+002	02	0.2317	Le directeur de cabinet de François Hollande a confirmé et synthétisé les chiffres épars qui tombaient depuis quelques heures.
+003	02	0.3114	D'abord, le retour - ou le maintien, c'est selon - de Ségolène Royal, qui laisse ses rivaux à plus de quatre points d'écart.
+004	02	0.2081	A l'exception de quelques cas litigieux restant à examiner dans le Pas de Calais, notamment à Béthune et Liévin, dans l'Hérault, à la Réunion et à la Guadeloupe, les 128 978 votants (sans compter les départements d'outre - mer, dont les résultats parviendront dans les prochaines heures), ont donc nettement tranché.
+005	02	0.2934	Pas si sûr: en fonction des derniers dépouillements et au vu du faible écart le séparant de Martine Aubry, celui - ci pourrait même terminer troisième... Mais cela ne semble pas gêner les amis du maire de Paris, que ce score «place en situation de continuer à faire valoir nos positions dans le congrès».
+006	02	0.3363	Pas sûr que François Hollande, qui assurait il y a quelques semaines qu'il « soutiendrait la motion arrivée en tête », soit totalement solidaire, ces jours - ci, de son associé.
 000	03	0.3881	Congrès de Reims: le PS suspendu à la décision de Ségolène Royal A deux jours de son congrès, le PS est suspendu à la décision de Ségolène Royal de briguer ou non la succession de François Hollande.
-001	03	0.3434	La probabilité de sa candidature au poste de premier secrétaire du PS ne cesse de grandir.
-002	03	0.2367	Contactée par l'AFP, Ségolène Royal n'a pas souhaité réagir.
-003	03	0.2977	Julien Dray, signataire de la même motion que la présidente de la région Poitou - Charentes pour le congrès PS de Reims, a déclaré mardi qu'il revenait "à Ségolène Royal de prendre sa décision, qu'elle souhaite être premier secrétaire, ou qu'elle réfléchisse à d'autres" formules.
-004	03	0.2445	"Ségolène Royal a donné un calendrier, et il doit être respecté".
-005	03	0.3564	"Ce n'est pas Rennes", confie un de ses soutiens, en référence au congrès fratricide de 1990.
-006	03	0.3316	L'équipe Royal a élaboré un "document de travail ouvert" énonçant ce qu'elle a appelé ses "propositions pour la gouvernance du PS".
-007	03	0.3811	M. Lamy attend des avancées sur "les salaires, la justice fiscale, l'immigration, le rôle de l'Etat, les retraites".
-008	03	0.3233	Faute de les avoir obtenues, selon lui, il est reparti sans prendre le "document Royal".
+001	03	0.2323	Toutefois un autre élu très proche d'elle a assuré mardi, lui aussi sous couvert d'anonymat: "personne ne peut dire qu'il est sûr qu'elle sera candidate.
+002	03	0.2977	Julien Dray, signataire de la même motion que la présidente de la région Poitou - Charentes pour le congrès PS de Reims, a déclaré mardi qu'il revenait "à Ségolène Royal de prendre sa décision, qu'elle souhaite être premier secrétaire, ou qu'elle réfléchisse à d'autres" formules.
+003	03	0.2192	Arrivée en tête du vote des militants le 6 novembre avec 29% des voix, l'ex - candidate à l'Elysée ne laisse à personne le soin de mener les discussions avec Bertrand Delanoë, Martine Aubry et Benoît Hamon pour trouver un accord avec eux, ou certains d'entre eux.
+004	03	0.1394	Lundi soir, elle a reçu dans ses bureaux parisiens François Lamy, lieutenant de Mme Aubry, puis M. Delanoë en tête à tête, selon des sources socialistes concordantes.
+005	03	0.3316	L'équipe Royal a élaboré un "document de travail ouvert" énonçant ce qu'elle a appelé ses "propositions pour la gouvernance du PS".
+006	03	0.1493	Le document reprend l'idée d'un parti "décentralisé", qui ne fait pas l'unanimité au PS, et explicite sa conception des alliances: "rassembler la gauche autour d'un contrat de gouvernement" et "s'adresser seulement ensuite à toutes les forces susceptibles de se reconnaître dans le projet socialiste pour battre la droite".
+007	03	0.1817	Les interlocuteurs de Mme Royal disent mener les pourparlers "sur le fond", en laissant "de côté toutes les questions de personne", selon les termes du maire de Paris.
+008	03	0.1405	"Nous nous déterminons sur une ligne politique, une conception du parti, pas par rapport à Ségolène", renchérit Claude Bartolone (pro - Aubry).
 000	04	0.3691	Congrès du PS : Royal devance Delanoë L'ex - candidate à la présidentielle se trouve avec 29% des voix en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
 001	04	0.2907	Favori des sympathisants, selon les sondages, et appuyé par une grande partie des cadres et élus socialistes, Bertrand Delanoë a été devancé de quatre points par l'ex - candidate à la présidentielle de 2007 qui, avec 29% des suffrages, se trouve ainsi en position de force pour tenter de constituer une majorité au 75e congrès la semaine prochaine.
-002	04	0.3348	Le "pôle écologique" et "Utopia" obtiennent "autour de 1,50% à 2%".
-003	04	0.3180	Partisan de Martine Aubry, le député Jean - Christophe Cambadélis parle de "coup de tonnerre sur l'appareil du parti", "du jamais vu".
+002	04	0.3180	Partisan de Martine Aubry, le député Jean - Christophe Cambadélis parle de "coup de tonnerre sur l'appareil du parti", "du jamais vu".
+003	04	0.2403	En difficulté ces dernières semaines, notamment après son meeting controversé du Zénith, Mme Royal, la plus populaire chez les militants, est parvenue à inverser le courant en mettant "au Frigidaire" son ambition de prendre la tête du parti.
 004	04	0.2750	C'est maintenant à Mme Royal de tenter d'organiser le rassemblement pour constituer une nouvelle majorité au congrès de Reims (14 - 16 novembre).
 005	04	0.3865	"Ségolène Royal a la responsabilité de rechercher avec nous la plus grande unité du PS", a déclaré M. Rebsamen.
 006	04	0.2544	Pour M. Delanoë, pas question toutefois de rejoindre un bloc qui, comme Mme Royal, s'accomoderait d'une alliance avec un parti "qui ne s'assumerait pas clairement de gauche", sous - entendu le MoDem.
-000	05	0.2625	Martine Aubry, quant à elle, a recueilli des applaudissements nourris, en plaidant pour un PS "ancré à gauche".
+000	05	0.2274	"Le congrès a envoyé un signe fort à Martine, elle est au bord de la candidature", a confié au JDD.
 001	05	0.3118	Martine Aubry a largement vaincu Ségolène Royal à l'applaudimètre, dans la salle plénière du parc des expositions de Reims.
-002	05	0.3663	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
-003	05	0.3316	Les applaudissements ont fusé.
-004	05	0.2457	Pourtant Martine Aubry, si elle a fait état, à nouveau, de sa "détermination", n'a pas annoncé sa candidature.
-005	05	0.2453	fr Philippe Martin, député du Gers, à la fin de la réunion.
-006	05	0.2426	"Le congrès dans son ensemble a envoyé une signal fort à Martine.
-007	05	0.2653	Aujourd'hui, il y a eu deux événements inattendus: le discours de Ségolène Royal qui a été mal accueilli par le parti, car il ne correspond pas aux valeurs du parti.
-008	05	0.4547	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+002	05	0.2030	A la "tendresse", "la guérison" et "l'amour" prônés par Royal, la maire de Lille a rétorqué "ancrage à gauche", "vision politique" et "donner un sens à la société".
+003	05	0.3663	Elle commence enfin à réfléchir à sa candidature", se réjouissait un de ses partisans devant la tente blanche où s'est réuni la motion de Martine Aubry, sur les coups de 19 heures.
+004	05	0.1685	La foule était bien plus dense que la veille, les responsables ont dû faire lever les militants pour que tout le monde puisse rentrer.
+005	05	0.2136	"Je souscris aux propos de Pierre Mauroy, a - t - il continué, avant d'ajouter: Lorsqu'on a entendu les deux discours, on comprend qu'il n'y a plus qu'une seule candidate".
+006	05	0.2653	Aujourd'hui, il y a eu deux événements inattendus: le discours de Ségolène Royal qui a été mal accueilli par le parti, car il ne correspond pas aux valeurs du parti.
+007	05	0.4547	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
+008	05	0.1781	Ceux qui ont écouté les deux discours ont compris les différences de fond", a - t - il dit, en espérant que les congressistes fassent "bouger" Bertrand Delanoë.
 009	05	0.3072	Car du côté de la réunion de motion de Delanoë, on se disait toujours aussi sûr de réussir à constituer une "majorité".
 010	05	0.3006	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.
 000	06	0.3069	Le pourquoi de cet état de quasi - béatitude chez Benoît Hamon, c’est Razzy Hammadi qui a fini par le révéler hier dans une déclaration transmise au nom des signataires de sa motion : «Nous appelons l'ensemble des socialistes, mais notamment les leaders des motions A (Bertrand Delanoë) et D (Martine Aubry), à un rassemblement autour de trois principes : le renouvellement, la stratégie d'alliances et l'ancrage à gauche.»
-001	06	0.2442	– «Tonton», même méthode de combat ?
-002	06	0.2644	En 1971, François Mitterrand, arrivé en troisième position en recueillant 15% des suffrages, parvenait à prendre le parti.
-003	06	0.2461	Cette tentative de prise de pouvoir, il est vrai, ne manque pas de panache.
+001	06	0.1994	Autrement dit, Hamon, du haut de ses 41 ans et de ses 19%, tente de faire le coup de «Tonton» au congrès d'Epinay - sur - Seine.
+002	06	0.2119	Benoît Hamon, lui, pourrait s’appuyer sur des pensées beaucoup moins «chrétiennes» à l’égard de l’ancienne candidate à la présidentielle : le fameux TSS (Tout Sauf Ségolène) ou plutôt le TCS (Tous Contre Ségolène) !
+003	06	0.1159	Mais il est tout même bien difficile de croire que Bertrand Delanoë et Martine Aubry puissent mettre un mouchoir sur leurs ambitions.
 000	07	0.2803	Deux lignes s'opposent à quelques jour du congrès : laisser l'ancienne candidate à la présidentielle tenter de trouver une orientation majoritaire, ou former un axe Delanoë/Aubry/Hamon.
 001	07	0.2852	Elle répond ainsi à la demande du premier secrétaire actuel, François Hollande, qui avait estimé samedi sur son blog qu'elle devait prendre "la responsabilité de proposer [...] un nom de premier secrétaire" pour le PS, ainsi qu'une "orientation majoritaire" et "une stratégie cohérente d'alliance", à quelques jours du congrès de Reims, qui commence vendredi.
-002	07	0.2779	Un nom et une stratégie d'alliances Reste maintenant à trouver et ce nom et cette stratégie d'alliance.
+002	07	0.2550	A l'issue du vote des militants, la motion présentée par Ségolène Royal, alliée à plusieurs grands élus locaux comme Gérard Collomb et Jean - Noël Guerini, a devancé, avec 29,6% des suffrages, celles de Bertrand Delanoë (25,4%), de Martine Aubry (24,7%) et de Benoît Hamon (18,9%).
 000	08	0.2463	"Mais en même temps, je n'ai jamais fait de ma candidature un préalable au rassemblement et à l'unité des socialistes", a ajouté celle qui avait mis à la mi - septembre sa candidature au "Frigidaire".
-001	08	0.2440	L'ex - candidate à l'Elysée a continué mercredi de rechercher un accord entre socialistes sur une ligne politique.
-002	08	0.2489	"C'est le parti qui est en jeu", a - t - il dit, soucieux de préserver l'unité du PS.
-003	08	0.2697	Selon l'ancien ministre Michel Sapin, "aussi légitime soit - elle", elle serait "une candidature d'affrontement".
-004	08	0.2799	Une manière là encore de décourager une candidature Royal.
-005	08	0.2655	Dans la matinée, elle avait vu Benoît Hamon, une rencontre "plutôt positive", selon un proche de l'eurodéputé.
+001	08	0.2489	"C'est le parti qui est en jeu", a - t - il dit, soucieux de préserver l'unité du PS.
+002	08	0.2372	Gérard Collomb, premier signataire de sa motion, tout en évoquant la "légitimité" de Ségolène Royal, a marqué sa préférence pour une "candidature de synthèse".
+003	08	0.1544	Le maire de Paris place la barre haut Les partisans de François Hollande, alliés de Bertrand Delanoë, cherchent à dissuader une candidature Royal.
+004	08	0.1972	Dans l'entourage de Jean - Marc Ayrault, patron des députés PS, on assure que si Ségolène Royal se déclare, Martine Aubry le fera automatiquement.
+005	08	0.2274	Selon son entourage, elle "continue de travailler, de discuter sur les textes avec tout le monde, de travailler sur plusieurs hypothèses".
 000	09	0.2810	Les militants votent pour départager les motions PS Les militants du PS votent jeudi pour départager six motions en lice pour le congrès de Reims, un scrutin qui s'annonce serré entre les trois grandes coalitions en course pour la succession de François Hollande, incarnées par Martine Aubry, Bertrand Delanoë et Ségolène Royal.
 001	09	0.2815	Outre ces trois motions, sont en course une motion de la gauche du parti défendue par l'eurodéputé Benoît Hamon, et deux "petites" motions: le pôle écologiste et Utopia (écologiste et altermondialiste).
 000	10	0.2856	"Tous les éléments dans son texte, dans sa volonté, dans sa démarche nous rapprochent de ce moment - là (...) Des rapprochements existent et je suis assez heureux de voir qu'un accord progresse".
 001	10	0.2769	"Si demain il sort de ce congrès une forme de statu quo où derrière l'illusion de nouvelles équipes on reconduit une ligne politique qui nous a conduit à l'échec à la dernière élection présidentielle par confusion, par improvisation stratégique, je pense que se prépare le long déclin du socialisme dans ce pays", a - t - il dit à propos de Ségolène Royal, avant de lancer un appel aux autres prétendants au poste de premier secrétaire.
-002	10	0.2683	"J'espère que ces 71% de militants arriveront à se retrouver", a - t - elle dit.
+002	10	0.2681	"Il y en a beaucoup qui se réjouissent de cette situation, mais je crois qu'on aurait tort parce que c'est la démocratie qui serait perdante".

@@ -1,19 +1,19 @@
-000	01	0.2495	Une réaction parmi d'autres sur un forum consacré à la finance: "Soutenons Kerviel !
-001	01	0.3038	Extrait : "La question du jour est : qui va porter le chapeau ?
-002	01	0.3232	On dirait des hamsters sous acides, ces branIeurs.
+000	01	0.1868	Les indicateurs ne trompent pas: cinq (faux) profils sur Facebook, des pages wikipédia apparues le jour - même de la révélation de l'affaire (en français, anglais, espagnol, danois et même chinois), des vidéos sur dailymotion, comme cette parodie de pub pour la Société générale et plusieurs noms de domaine déposés: jeromekerviel.com (en anglais, avec fan club et appel à témoin pour les traders qui se sentent sous pression), jerome.kerviel.com (déjà remis en vente), jeromekerviel.net.
+001	01	0.1952	Ceux pour qui aucun mot n'est trop grand pour chanter les louanges de "JK", le "Che Guevara de la finance", le "James Bond de la SocGen", le "Lee Harvey Oswald version camembert", voire, plus limite, "le Ben Laden de la Bourse".
+002	01	0.2406	A signaler pour les fans, on peut acheter en ligne un T - shirt "Jerôme Kerviel's girlfriend", 17,99 dollars pièce, plusieurs coloris disponibles.
 003	01	0.2890	Ou adhérer au comité de soutien "sauvez Kerviel,victime d'un lynchage médiatique sans précédent", qui pour le moment, il faut bien le dire, ne fait pas beaucoup d'émules.
-000	02	0.3515	L'appartement d'Olivier Kerviel situe au 2e étage d'un immeuble haussmannien du VIIIème arrondissement de Paris.
+000	02	0.2896	Perquisition au domicile du frère de Jérôme Kerviel Quatre policiers se sont rendus dans l'appartement d'Olivier Kerviel, et sont repartis avec des mallettes dans les mains.
 000	03	0.2858	Le fraudeur de la Générale serait en fuite Les dirigeants de la banque française affirment que le jeune trader qui leur a fait perdre 5 milliards d'euros a fait preuve d'"un extraordinaire talent de dissimulation".
 000	04	0.3151	Day, membre du conseil d'administration de la banque, a vendu le 9 janvier pour 85,745 millions d'euros d'actions qu'il possédait, au prix de 95,27 euros par action, selon l'AMF, qui a ouvert une enquête mardi.
 001	04	0.2872	Day Foundation et la Kelly Day Foundation, ont vendu respectivement le 10 janvier pour 8,63 millions d'euros et 959.066 euros d'actions.
 000	05	0.2909	Le parquet de Paris centralise les plaintes visant cette "fraude" record après le dessaisissement en sa faveur du parquet de Nanterre qui avait enregistré jeudi soir celle déposée par la banque.
-001	05	0.3054	Ce sont les bourses asiatiques qui ont donné le la.
-000	06	0.3494	La seconde a été déposée à Nanterre (Hauts - de - Seine).
-001	06	0.3156	La présence de ces "forts en maths" reflète l'évolution de la finance vers toujours plus de complexité.
+001	05	0.2861	"Cela, a - t - il souligné, ne tient pas debout, ni techniquement ni comptablement." Il a aussi démenti la responsabilité de la SG dans la chute spectaculaire des marchés financiers en début de semaine, ainsi que dans la décision de la Réserve fédérale américaine (Fed) qui a abaissé mardi son principal taux directeur de 0,75%.
+000	06	0.3048	La présidente du Medef, Laurence Parisot, a jugé quant à elle qu'il faudrait " tirer les conséquences (de cette affaire) pour que la place financière de Paris puisse rester crédible ".
+001	06	0.2808	On trouve de plus en plus de centraliens et de polytechniciens, mais aussi des docteurs en mathématiques, chargés de créer des nouveaux produits financiers ou de mettre au point les programmes informatiques de contrôle.
 002	06	0.3914	"Pourtant, assure un analyste parisien, le contrôle évolue au même rythme que sont créés de nouveaux produits financiers." Autrement dit: les systèmes de surveillance sont aussi subtils que les produits et les transactions qu'ils sont chargés de contrôler.
 003	06	0.3531	Il existe en outre plusieurs niveaux de contrôle internes à la banque qui vérifie la réalité de chaque transaction et additionne ses prises de risque et externes, via la commission bancaire notamment, qui dépend de la Banque de France.
-000	07	0.2677	"Cela, a - t - il souligné, ne tient pas debout, ni techniquement ni comptablement".
+000	07	0.2363	Les policiers s'étaient également rendus vendredi au siège administratif de la Société Générale à La Défense où "des pièces utiles à l'enquête" leur ont été remises volontairement, selon le parquet de Paris.
 001	07	0.3195	La banque explique que l'un de ses traders, Jérôme Kerviel, 31 ans, a profité de "sa connaissance approfondie des procédures de contrôle" pour "dissimuler ses positions grâce à un montage élaboré de transactions fictives".
-000	08	0.3191	Rapidement, un groupe de " Ceux qui recherchent Jerome Kerviel, l'homme qui vaut 4.9 milliards!
-000	09	0.2753	C’était l’ancien "recordman".
-000	10	0.2474	Du coup, les plaintes pour délit d'initié déposées contre un administrateur de la banque gagneraient en force.
+000	08	0.3081	De retour deux heures plus tard sur la même page, seuls quatre courageux contacts figuraient encore sur son profil.
+000	09	0.2549	SocGen - Pour Nick Leeson, Jérôme Kerviel doit être soulagé Nick Leeson, le trader britannique ayant causé la chute de la Barings dans les années 90 estime que le fraudeur présumé de la Société générale doit se sentir soulagé d’avoir été démasqué après avoir joué aussi gros.
+000	10	0.2399	De quoi fragiliser la position de la Société générale qui assure avoir toujours contrôlé avec grande prudence les activités de ses salles de marché.

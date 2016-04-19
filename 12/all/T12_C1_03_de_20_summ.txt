@@ -1,7 +1,7 @@
-000	03	0.2806	Dimanche soir, le présentateur du 20 heures… de RTL annonçait qu’ « après avoir longuement hésité, Laurence Ferrari avait choisi de dire oui à TF1, pour présenter le journal télévisé à la place de Patrick Poivre d’Arvor ».
-001	03	0.2840	Laurence Ferrari présentera le JT du lundi au jeudi.
+000	03	0.2470	En allant samedi sur Canal Plus sur le plateau de Plus Clair, chez Charlotte Le Grix de La Salle, PPDA savait - il que l’heure de sa disgrâce avait sonné sur TF1 ?
+001	03	0.2806	Dimanche soir, le présentateur du 20 heures… de RTL annonçait qu’ « après avoir longuement hésité, Laurence Ferrari avait choisi de dire oui à TF1, pour présenter le journal télévisé à la place de Patrick Poivre d’Arvor ».
 002	03	0.2912	Claire Chazal devrait conserver la présentation des journaux du week - end, avec Anne - Sophie Lapix pour la suppléer.
 003	03	0.3279	S’il doit y avoir une mutation, indiquait, confiant, Robert Namias, le patron de l’info de TF1, en février, elle se fera avec eux ».
-004	03	0.2857	Namias pourrait être appelé également à faire ses valises.
-005	03	0.3358	Ce proche de Sarkozy aura la tâche de rapprocher les rédactions des chaînes TF1 et LCI.
-006	03	0.2871	L’éviction de PPDA arrive dans un contexte de forte turbulence pour TF1 qui reste, de loin, la chaîne la plus regardée en France.
+004	03	0.2871	L’éviction de PPDA arrive dans un contexte de forte turbulence pour TF1 qui reste, de loin, la chaîne la plus regardée en France.
+005	03	0.2601	Nonce Paolini, arrivé aux commandes il y a un an, avait promis de faire de 2008 « une année charnière » et d’accélérer la stratégie de TF1 en groupe multimédia.
+006	03	0.2540	Et dire que, samedi, PDDA parlait encore des vingt ans de Vol de nuit, son émission littéraire de la nuit sur TF1… Comme s’il s’annonçait qu’une page se tourne.

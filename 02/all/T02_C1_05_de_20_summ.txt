@@ -1,11 +1,11 @@
 000	05	0.3972	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
-001	05	0.2662	« J'en accepte néanmoins l'entière responsabilité.
-002	05	0.2528	Ayant consacré ma vie entière aux Caisses d'Épargne, je n'ai pas un instant envisagé de me soustraire aux responsabilités qui sont les miennes », a - t - il ajouté.
+001	05	0.2528	Ayant consacré ma vie entière aux Caisses d'Épargne, je n'ai pas un instant envisagé de me soustraire aux responsabilités qui sont les miennes », a - t - il ajouté.
+002	05	0.2251	Alors que le président Nicolas Sarkozy avait exigé vendredi que les responsables de cette affaire, qui a suscité un vif émoi en France, « en tirent les conséquences », seuls les responsables directs de cette perte, des traders jusqu'au directeur financier, avaient jusqu'à présent été sanctionnés.
 003	05	0.2600	Il a conduit avec détermination la transformation de cette «micheline de l'épargne» en une grande banque universelle à la faveur de diverses opérations de croissance (Crédit Foncier, CDC Ixis puis Natixis).
-004	05	0.2493	Diplômé de l'Ecole normale supérieure, et ancien élève de l'ENA, cet inspecteur des finances a fait ses classes à la direction financière de BNP Paribas.
-005	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
-006	05	0.2461	J'en accepte néanmoins l'entière responsabilité.
+004	05	0.2228	Chargé des finances et des risques, Julien Carmona, 38 ans, est entré au directoire de la CNCE en juin 2007.
+005	05	0.2493	Diplômé de l'Ecole normale supérieure, et ancien élève de l'ENA, cet inspecteur des finances a fait ses classes à la direction financière de BNP Paribas.
+006	05	0.4852	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
 007	05	0.3113	Je suis heureux et fier d'avoir pu y contribuer, au travers de transformations si profondes qu'elles ont, je le sais bien, dérangé beaucoup d'habitudes et de situations acquises.
-008	05	0.2967	De l'affaire Kerviel à «l'incident» de la Caisse d'Epargne: la folie des traders Une affaire Kerviel bis ?
-009	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
-010	05	0.2719	Nicolas Mérindol, jusqu'ici numéro 2 de la Caisse d'Épargne, estime de son côté que les traders emportés par l'emballement du système « ont été pris par la crise ».
+008	05	0.4300	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
+009	05	0.2719	Nicolas Mérindol, jusqu'ici numéro 2 de la Caisse d'Épargne, estime de son côté que les traders emportés par l'emballement du système « ont été pris par la crise ».
+010	05	0.2420	Interrogé sur les suites de l'affaire et de la perte de 600 millions d'euros, l'entourage de la ministre a rappelé avoir «demandé un pré - rapport» à la commission bancaire «avant la fin de la semaine pour savoir exactement ce qui s'est passé et les mesures qui doivent être prises pour renforcer les contrôles internes aux Caisses d'Epargne».

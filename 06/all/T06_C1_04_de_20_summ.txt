@@ -1,2 +1,2 @@
 000	04	0.3122	La presse officielle n'en dit pas un mot, laissant, comme d'habitude, la parole aux internautes pour porter le fer de la critique, dès lors que les intérêts vitaux de l'Etat ne sont pas en jeu.
-001	04	0.3353	Tous ces incidents, mineurs assurément, en disent long, malgré tout, sur le rapport à la vérité.
+001	04	0.2898	Autre petit mensonge : les internautes affirment que la fillette qui a eu l'honneur de chanter l'hymne national chinois, et qui a eu sa photo dans tous les journaux (avec tous les détails sur sa famille, sa marque de biscuits préférés...), n'est pas celle qui chantait !

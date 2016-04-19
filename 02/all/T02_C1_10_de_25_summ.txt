@@ -1,5 +1,5 @@
-000	10	0.4623	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
-001	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
-002	10	0.2511	Le débouclage des opérations débute le 15 octobre et s’achève le 17 octobre.
-003	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.
-004	10	0.2963	Ce qui justifie l'annonce de Bercy de débloquer en urgence 10,5 milliards d’euros pour les banques.
+000	10	0.2156	Ce n'est pas un "incident de marché" mais le résultat d'une "dérive" dans la gestion des risques de la banque.
+001	10	0.2433	Ainsi, la perte de 695 millions d'euros de l'Ecureuil s'expliquerait par "un nombre important de défaillances de contrôle interne", des "alertes ignorées" et "cette dérive dans la gestion n’(a pas été) perçue à temps", note le document de 13 pages Aucune réaction... En avril 2008, la banque avait décidé l'arrêt de ses activités de trading.
+002	10	0.2073	L'établissement devait donc en finir avec ses pratiques de gestion pour compte propre (ou utilisation de ses fonds propres en Bourse) avant fin 2008.
+003	10	0.3126	Le 10 octobre, le directeur financier est averti de la perte alors estimée à 100 millions d'euros mais ne bouge pas.
+004	10	0.2604	Reste que toutes les banques de financement et d’investissement françaises auraient perdu beaucoup d’argent ces dernières semaines du fait de leurs activités de trading.

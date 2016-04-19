@@ -1,6 +1,6 @@
 000	05	0.2640	Rachida Dati évoque sa grossesse devant des journalistes La ministre de la Justice Rachida Dati a confirmé pour la première fois devant des journalistes sa grossesse, tout en excluant tout ralentissement ou arrêt de ses activités au gouvernement.
-001	05	0.2476	J'ai toujours dit que c'était fondamental pour moi", dit - elle.
-002	05	0.2992	Elle exclut de quitter son poste pour l'instant.
-003	05	0.3048	"Ce n'est pas une maladie", a - t - elle dit.
+001	05	0.1954	Célibataire, Rachida Dati, qui aura 43 ans le 27 novembre, se refuse à rendre public le nom du père de l'enfant.
+002	05	0.2153	"J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
+003	05	0.1914	Le porte - parole du gouvernement, Luc Chatel, a confirmé qu'il n'était question dans l'immédiat pour Rachida Dati de renoncer à sa fonction.
 004	05	0.2922	Première Française d'origine maghrébine à diriger un grand ministère, Rachida Dati est née en Bourgogne dans une famille modeste de mère algérienne et de père marocain.
-005	05	0.2858	Le président l'a fréquemment soutenue au début de son mandat.
+005	05	0.1728	Elle ne figure toutefois pas parmi les sept ministres jugés importants que le chef de l'Etat a pris l'habitude de réunir.

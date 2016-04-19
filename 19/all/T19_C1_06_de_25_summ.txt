@@ -1,3 +1,3 @@
 000	06	0.2381	Chômage: Aubry dénonce la politique de Sarkozy, demande une relance La nouvelle première secrétaire du PS Martine Aubry a réagi jeudi soir à l'annonce de la hausse du chômage en octobre en dénonçant la politique économique "injuste et inefficace" de Nicolas Sarkozy et appelé à une relance, notamment par un plan de 300.000 logements sociaux.
-001	06	0.2972	Selon elle, "l'urgence exige un changement radical de cap économique".
+001	06	0.1808	Mme Aubry rappelle que "le nombre de chômeurs a augmenté de 46.900 en octobre" soit "le huitième mois d'augmentation depuis le début de l'année".
 002	06	0.1813	Ces résultats reflètent les annonces quotidiennes de plans de licenciements que les Français subissent et expliquent les inquiétudes de tous les salariés", selon elle.

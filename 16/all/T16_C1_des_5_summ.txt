@@ -4,7 +4,7 @@
 000	04	0.4608	Rachida Dati "fragilise, par de constantes pressions, l'autorité judiciaire, dont l'indépendance est l'un des pivots de la démocratie", dénonçait la motion commune, l'accusant d'avoir une "attitude irresponsable" avec "la recherche systématique de boucs émissaires".
 000	05	0.3858	» Jouer l'apaisement Une bienveillance qui étonne dans le contexte actuel, surtout après la libération par erreur d'un violeur récidiviste dans la nuit de jeudi dernier.
 000	06	0.3360	Dès que l'occasion se présente, la Garde des Sceaux désigne des prétendus responsables pour servir au mieux sa communication personnelle », a - t - il rappelé ».
-000	07	0.3604	Mais pour que ces postes supplémentaires deviennent réalité il faudra d’abord que soit votée la prochaine loi pénitentiaire.
+000	07	0.2642	Au début de la semaine, les syndicats pénitentiaires avaient rendez - vous avec la ministre de la Justice, mais ils ont eu la surprise de n’être reçus que par son directeur de cabinet.
 000	08	0.3404	Et ce, grâce à des « engagements écrits forts, mais non chiffrés, en matière d’embauche de personnel », précise Claude Tournel, secrétaire général de l’Ufap, l’un des principaux syndicats pénitentiaires.
-000	09	0.4244	C’est par une magistrate que la chancellerie entendait remplacer Blais.
-000	10	0.3083	Centre de rétention Autre motif d'inquiétude, les centres de rétention.
+000	09	0.3500	Bernard Blais a reçu mercredi une demande écrite du ministère lui suggérant vivement de demander un poste d’avocat général à la Cour de Cassation, "dans l’intérêt du service".
+000	10	0.2501	Mobilisation contre Dati: les raisons de la grogne des magistrats Les magistrats et les organisations du monde pénitentiaire ont manifesté ce jeudi pour protester contre la politique de la Garde des Sceaux Rachida Dati.

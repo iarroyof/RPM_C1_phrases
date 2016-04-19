@@ -1,3 +1,3 @@
 000	02	0.2759	A savoir En France, la loi Leonetti Votée en 2005 Adoptée à l’unanimité en 2005, la loi Leonetti, du nom de son rapporteur UMP, fixe les règles de la mort médicalisée.
-001	02	0.2955	Son principe de départ est l’opposition «à toute obstination thérapeutique».
-002	02	0.2845	Le patient a pu écrire des directives, mais le médecin n’est pas obligé de les suivre.
+001	02	0.2491	«Rien n’interdit des dispositions spécifiques de dépénalisation de l’acte homicide dans des circonstances compassionnelles, quimériteraient alors d’être codifiées et précisées.»
+002	02	0.2588	JEAN LEONETTI, CHARGÉ D’UNE MISSION D’ÉVALUATION DE SA LO «Toute personne majeure, en phase avancée ou terminale d’une affection reconnue grave et incurable, peut demander à bénéficier, dans des conditions strictes d’une assistance médicalisée pour mourir dans la dignité.»

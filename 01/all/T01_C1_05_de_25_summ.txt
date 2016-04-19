@@ -1,10 +1,10 @@
-000	05	0.2816	Quel état de santé pour Ingrid?
-001	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
-002	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
-003	05	0.3222	Le caporal Perez a nourri Ingrid Betancourt à la petite cuillère : " Elle a été très malade.
-004	05	0.2956	Les preuves de vie que nous avez vues et qui ont scandalisé le monde dataient pourtant d'un moment où sa santé s'améliorait.
-005	05	0.4589	Un scénario trop parfait?
-006	05	0.2340	Le ministre colombien de la Défense a démenti.
-007	05	0.2326	Le scénario d'une opération montée serait digne d'Hollywood.
-008	05	0.2484	Les Américains se sont intéressés au sort de leurs trois otages, qu'ils avaient localisés dans la jungle.
-009	05	0.2361	Il n'a pas appelé Paris.
+000	05	0.1759	Plutôt rassurant : Ingrid Betancourt a passé la journée hier à l'hôpital militaire du Val - de - Grâce à Paris où elle a passé des examens médicaux : " Les médecins m'ont comblée de bonnes nouvelles", a déclaré l'ex - otage.
+001	05	0.2097	Depuis sa libération, à l'aube de mercredi dans la jungle colombienne, Ingrid Betancourt n'a guère dormi et devra se reposer, ont estimé les médecin.
+002	05	0.1997	Portée par le bonheur de retrouver les siens, ses enfants, sa mère et sa sœur, Ingrid Betancourt affiche une forme apparente.
+003	05	0.2148	Dans une vidéo diffusée au mois de novembre, cette femme de 46 ans était apparue amaigrie et très affaiblie.
+004	05	0.3432	Dès son arrivée à Bogota, mercredi soir, Ingrid Betancourt a remercié un de ses compagnons de captivité, le caporal infirmier William Perez, de lui "avoir sauvé la vie".
+005	05	0.3364	Libéré en même temps qu'Ingrid, William Perez a confirmé à la presse colombienne que l'otage française se trouvait dans un très mauvais état lorsqu'il l'a rencontrée : " J'ai commencé par parler avec elle et elle m'a dit qu'elle voulait mourir.
+006	05	0.2956	Les preuves de vie que nous avez vues et qui ont scandalisé le monde dataient pourtant d'un moment où sa santé s'améliorait.
+007	05	0.1178	En Colombie encore, vendredi, la télévision a diffusé les extraits d'une vidéo réalisée par un membre des commandos spéciaux de l'armée colombienne lors de cette opération de libération.
+008	05	0.2074	La Radio suisse romande a affirmé que des membres des Farc avaient touché quelque 20 millions de dollars pour libérer les otages, et que cette opération était " une mise en scène".
+009	05	0.1988	Elle a déclaré avoir lu de la "terreur" dans les yeux de "Cesar", son geolier, lorsque celui - ci a été neutralisé dans l'hélicoptère : "Il était humilié.

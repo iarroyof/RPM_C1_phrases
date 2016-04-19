@@ -1,7 +1,7 @@
-000	03	0.2153	Perché sur une falaise, le sanctuaire dédié au dieu Shiva s'étend sur un axe de 800 mètres.
-001	03	0.2242	C'est l'un des sites les plus visités du Cambodge, après Angkor.
-002	03	0.2063	Le 15 juin 1962, la Cour internationale de justice de La Haye attribuait le temple au Cambodge.
-003	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
-004	03	0.2470	"Les soldats étaient en alerte" Mardi, la tension est montée d'un cran.
-005	03	0.2676	"Nos troupes et les troupes thaïlandaises ont pointé leurs armes les unes vers les autres.
-006	03	0.2573	Néanmoins, les deux pays semblent jouer la carte de l'apaisement.
+000	03	0.2998	L'inscription du site sur la liste du patrimoine mondial de l'Unesco le 7 juillet n'a fait que relancer la polémique.
+001	03	0.1403	Il a cependant accepté de soutenir la candidature du site à une condition : il ne devait en aucun cas inclure les environs du temple.
+002	03	0.1004	Néanmoins, le gouverneur de la province thaïlandaise située à proximité du temple a démenti que les soldats thaïlandais aient franchi la frontière.
+003	03	0.2056	Selon des témoins, les soldats des deux pays ont pointé leurs armes en direction les uns des autres, à deux reprises pendant dix minutes.
+004	03	0.1162	Jeudi, le Premier ministre cambodgien Hun Sen a appelé fermement la Thaïlande à retirer ses troupes, estimant que le conflit s'accentuait et nuisait aux relations entre les deux pays.
+005	03	0.1520	Des délégations de chaque pays, comprenant les ministres de la Défense, se rencontreront lundi en Thaïlande pour tenter d'apaiser les tensions, a annoncé Khieu Kanharith, porte - parole du gouvernement cambodgien.
+006	03	0.1434	Ils ont consenti des avancées afin d'éviter toute tension", a - t - il déclaré, précisant cependant que les deux pays maintiendraient leurs soldats sur place.

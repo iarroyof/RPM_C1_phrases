@@ -1,8 +1,8 @@
-000	01	0.2483	Une star du web.
-001	01	0.2495	Une réaction parmi d'autres sur un forum consacré à la finance: "Soutenons Kerviel !
-002	01	0.3038	Extrait : "La question du jour est : qui va porter le chapeau ?
-003	01	0.3232	On dirait des hamsters sous acides, ces branIeurs.
-004	01	0.2253	Lequel pour ne rien gâcher "a des airs de Tom Cruise".
-005	01	0.2213	... c'est un genie !
-006	01	0.2406	A signaler pour les fans, on peut acheter en ligne un T - shirt "Jerôme Kerviel's girlfriend", 17,99 dollars pièce, plusieurs coloris disponibles.
-007	01	0.2890	Ou adhérer au comité de soutien "sauvez Kerviel,victime d'un lynchage médiatique sans précédent", qui pour le moment, il faut bien le dire, ne fait pas beaucoup d'émules.
+000	01	0.1634	C'est même un modèle du genre avec plus de 500 000 références sur google lundi, contre une petite dizaine jeudi quand son nom a été lâché.
+001	01	0.1868	Les indicateurs ne trompent pas: cinq (faux) profils sur Facebook, des pages wikipédia apparues le jour - même de la révélation de l'affaire (en français, anglais, espagnol, danois et même chinois), des vidéos sur dailymotion, comme cette parodie de pub pour la Société générale et plusieurs noms de domaine déposés: jeromekerviel.com (en anglais, avec fan club et appel à témoin pour les traders qui se sentent sous pression), jerome.kerviel.com (déjà remis en vente), jeromekerviel.net.
+002	01	0.1777	Deux camps s'opposent : d'un côté les très nombreux anti - kerviel qui ne pardonnent pas le trou de cinq milliards; de l'autre, les pro - kerviel, qui glosent sur le thème "le pauvre, c'est une victime du système", "vous voyez bien que c'est un lampiste qui paie pour les autres", "c'est un bouc - émissaire, ça saute aux yeux".
+003	01	0.1385	(...) K..., Jérôme K... Encore un de ces petits merdeux qui croient qu'ils dominent le monde parce qu'ils passent des ordres de bourse toute la journée sur leur écran.
+004	01	0.1952	Ceux pour qui aucun mot n'est trop grand pour chanter les louanges de "JK", le "Che Guevara de la finance", le "James Bond de la SocGen", le "Lee Harvey Oswald version camembert", voire, plus limite, "le Ben Laden de la Bourse".
+005	01	0.2406	A signaler pour les fans, on peut acheter en ligne un T - shirt "Jerôme Kerviel's girlfriend", 17,99 dollars pièce, plusieurs coloris disponibles.
+006	01	0.2890	Ou adhérer au comité de soutien "sauvez Kerviel,victime d'un lynchage médiatique sans précédent", qui pour le moment, il faut bien le dire, ne fait pas beaucoup d'émules.
+007	01	0.1511	Et un peu partout sur le Net, cette question récurrente: "Bon, c'est pas tout, mais les cinq milliards, ils sont où?"

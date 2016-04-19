@@ -1,7 +1,7 @@
-000	10	0.2370	Autrement dit, qu’elles ne soient encore plus touchées qu’elles ne le sont déjà.
-001	10	0.3046	En attendant, en interne, la contestation monte, notamment des caisses régionales, qui demeurent les actionnaires majoritaires.
+000	10	0.2186	Car contrairement aux discours optimistes tenus il y a encore quelques mois, la crise du subprime pèse de plus en plus lourd dans le bilan des banques françaises.
+001	10	0.1995	Aujourd’hui, Georges Pauget, le directeur général de Crédit agricole SA, évoque la nécessité « d’un recentrage rapide et vigoureux », pour que la banque se trouve sur de bons rails, « lorsque la sortie de crise se profilera, probablement en 2010 ».
 002	10	0.3034	Il a aussi décidé de réduire son enveloppe de « bonus », ces primes accordées aux traders en fonction de leurs résultats, en laissant plus de place dans leur calcul à la performance collective.
-003	10	0.2982	Au printemps dernier, la Société générale, encore sous le coup de l’affaire Kerviel, a ouvert le bal, en émettant pour 5,5 milliards d’euros d’actions nouvelles.
-004	10	0.2966	Mais aujourd’hui les appels au marché s’avèrent compliqués.
+003	10	0.1941	Suppression d'emplois et augmentation de capital Autre conséquence de cette crise, les banques françaises ont déjà lancé dans l’urgence plusieurs opérations d’augmentation de capital afin de restaurer leurs fonds propres.
+004	10	0.2982	Au printemps dernier, la Société générale, encore sous le coup de l’affaire Kerviel, a ouvert le bal, en émettant pour 5,5 milliards d’euros d’actions nouvelles.
 005	10	0.2983	Un plan d’économies a aussi été mis en place, avec l’annonce, en mai, de la suppression de 850 emplois, sur un effectif total de 22 000.
-006	10	0.2467	Mais cet été, Natixis a dû aussi lever 3,9 milliards pour retrouver ses ratios de solvabilité.
+006	10	0.2020	Des informations ni confirmées ni démenties par les dirigeants de Natixis qui se retranchent pour l’heure derrière leurs obligations de confidentialité.

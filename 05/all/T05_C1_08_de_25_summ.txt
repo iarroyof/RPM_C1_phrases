@@ -1,2 +1,2 @@
-000	08	0.2416	Elles "sont donc entachées d'incompétence", ajoute - t - elle.
+000	08	0.1750	Fichier Edvige: recours de Corinne Lepage devant le Conseil d'Etat Corinne Lepage, présidente du parti écologiste Cap 21, a annoncé jeudi un recours devant le Conseil d'Etat afin d'obtenir l'annulation du décret instaurant le fichier policier Edvige, qui, selon elle, porte "atteinte gravement aux libertés publiques".
 001	08	0.2656	"L'enregistrement de données fiscales et patrimoniales ou encore concernant l'environnement de la personne" est "incompatible avec la liberté politique indispensable au fonctionnement démocratique", affirme - t - elle.

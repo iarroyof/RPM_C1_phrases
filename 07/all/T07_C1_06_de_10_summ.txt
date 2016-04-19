@@ -1,4 +1,4 @@
-000	06	0.3494	La seconde a été déposée à Nanterre (Hauts - de - Seine).
-001	06	0.3156	La présence de ces "forts en maths" reflète l'évolution de la finance vers toujours plus de complexité.
+000	06	0.3048	La présidente du Medef, Laurence Parisot, a jugé quant à elle qu'il faudrait " tirer les conséquences (de cette affaire) pour que la place financière de Paris puisse rester crédible ".
+001	06	0.2808	On trouve de plus en plus de centraliens et de polytechniciens, mais aussi des docteurs en mathématiques, chargés de créer des nouveaux produits financiers ou de mettre au point les programmes informatiques de contrôle.
 002	06	0.3914	"Pourtant, assure un analyste parisien, le contrôle évolue au même rythme que sont créés de nouveaux produits financiers." Autrement dit: les systèmes de surveillance sont aussi subtils que les produits et les transactions qu'ils sont chargés de contrôler.
 003	06	0.3531	Il existe en outre plusieurs niveaux de contrôle internes à la banque qui vérifie la réalité de chaque transaction et additionne ses prises de risque et externes, via la commission bancaire notamment, qui dépend de la Banque de France.

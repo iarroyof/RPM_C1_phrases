@@ -1,3 +1,3 @@
 000	06	0.2387	Samedi, des représentants des ambassades des Etats - Unis, de Chine, de France et du Vietnam, partis en hélicoptère de Phnom Penh, sont arrivés sur le site pour constater la situation sur place, a indiqué sur le site le commandant en chef de la police militaire cambodgienne.
-001	06	0.2282	Plus de 100 nouveaux soldats thaïlandais, s'ajoutant aux 400 présents, sont également arrivés vendredi.
+001	06	0.1961	"Il y a environ 400 soldats thaïlandais positionnés dans une pagode et d'autres, je ne sais pas combien, ont pris position dans la jungle", a indiqué le général Chea Keo, qui dirige les forces cambodgiennes sur place.
 002	06	0.2633	L'ancien temple hindou de Preah Vihear au Cambodge, situé à 400 kilomètres au nord de la capitale Phnom Penh, à la frontière de la Thaïlande, et récemment entré sur la liste du Patrimoine mondial de l'Unesco, est au centre d'un conflit territorial entre les deux pays.

@@ -1,6 +1,6 @@
 000	05	0.2276	La situation à la frontière entre le Cambodge et la Thaïlande demeure particulièrement tendue, malgré l'ouverture dans la nuit de jeudi à vendredi de négociations avec l'ONU.
-001	05	0.2382	Par précaution, les populations locales ont été déplacées.
-002	05	0.2134	Le ministre cambodgien appelé à une réunion d'urgence du Conseil de sécurité de l'ONU.
+001	05	0.1957	Officiellement, il est en terre Cambodgienne depuis 1908, date à laquelle le gouvernement colonial français et la Thaïlande avaient dressé les premières cartes de la région.
+002	05	0.1931	Le Cambodge a accepté jeudi soir de reporter la réunion avec le Conseil de sécurité prévue pour lundi en faveur de négociations bilatérales directes.
 003	05	0.2742	Des diplomates des deux pays ont prévu de se rencontrer lundi matin, et le processus d'apaisement pourrait s'enclencher dans les jours à venir.
 004	05	0.2426	"Il s'agit d'un nouveau pas (effectué) par le Cambodge en vue de trouver une solution pacifique et bilatérale" avec la Thaïlande, a déclaré le ministre cambodgien des affaires étrangères.
-005	05	0.3009	Les troupes resteront mobilisées à la frontière pendant toute la durée des pourparlers.
+005	05	0.1736	L'ampleur prise par la crise du temple de Preah Vihear s'explique aussi par des raisons internes aux deux pays.

@@ -1,3 +1,3 @@
-000	06	0.2283	Le point sur les manifestations de ces trois derniers jours.
-001	06	0.2634	Jetsum Pema, soeur du dalaï lama, était "l'invitée d'honneur" de l'association organisatrice.
-002	06	0.2538	A Paris, deux manifestations symboliques contre le "régime totalitaire de Pékin", la première devant un restaurant McDonald's, l'un des sponsors des JO et la seconde devant Notre - Dame.
+000	06	0.1591	La cérémonie d'ouverture sous - pression A quelques heures de l'ouverture des jeux Olympiques ce vendredi à Pékin, les actes de protestation se multiplient dans le monde pour dénoncer les atteintes aux droits de l'Homme en Chine.
+001	06	0.2538	A Paris, deux manifestations symboliques contre le "régime totalitaire de Pékin", la première devant un restaurant McDonald's, l'un des sponsors des JO et la seconde devant Notre - Dame.
+002	06	0.1253	Le 6 août : Deux Britanniques et deux Américains sont expulsés de Chine vers leurs pays respectifs après avoir déployé mercredi une banderole "Tibet libre" près du stade national à Pékin.

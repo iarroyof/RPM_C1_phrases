@@ -2,14 +2,14 @@
 000	02	0.4844	Jean - Claude Dassier, 66 ans, venu de la chaîne d'informations LCI, fait part de son intention de "rapprocher véritablement" les rédactions de TF1 et de sa filiale, "sans licenciement ni guichet de départ", pour que le groupe TF1 "reste leader sur l'information" et devienne un "média global".
 000	03	0.2912	Claire Chazal devrait conserver la présentation des journaux du week - end, avec Anne - Sophie Lapix pour la suppléer.
 001	03	0.3279	S’il doit y avoir une mutation, indiquait, confiant, Robert Namias, le patron de l’info de TF1, en février, elle se fera avec eux ».
-002	03	0.3358	Ce proche de Sarkozy aura la tâche de rapprocher les rédactions des chaînes TF1 et LCI.
+002	03	0.2871	L’éviction de PPDA arrive dans un contexte de forte turbulence pour TF1 qui reste, de loin, la chaîne la plus regardée en France.
 000	04	0.4699	En février dernier, le directeur de l'information Robert Namias affirmait que les présentateurs actuels du JT de 20H00, Patrick Poivre d'Arvor et Claire Chazal, "n'étaient absolument pas menacés".
 001	04	0.4646	Respectée pour sa pugnacité et son professionnalisme, Laurence Ferrari avait présenté des journaux sur LCI, la chaîne info du groupe TF1, avant de lancer en 2000 le nouveau magazine d'information dominical "Sept à huit", qu'elle coprésentait alors avec son mari Thomas Hugues, et d'assurer les remplacements de Claire Chazal aux JT du week - end.
-000	05	0.3302	Les dirigeants de TF1 me l'ont, depuis, fébrilement confirmée, sans me donner la moindre explication sérieuse.
-000	06	0.3562	Le champagne et les petits fours étaient commandés depuis longtemps.
-001	06	0.3401	Un journaliste usé, à 60 ans, par 21 ans de présentation de JT ?
+000	05	0.3049	Voici le verbatim du communiqué de Patrick Poivre d'Arvor, transmis à l'AFP, dans lequel le journaliste confirme être "écarté" de la présentation du JT de 20 heures de TF1 : "Je prends acte de la décision de TF1 de m'écarter de la présentation du journal télévisé de 20h00.
+000	06	0.3090	Mais Patrick Poivre d'Arvor, l'icône déchue du 20 heures de TF1, n'imaginait pas qu'il servirait à « fêter » son éviction surprise du JT, lui qui se donnait jusqu'en 2 012 pour passer la main.
+001	06	0.2883	L'information, que la direction de TF1 se refuse toujours à commenter, était omniprésente dans les esprits quand Poivre d'Arvor a pris la parole, pour rendre hommage « à tous ceux qui se battent en permanence ».
 000	07	0.4824	De nombreux médias ont annoncé le départ de Patrick Poivre d'Arvor de la présentation du journal de TF1, mais la direction de la chaîne ne l'a pas confirmé.
-001	07	0.4447	"Les rumeurs qu'on essaie de distiller sont infondées", a - t - il assuré.
+001	07	0.3742	Il a rappelé l'"épisode" qui l'a opposé à Martin Bouygues, PDG du groupe TF1, il y a un an.
 000	08	0.3938	A l'écran jeudi soir, comme tous les soirs depuis lundi, Patrick Poivre d'Arvor n'a rien laissé paraître, terminant son JT en annonçant aux téléspectateurs qu'il "aurait le plaisir de les retrouver lundi".
 001	08	0.3698	Surtout, il laisse entendre que son départ pourrait être le prélude à une remise en cause de "l'indépendance" de la chaîne.
 000	09	0.4205	Le groupe audiovisuel privé lui a proposé le poste de directeur délégué de l'information, avec la responsabilité des magazines de l'information, de l'organisation des opérations spéciales et du pilotage de la réforme des éditions des journaux du groupe TF1.

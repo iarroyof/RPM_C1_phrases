@@ -1,4 +1,4 @@
 000	04	0.3646	In extremis, Kouchner et Yade vont finalement rencontrer le dalaï lama Le ministre des Affaires étrangères Bernard Kouchner et la secrétaire d'Etat aux Droits de l'Homme Rama Yade rencontreront finalement le dalaï lama vendredi, à la veille de son départ de France où l'accueil officiel a été, selon l'opposition, frileux et confus pour ne pas froisser Pékin.
-001	04	0.2220	Je ne sais pas.
+001	04	0.2208	Arrivé discrètement le 11 août, sans accueil officiel, le dalaï lama avait été reçu à huis clos dans un simple bureau du Sénat par un groupe de parlementaire.
 002	04	0.3811	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
 003	04	0.3319	Pour le PS, qui a dénoncé la "valse - hésitation" autour du dalaï lama, Paris, mène une "diplomatie sans boussole".

@@ -1,5 +1,5 @@
-000	01	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
-001	01	0.3843	Rencontre discrète.
-002	01	0.3172	Mais chez les delanoïstes, certains espèrent encore un compromis avec les royalistes.
-003	01	0.2848	Pendant ce temps, le pôle écologique annonce qu'il «s'engage» au côté de Royal.
-004	01	0.2957	Prudent, il ne ferme aucune porte mais fait part de sa «déception» vis - à - vis des propositions de rassemblement de Royal.
+000	01	0.2738	Le Congrès du PS s'ouvre dans la plus grande confusion Tandis qu'Aubry adresse à Royal une fin de non recevoir, Delanoë temporise.
+001	01	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
+002	01	0.2757	Ségolène Royal, quant à elle, attend désormais de connaître les réactions de ses adversaires à ses propositions de rassemblement.
+003	01	0.2957	Prudent, il ne ferme aucune porte mais fait part de sa «déception» vis - à - vis des propositions de rassemblement de Royal.
+004	01	0.2685	C'est une fin de non - recevoir : «Nous constatons que (ses positions) ne nous paraissent malheureusement pas à la hauteur des enjeux.»
