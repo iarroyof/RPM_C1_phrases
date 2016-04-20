@@ -1,9 +1,0 @@
-000	00	0.3293	"Une stratégie risquée" Le directoire de la Caisse d'Épargne avait décidé en avril dernier de l'arrêt des activités d'investissement pour son compte propre et l'équipe de la salle des marchés de l'Écureuil était censée liquider progressivement son portefeuille d'ici la fin de l'année.
-001	00	0.4234	« Cette perte est la conséquence à la fois de l'exceptionnelle volatilité des marchés dans cette période et de la violation des instructions que le directoire et moi - même avions données », a expliqué M. Milhaud dans une déclaration écrite (lire ci - dessous).
-002	00	0.3986	Cette perte est la conséquence, à la fois de l'exceptionnelle volatilité des marchés dans cette période, et de la violation des instructions que le directoire et moi - même avions données.
-003	00	0.3308	De l'affaire Kerviel à «l'incident» de la Caisse d'Epargne: la folie des traders Une affaire Kerviel bis ?
-004	00	0.3111	En janvier dernier, la Soc Gen avait vu s'envoler la somme colossale de 4,9 milliards d'euros à la suite de spéculations sur les marchés et de manipulations sur plus de 50 millions d'euros.
-005	00	0.4423	Pour l'avocate de Kerviel, Caroline Wassermann, « l'affaire de la Caisse d'Épargne qui vient de perdre 600 millions d'euros dans un incident boursier, démontre que Jérôme Kerviel n'est pas un cas isolé ».
-006	00	0.3555	Avant - hier, la société a fait savoir qu’elle avait été victime d’un incident informatique.
-007	00	0.4699	Après deux alertes, le trader est contraint de s'expliquer mais assure maîtriser la situation.
-008	00	0.3456	Ce qui justifie l'annonce de Bercy de débloquer en urgence 10,5 milliards d’euros pour les banques.
