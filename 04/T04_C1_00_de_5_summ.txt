@@ -1,5 +1,5 @@
-000	00	0.3236	Quelques heures avant de commencer un cycle d'enseignements de cinq jours, le dalaï - lama a accordé un entretien à Ségolène Royal, samedi matin, à Nantes.
-001	00	0.3747	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
+000	00	0.3747	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
+001	00	0.4864	Pour le PS, qui a dénoncé la "valse - hésitation" autour du dalaï lama, Paris, mène une "diplomatie sans boussole".
 002	00	0.3769	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
 003	00	0.3759	S'il n'a pas rencontré le chef de l'Etat, le dalaï lama s'est entretenu vendredi avec le ministre des Affaires étrangères, Bernard Kouchner.
 004	00	0.3635	La visite du dalaï lama, débutée le 12 août, s'est terminée samedi 23 août après son départ de l'aéroport de Roissy peu après 11h00, à bord d'un vol régulier de la compagnie Air France à destination de New Delhi.

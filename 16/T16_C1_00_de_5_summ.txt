@@ -3,8 +3,8 @@
 002	00	0.4747	» Si la grogne ne s’est pas étendue jusqu’au procès du braqueur Antonio Ferrara qui se tient actuellement devant les assises, certaines audiences ont été suspendues quarante - cinq minutes, comme à la 12e chambre correctionnelle, ou ont débuté volontairement avec du retard, comme à la 17e.
 003	00	0.4741	Rachida Dati "fragilise, par de constantes pressions, l'autorité judiciaire, dont l'indépendance est l'un des pivots de la démocratie", dénonçait la motion commune, l'accusant d'avoir une "attitude irresponsable" avec "la recherche systématique de boucs émissaires".
 004	00	0.3750	De quoi répondre aux attentes des magistrats de Créteil qui ont demandé au CSM de "prendre enfin une position face aux attaques répétées de la garde des Sceaux".
-005	00	0.3450	C'est la première fois que l'USM est en contact direct avec Sarkozy, signe du caractère exceptionnel de la situation et de la montée des difficultés qui s'accumulent autour de Rachida Dati.
+005	00	0.3844	Devant une telle levée de boucliers, Rachida Dati souffle le chaud et le froid.
 006	00	0.4059	» Jouer l'apaisement Une bienveillance qui étonne dans le contexte actuel, surtout après la libération par erreur d'un violeur récidiviste dans la nuit de jeudi dernier.
-007	00	0.3457	En début d'après - midi, Nicolas Sarkozy a reçu l'USM (Union syndicale des magistrats, majoritaire) qui est sortie « satisfaite » de l'entretien d'une heure dont la deuxième partie en présence de la ministre de la Justice.
+007	00	0.4255	Rachida Dati a rapidement éteint l’incendie en recevant mercredi les syndicats.
 008	00	0.3712	Et ce, grâce à des « engagements écrits forts, mais non chiffrés, en matière d’embauche de personnel », précise Claude Tournel, secrétaire général de l’Ufap, l’un des principaux syndicats pénitentiaires.
-009	00	0.3341	Les peines plancher sont des "peines minimales" de l'ordre d'un tiers de la peine maximale encourue (cinq ans pour un délit passible de quinze ans par exemple).
+009	00	0.3673	C’est par une magistrate que la chancellerie entendait remplacer Blais.

@@ -1,11 +1,11 @@
 000	00	0.4307	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
 001	00	0.3412	A l'occasion d'une rencontre avec plusieurs journalistes ce matin, elle a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
 002	00	0.3832	Constatée par les journalistes présents sur le perron de l'Elysée lors du conseil des ministres de rentrée, la grossesse de la garde des Sceaux a déjà fait la Une de plusieurs magazines.
-003	00	0.2913	Mais la maire du VIIe arrondissement de la capitale a toutefois laissé entendre que sa décision de ne pas participer à la campagne régionale en Ile - de - France n'est pas sans rapports avec son état.
-004	00	0.3042	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
-005	00	0.2948	Les rumeurs sur une éventuelle grossesse ont été relayées par de nombreux médias après que la garde des Sceaux soit sortie du Conseil des ministres de rentrée le 28 août en affichant un ventre plus rond que d'habitude.
-006	00	0.4018	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
-007	00	0.3281	Si la ministre de la Justice n'avait pas encore rendu publique sa grossesse le 1er septembre, elle a informé l'Elysée de sa situation.
-008	00	0.3215	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
-009	00	0.3112	Exclue du « G7 », ce groupe de ministres privilégiés se réunissant régulièrement autour de Nicolas Sarkozy, et moins en vue auprès du président de la République, Rachida Dati, un des symboles les plus marquants de l’ouverture à la diversité voulue par Sarkozy, restera - t - elle longtemps au gouvernement ?
-010	00	0.3386	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+003	00	0.3574	Cette grossesse audacieusement assumée change la donne.
+004	00	0.4018	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
+005	00	0.3281	Si la ministre de la Justice n'avait pas encore rendu publique sa grossesse le 1er septembre, elle a informé l'Elysée de sa situation.
+006	00	0.3215	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
+007	00	0.3807	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
+008	00	0.3392	Ou bien sa grossesse fournira - t - elle un prétexte pour une « sortie » en douceur ?
+009	00	0.3386	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+010	00	0.3560	Pierre - Yves Bournazel remplace Laurence Lasserre, qui a démissionné "car elle a d'autres projets professionnels", assure son entourage.
