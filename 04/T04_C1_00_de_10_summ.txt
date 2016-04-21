@@ -1,10 +1,10 @@
 000	00	0.3236	Quelques heures avant de commencer un cycle d'enseignements de cinq jours, le dalaï - lama a accordé un entretien à Ségolène Royal, samedi matin, à Nantes.
-001	00	0.2844	Mme Sarkozy n'a rien à faire dans cette histoire là !", a commenté Robert Ménard, secrétaire général de RSF, lors d'une conférence de presse.
-002	00	0.2914	"Je lui ai dit qu'il était toujours le bienvenu en France", a dit Bernard Kouchner à la presse juste en montant dans sa voiture.
-003	00	0.2936	In extremis, Kouchner et Yade vont finalement rencontrer le dalaï lama Le ministre des Affaires étrangères Bernard Kouchner et la secrétaire d'Etat aux Droits de l'Homme Rama Yade rencontreront finalement le dalaï lama vendredi, à la veille de son départ de France où l'accueil officiel a été, selon l'opposition, frileux et confus pour ne pas froisser Pékin.
-004	00	0.2965	Je considère que le soutien populaire est plus important", a - t - il déclaré lundi à Nantes, où il a dispensé un cycle d'enseignements qui a attiré des milliers de personnes.
-005	00	0.3747	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
-006	00	0.4864	Pour le PS, qui a dénoncé la "valse - hésitation" autour du dalaï lama, Paris, mène une "diplomatie sans boussole".
+001	00	0.2780	La présence de son épouse à la cérémonie de vendredi a été interprétée comme une tentative de l'Elysée de calmer les esprits.
+002	00	0.2844	Mme Sarkozy n'a rien à faire dans cette histoire là !", a commenté Robert Ménard, secrétaire général de RSF, lors d'une conférence de presse.
+003	00	0.2914	"Je lui ai dit qu'il était toujours le bienvenu en France", a dit Bernard Kouchner à la presse juste en montant dans sa voiture.
+004	00	0.2936	In extremis, Kouchner et Yade vont finalement rencontrer le dalaï lama Le ministre des Affaires étrangères Bernard Kouchner et la secrétaire d'Etat aux Droits de l'Homme Rama Yade rencontreront finalement le dalaï lama vendredi, à la veille de son départ de France où l'accueil officiel a été, selon l'opposition, frileux et confus pour ne pas froisser Pékin.
+005	00	0.2965	Je considère que le soutien populaire est plus important", a - t - il déclaré lundi à Nantes, où il a dispensé un cycle d'enseignements qui a attiré des milliers de personnes.
+006	00	0.3747	A son tour, Mme Yade a annoncé mardi à l'AFP qu'elle s'entretiendrait avec lui pour exprimer sa "solidarité" avec son "combat courageux", précisant que son initiative avait reçu le feu vert du président de la République.
 007	00	0.3769	En attendant, la priorité était de ne pas ouvrir un nouveau malentendu avec la Chine, a fortiori s'il y avait des enjeux économiques derrière.
 008	00	0.2874	Pour calmer les esprits, le bureau du Tibet à Paris a expliqué que de toute façon, le Dalaï Lama ne souhaitait pas cette rencontre, les dates coïncidant avec les Jeux Olympiques de Pékin qu'il a soutenus de manière constante.
 009	00	0.2894	En attendant, c'est sa femme Carla Bruni - Sarkozy qui doit l'accompagner le 22 août dans le sud de la France, à Lodève dans l'Hérault, à l'occasion de l'inauguration du temple de Lerab Ling, l'un des plus grands d'Europe.

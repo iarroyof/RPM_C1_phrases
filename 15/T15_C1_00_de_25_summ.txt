@@ -1,53 +1,53 @@
 000	00	0.2779	Manque encore le nom du père pour assouvir la curiosité des médias qui, depuis quinze jours, ne bruissent que de «l'heureux événement» qu'attend la ministre de la Justice.
-001	00	0.2135	«J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
-002	00	0.1909	Je ne dirai rien là - dessus», a - t - elle expliqué à quelques journalistes, selon le site du Monde.fr.
-003	00	0.1974	Changer son image L'idée qu'elle puisse quitter le ministère pour se présenter aux élections européennes ne convainc pas son entourage.
-004	00	0.2163	Un proche la compare plus volontiers à Anne Lauvergeon, et rappelle que la patronne d'Areva, qui a connu elle aussi une maternité tardive, était restée à la barre «jusqu'à la dernière seconde».
-005	00	0.2420	Au Point, qui publie cette semaine un numéro sur le «mystère Dati», elle confie d'ailleurs qu'elle aimerait «rester le plus longtemps possible» à la Chancellerie.
-006	00	0.2345	Son avenir au gouvernement n'inspire que ce commentaire : «C'est une battante, elle ne va pas quitter les allées du pouvoir.»
-007	00	0.4307	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
-008	00	0.3412	A l'occasion d'une rencontre avec plusieurs journalistes ce matin, elle a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
-009	00	0.2186	A 42 ans, elle se décrit comme étant toujours «dans une zone à risques» et préfère rester prudente tant qu'elle n'est pas rassurée.
-010	00	0.3832	Constatée par les journalistes présents sur le perron de l'Elysée lors du conseil des ministres de rentrée, la grossesse de la garde des Sceaux a déjà fait la Une de plusieurs magazines.
-011	00	0.2913	Mais la maire du VIIe arrondissement de la capitale a toutefois laissé entendre que sa décision de ne pas participer à la campagne régionale en Ile - de - France n'est pas sans rapports avec son état.
-012	00	0.3042	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
-013	00	0.1982	La ministre de la Justice Rachida Dati a refusé ce mardi, lors d'une visite à la maison d'arrêt de Fleury - Mérogis (Essonne), de répondre aux questions sur son éventuelle grossesse, objet depuis quelques jours de rumeurs relayées par de nombreux médias.
-014	00	0.2241	"Moi, j'ai un engagement en tant que garde des Sceaux, c'est de lutter contre la délinquance", a ajouté Rachida Dati, 42 ans, célibataire.
-015	00	0.2948	Les rumeurs sur une éventuelle grossesse ont été relayées par de nombreux médias après que la garde des Sceaux soit sortie du Conseil des ministres de rentrée le 28 août en affichant un ventre plus rond que d'habitude.
-016	00	0.2513	Sans dire pour autant qui est le père: plusieurs noms de personnalités connues circulent, mais pour l'instant personne ne semble avoir été mis dans le secret.
-017	00	0.1849	La jeune garde des Sceaux, première musulmane issue de l'immigration à occuper ce ministère, prestigieux entre tous, par la volonté de Nicolas Sarkozy, a bel et bien décidé de «faire un bébé toute seule», comme le dit la chanson de Jean - Jacques Goldman.
-018	00	0.2341	Et il n'est pas prévu pour l'instant qu'elle fasse connaître le nom du père: ce sera peut - être jamais.
-019	00	0.1875	«J'ai une vie privée compliquée, a - t - elle déclaré sans ambages au Monde, et je ne dirai rien là - dessus.»
-020	00	0.2064	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
-021	00	0.2175	«Ce qu'en termes militaires on appellerait l'Opération - Bébé est un franc succès... les médias attendris gazouillent... c'est Rachida, libre, seule et rebelle qui fait un bébé en douce.»
-022	00	0.2138	Issue d'une famille algéro - marocaine immigrée et pauvre, Rachida Dati, qui s'était hissée à la force du poignet dans les cercles du pouvoir et avait été finalement distinguée par Nicolas Sarkozy, est depuis ses débuts dans la vie publique une femme seule et libre.
-023	00	0.2612	Conte de fées Le conte de fées Dati avait d'abord séduit l'opinion française, et elle était pratiquement en tête des sondages de popularité parmi les personnalités politiques.
-024	00	0.2064	Par la suite, sa réputation d'autoritarisme au ministère de la Justice, un goût immodéré pour le luxe, des photos en robe de grand couturier dans son bureau de la place Vendôme, avaient sensiblement écorné son image.
-025	00	0.2481	On prêtait à Rachida Dati des relations avec deux grands patrons français, l'un de l'industrie, l'autre de l'hôtellerie de luxe.
-026	00	0.2915	Mais ce sont les rumeurs concernant l'ancien premier ministre espagnol José Maria Aznar qui ont évidemment le plus attiré l'attention.
-027	00	0.1843	La rumeur a en tout cas suffisamment tourné sur l'Internet après avoir été lancée par le site d'un journal marocain, pour que celui que Michèle Stouvenot qualifie de «Droopy moustachu» se sente obligé de faire savoir par communiqué qu'il n'était en rien responsable de «l'état» de «Mme Dati».
-028	00	0.2031	Rachida Dati évoque sa grossesse devant des journalistes La ministre de la Justice Rachida Dati a confirmé pour la première fois devant des journalistes sa grossesse, tout en excluant tout ralentissement ou arrêt de ses activités au gouvernement.
-029	00	0.3118	"J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
+001	00	0.1650	Une allusion à la secrétaire d'État qui a quitté le gouvernement Raffarin en 2004 après deux ans au gouvernement pour se faire élire au Parlement européen.
+002	00	0.2163	Un proche la compare plus volontiers à Anne Lauvergeon, et rappelle que la patronne d'Areva, qui a connu elle aussi une maternité tardive, était restée à la barre «jusqu'à la dernière seconde».
+003	00	0.2420	Au Point, qui publie cette semaine un numéro sur le «mystère Dati», elle confie d'ailleurs qu'elle aimerait «rester le plus longtemps possible» à la Chancellerie.
+004	00	0.4307	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+005	00	0.3412	A l'occasion d'une rencontre avec plusieurs journalistes ce matin, elle a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+006	00	0.2186	A 42 ans, elle se décrit comme étant toujours «dans une zone à risques» et préfère rester prudente tant qu'elle n'est pas rassurée.
+007	00	0.3832	Constatée par les journalistes présents sur le perron de l'Elysée lors du conseil des ministres de rentrée, la grossesse de la garde des Sceaux a déjà fait la Une de plusieurs magazines.
+008	00	0.2913	Mais la maire du VIIe arrondissement de la capitale a toutefois laissé entendre que sa décision de ne pas participer à la campagne régionale en Ile - de - France n'est pas sans rapports avec son état.
+009	00	0.3042	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
+010	00	0.1982	La ministre de la Justice Rachida Dati a refusé ce mardi, lors d'une visite à la maison d'arrêt de Fleury - Mérogis (Essonne), de répondre aux questions sur son éventuelle grossesse, objet depuis quelques jours de rumeurs relayées par de nombreux médias.
+011	00	0.2241	"Moi, j'ai un engagement en tant que garde des Sceaux, c'est de lutter contre la délinquance", a ajouté Rachida Dati, 42 ans, célibataire.
+012	00	0.1751	"La bonne nouvelle c'est que nous favorisons la réinsertion des personnes détenues pour lutter contre la récidive", a rétorqué la ministre, éludant une nouvelle fois la question.
+013	00	0.2948	Les rumeurs sur une éventuelle grossesse ont été relayées par de nombreux médias après que la garde des Sceaux soit sortie du Conseil des ministres de rentrée le 28 août en affichant un ventre plus rond que d'habitude.
+014	00	0.2513	Sans dire pour autant qui est le père: plusieurs noms de personnalités connues circulent, mais pour l'instant personne ne semble avoir été mis dans le secret.
+015	00	0.1849	La jeune garde des Sceaux, première musulmane issue de l'immigration à occuper ce ministère, prestigieux entre tous, par la volonté de Nicolas Sarkozy, a bel et bien décidé de «faire un bébé toute seule», comme le dit la chanson de Jean - Jacques Goldman.
+016	00	0.1875	«J'ai une vie privée compliquée, a - t - elle déclaré sans ambages au Monde, et je ne dirai rien là - dessus.»
+017	00	0.1733	Une célibataire enceinte à la tête du ministère de la Justice et qui assume sa situation: loin de provoquer un malaise, l'événement est salué par les commentateurs (trices) comme un coup de maître ou en tout cas un joli coup de pub qui remet l'ex - favorite du président Sarkozy en piste, alors que son étoile semblait pâlir depuis quelques mois.
+018	00	0.2064	Dans le (faux) journal de Carla B., chronique fantaisiste de l'hebdomadaire satirique le Canard enchaîné, la (fausse) épouse de Sarkozy écrit: «Mauvaise semaine!
+019	00	0.2175	«Ce qu'en termes militaires on appellerait l'Opération - Bébé est un franc succès... les médias attendris gazouillent... c'est Rachida, libre, seule et rebelle qui fait un bébé en douce.»
+020	00	0.1765	Et dans Valeurs actuelles, l'une des journalistes politiques les mieux informées de Paris, Catherine Nay applaudit: «Rachida maman, le feuilleton va continuer, les premiers sourires du bébé, ses premiers pas, sa première rentrée des classes, etc.
+021	00	0.2138	Issue d'une famille algéro - marocaine immigrée et pauvre, Rachida Dati, qui s'était hissée à la force du poignet dans les cercles du pouvoir et avait été finalement distinguée par Nicolas Sarkozy, est depuis ses débuts dans la vie publique une femme seule et libre.
+022	00	0.2612	Conte de fées Le conte de fées Dati avait d'abord séduit l'opinion française, et elle était pratiquement en tête des sondages de popularité parmi les personnalités politiques.
+023	00	0.2064	Par la suite, sa réputation d'autoritarisme au ministère de la Justice, un goût immodéré pour le luxe, des photos en robe de grand couturier dans son bureau de la place Vendôme, avaient sensiblement écorné son image.
+024	00	0.1843	La rumeur a en tout cas suffisamment tourné sur l'Internet après avoir été lancée par le site d'un journal marocain, pour que celui que Michèle Stouvenot qualifie de «Droopy moustachu» se sente obligé de faire savoir par communiqué qu'il n'était en rien responsable de «l'état» de «Mme Dati».
+025	00	0.2031	Rachida Dati évoque sa grossesse devant des journalistes La ministre de la Justice Rachida Dati a confirmé pour la première fois devant des journalistes sa grossesse, tout en excluant tout ralentissement ou arrêt de ses activités au gouvernement.
+026	00	0.1825	Le porte - parole du gouvernement, Luc Chatel, a confirmé qu'il n'était question dans l'immédiat pour Rachida Dati de renoncer à sa fonction.
+027	00	0.1818	Première Française d'origine maghrébine à diriger un grand ministère, Rachida Dati est née en Bourgogne dans une famille modeste de mère algérienne et de père marocain.
+028	00	0.1541	Deuxième d'une famille modeste de onze enfants, elle est souvent présentée par le chef de l'Etat comme le symbole de la diversité et de l'ouverture de son gouvernement.
+029	00	0.1805	Rachida Dati, ministre célibataire et enceinte Première femme issue de l'immigration à détenir un portefeuille majeur au gouvernement, Rachida Dati est maintenant en passe de devenir la première ministre célibataire à avoir un enfant sans compagnon attitré.
 030	00	0.4018	La ministre de la Justice est donc bien enceinte: après avoir lancé la rumeur il y a deux semaines en affichant au Conseil des ministres un ventre rebondi sous une tenue ajustée, elle l'a confirmée mercredi en distillant quelques confidences.
-031	00	0.2253	"J'ai une vie privée compliquée et c'est la limite que je me pose vis - à - vis de la presse.
-032	00	0.2428	La ministre de la Justice revient sur le devant de la scène alors qu'elle s'était faite plus discrète ces derniers mois dans les médias, friands de ses tenues haute - couture.
-033	00	0.2179	Rachida Dati va - t - elle ralentir son activité ou, comme Ségolène Royal, ne l'interrompre que les quelques jours nécessaires à l'accouchement ?
-034	00	0.1964	Interrogé sur un possible intérim, le porte - parole du gouvernement Luc Chatel répondait: "je n'ai pas eu connaissance d'une absence éventuelle de madame Dati.
-035	00	0.2642	Mme Dati a bon pied, bon oeil à sa fonction comme garde des Sceaux et ministre de la Justice".
-036	00	0.3281	Si la ministre de la Justice n'avait pas encore rendu publique sa grossesse le 1er septembre, elle a informé l'Elysée de sa situation.
-037	00	0.3215	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
-038	00	0.2459	Ségolène Royal a ouvert la voie en 1992, suivie, quelques jours plus tard, de Frédérique Bredin et, en 2000, de Florence Parly.
-039	00	0.1893	Autre particularité : l'engouement médiatique et populaire que suscite l'ancienne protégée de Cécilia, au parcours si romanesque, est tel que son histoire promet, dans les mois à venir, de faire couler beaucoup d'encre.
-040	00	0.2339	LE CORRIERE DELLA SERA (Italie) "Le choix du silence (sur le nom du père) a un profond sens politique".
-041	00	0.2128	« Je veux rester prudente car ce n’est pas encore consolidé, a déclaré la ministre de la Justice, lors d’une conversation informelle rapportée sur le site Le Monde.fr.
-042	00	0.3807	D’où l’idée, chez la ministre, d’« officialiser » la nouvelle de sa grossesse dans une interview à un hebdomadaire.
-043	00	0.3112	Exclue du « G7 », ce groupe de ministres privilégiés se réunissant régulièrement autour de Nicolas Sarkozy, et moins en vue auprès du président de la République, Rachida Dati, un des symboles les plus marquants de l’ouverture à la diversité voulue par Sarkozy, restera - t - elle longtemps au gouvernement ?
-044	00	0.3392	Ou bien sa grossesse fournira - t - elle un prétexte pour une « sortie » en douceur ?
-045	00	0.2975	Mme Dati a bon pied bon oeil à sa fonction comme garde des Sceaux et ministre de la Justice.
-046	00	0.2388	» De fait, elle n’est pas la première femme à être ministre et enceinte : Ségolène Royal à l’Environnement en 1992, Frédérique Bredin aux Sports la même année et Florence Parly au Budget en 2000 sont restées en poste malgré leur grossesse.
-047	00	0.3386	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
-048	00	0.2713	Elle a évoqué, par ailleurs, "une vie privée compliquée"... Depuis le 21 août, au lendemain d'un Conseil des ministres de rentrée, la rumeur enflait.
-049	00	0.2878	Jean - Michel Aphatie, sur les ondes de RTL, posait la question tout de go à Roselyne Bachelot, la ministre de la Santé, qui éludait.
-050	00	0.1900	Le chroniqueur espérait sans doute faire parler celle qui est connue pour avoir du mal à garder sa langue dans sa poche.
-051	00	0.2408	Outre - Atlantique et outre - Manche tous les tabloïds et chaînes de télévision s'en seraient donné à coeur joie.
-052	00	0.3560	Pierre - Yves Bournazel remplace Laurence Lasserre, qui a démissionné "car elle a d'autres projets professionnels", assure son entourage.
+031	00	0.1742	Avant elle, trois femmes de gauche ont mené de front grossesse et poste au gouvernement: Ségolène Royal à l'Environnement et Frédérique Bredin aux Sports en 1992, Florence Parly au Budget en 2000.
+032	00	0.1685	Sinon, j'en serai très chagrinée, mais je mettrai du rouge à lèvres là - dessus et je porterai ce sac toute seule", a ajouté celle qui est deuxième d'une fratrie de douze, née d'un père marocain et d'une mère algérienne.
+033	00	0.2428	La ministre de la Justice revient sur le devant de la scène alors qu'elle s'était faite plus discrète ces derniers mois dans les médias, friands de ses tenues haute - couture.
+034	00	0.1771	A ceux qui voudraient voir dans cette grossesse le glas de la carrière gouvernementale d'une ministre exclue du cercle des intimes de Nicolas Sarkozy, Rachida Dati répond qu'elle aimerait "rester le plus longtemps possible" à la Chancellerie, tandis que Le Point cite un conseiller de l'Elysée selon qui il faudra "laisser là où elle est" celle qui symbolise la diversité du nouveau pouvoir.
+035	00	0.2179	Rachida Dati va - t - elle ralentir son activité ou, comme Ségolène Royal, ne l'interrompre que les quelques jours nécessaires à l'accouchement ?
+036	00	0.1964	Interrogé sur un possible intérim, le porte - parole du gouvernement Luc Chatel répondait: "je n'ai pas eu connaissance d'une absence éventuelle de madame Dati.
+037	00	0.3281	Si la ministre de la Justice n'avait pas encore rendu publique sa grossesse le 1er septembre, elle a informé l'Elysée de sa situation.
+038	00	0.3215	Voici et Closer se sont déjà emparés en Une, sans point d'interrogation, de l'"événement", avec des photos du Conseil des ministres de rentrée du 21 août.
+039	00	0.2459	Ségolène Royal a ouvert la voie en 1992, suivie, quelques jours plus tard, de Frédérique Bredin et, en 2000, de Florence Parly.
+040	00	0.1893	Autre particularité : l'engouement médiatique et populaire que suscite l'ancienne protégée de Cécilia, au parcours si romanesque, est tel que son histoire promet, dans les mois à venir, de faire couler beaucoup d'encre.
+041	00	0.1675	La grossesse de Dati passionne la presse européenne Certains journaux européens sont revenus jeudi 4 septembre sur la grossesse de la Garde des Sceaux, Rachida Dati, après un démenti mercredi de l'ancien chef du gouvernement espagnol José Maria Aznar à une rumeur lui attribuant la paternité.
+042	00	0.1709	"La femme qui affronte seule une maternité n'est plus une 'malheureuse' qui doit se cacher mais une femme fière (...) qui ne recule devant personne".
+043	00	0.2128	« Je veux rester prudente car ce n’est pas encore consolidé, a déclaré la ministre de la Justice, lors d’une conversation informelle rapportée sur le site Le Monde.fr.
+044	00	0.3112	Exclue du « G7 », ce groupe de ministres privilégiés se réunissant régulièrement autour de Nicolas Sarkozy, et moins en vue auprès du président de la République, Rachida Dati, un des symboles les plus marquants de l’ouverture à la diversité voulue par Sarkozy, restera - t - elle longtemps au gouvernement ?
+045	00	0.1738	La garde des Sceaux assure qu’il n’y aurait aucune raison qu’elle « ralentisse ou arrête » ses activités au ministère, « ce n’est pas une maladie ».
+046	00	0.1553	Quant à Luc Chatel, porte - parole du gouvernement, il renchérit : « Je n’ai pas eu connaissance d’une absence éventuelle de Mme Dati.
+047	00	0.2388	» De fait, elle n’est pas la première femme à être ministre et enceinte : Ségolène Royal à l’Environnement en 1992, Frédérique Bredin aux Sports la même année et Florence Parly au Budget en 2000 sont restées en poste malgré leur grossesse.
+048	00	0.3386	C'est la Garde des sceaux elle - même qui l'a confirmé mercredi matin, devant quelques journalistes, révèle l'édition électronique du quotidien Le Monde.
+049	00	0.2713	Elle a évoqué, par ailleurs, "une vie privée compliquée"... Depuis le 21 août, au lendemain d'un Conseil des ministres de rentrée, la rumeur enflait.
+050	00	0.2878	Jean - Michel Aphatie, sur les ondes de RTL, posait la question tout de go à Roselyne Bachelot, la ministre de la Santé, qui éludait.
+051	00	0.1900	Le chroniqueur espérait sans doute faire parler celle qui est connue pour avoir du mal à garder sa langue dans sa poche.
+052	00	0.1766	Aucun membre du gouvernement n'a commenté le sujet, du moins officiellement, aucune confirmation ou infirmation ne sont venues de la place Vendôme.

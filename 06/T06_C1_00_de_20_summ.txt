@@ -1,6 +1,6 @@
 000	00	0.2905	JO: une cérémonie d'ouverture à grand spectacle attendue par le monde entier PÉKIN (AFP) - Tout aux jeux Olympiques de Pékin est à grande échelle et la cérémonie d'ouverture vendredi n'y échappera pas, avec un spectacle de trois heures marqué par l'ouverture au monde, la promotion de la culture chinoise traditionnelle et son inscription dans la modernité.
 001	00	0.2734	La Chine, longtemps réticente aux regards indiscrets de l'étranger, est désormais prête à devenir le centre d'attention d'une audience de plusieurs centaines de millions de téléspectateurs.
-002	00	0.2839	Il a déjà révélé que le spectacle allait porter sur "la longue et ancienne histoire de la nation chinoise".
+002	00	0.2476	La star du basket chinois Yao Ming, pressentie pour cet honneur, l'a déjà portée mercredi sur la place Tiananmen, et la tradition veut qu'une personne ne puisse le faire qu'une fois.
 003	00	0.4167	Depuis 8 heures du soir (heure locale), 8 minutes et 8 secondes de cette 8e journée, du 8e mois de l'année 2008, Pékin, sous haute sécurité, est la nouvelle capitale mondiale du sport.
 004	00	0.3429	Avec le dernier porteur, l'ancien gymnaste chinois Li Ning, qui a allumé la torche géante du stade olympique, la Chine a donné le coup d'envoi des XXVIes Jeux olympiques d'été.
 005	00	0.3533	Le climat diplomatique entre Paris et Pékin s'est considérablement réchauffé depuis quelques heures, avec l'annonce par l'Élysée que Nicolas Sarkozy ne rencontrerait pas le dalaï - lama lors de son passage en France la semaine prochaine.
@@ -12,13 +12,13 @@
 011	00	0.3302	Vendredi soir, au début de la cérémonie d'ouverture des JO de Pékin, pour ceux qui l'ont vue à la télé, il y eut de spectaculaires séquences de feux d'artifice à travers la capitale chinoise.
 012	00	0.2587	De nombreux internautes s'estiment bernés par cette supercherie, et condamnent les organisateurs de la soirée, à commencer par le réalisateur Zhang Yimou, responsable du spectacle.
 013	00	0.3711	La presse officielle n'en dit pas un mot, laissant, comme d'habitude, la parole aux internautes pour porter le fer de la critique, dès lors que les intérêts vitaux de l'Etat ne sont pas en jeu.
-014	00	0.3161	Sous les yeux du monde entier, la cérémonie d’ouverture de ses Jeux a offert un spectacle grandiose de prouesses techniques et de performances humaines.
-015	00	0.2996	Un grand mystère plane néanmoins sur cette prestation: la diffusion d’un son de cornemuses, entendu jusqu’à la fin du spectacle.
+014	00	0.2486	Autre petit mensonge : les internautes affirment que la fillette qui a eu l'honneur de chanter l'hymne national chinois, et qui a eu sa photo dans tous les journaux (avec tous les détails sur sa famille, sa marque de biscuits préférés...), n'est pas celle qui chantait !
+015	00	0.3161	Sous les yeux du monde entier, la cérémonie d’ouverture de ses Jeux a offert un spectacle grandiose de prouesses techniques et de performances humaines.
 016	00	0.3600	Restait alors la levée du drapeau olympique, les serments des athlètes (par la pongiste Zhang Yining) et l’allumage spectaculaire de la vasque par l’ancien gymnaste chinois Li Ning, suspendu dans le ciel pékinois par un filin.
-017	00	0.2871	Le dernier porteur de la torche olympique, l'ancien gymnaste chinois Li Ning, a embrasé la vasque pour les deux semaines des Jeux (8 - 24 août).
-018	00	0.2621	La Chine a fait une démonstration de puissance et d'esthétisme vendredi 8 août lors de la cérémonie d'ouverture des 26èmes Jeux olympiques sous les yeux du monde entier, avec un grandiose spectacle de prouesses techniques et performances humaines vantant la culture millénaire du pays.
-019	00	0.3721	La patte de Zhang Yimou Entre féerie et démesure, la scénographie supervisée par le cinéaste Zhang Yimou a fait la part belle aux jeux de lumières et à la synchronisation humaine, stupéfiante, mobilisant au total pas moins de 14.000 personnes.
-020	00	0.3596	A l'inverse, la délégation française a reçu un accueil mitigé avec quelques sifflets isolés vite couverts par l'ambiance du Nid d'oiseau.
+017	00	0.2401	A Paris, deux manifestations symboliques contre le "régime totalitaire de Pékin", la première devant un restaurant McDonald's, l'un des sponsors des JO et la seconde devant Notre - Dame.
+018	00	0.2871	Le dernier porteur de la torche olympique, l'ancien gymnaste chinois Li Ning, a embrasé la vasque pour les deux semaines des Jeux (8 - 24 août).
+019	00	0.2621	La Chine a fait une démonstration de puissance et d'esthétisme vendredi 8 août lors de la cérémonie d'ouverture des 26èmes Jeux olympiques sous les yeux du monde entier, avec un grandiose spectacle de prouesses techniques et performances humaines vantant la culture millénaire du pays.
+020	00	0.3721	La patte de Zhang Yimou Entre féerie et démesure, la scénographie supervisée par le cinéaste Zhang Yimou a fait la part belle aux jeux de lumières et à la synchronisation humaine, stupéfiante, mobilisant au total pas moins de 14.000 personnes.
 021	00	0.2689	Un feu d'artifice de 29.000 fusées a achevé une soirée sans accroc, qui a duré près de quatre heures, à la gloire de la Chine, loin des polémiques sur le Tibet ou la liberté d'expression.
 022	00	0.3049	En effet, la crise tibétaine et la question des droits de l'homme auront assombri le ciel déjà pollué de Pékin, du "coup" médiatique du secrétaire général de RSF, Robert Ménard, lors de la cérémonie d'allumage de la flamme à Olympie, en passant par l'échec du parcours de la flamme olympique à Paris.
 023	00	0.3668	Les actes de protestation se sont d'ailleurs multipliés dans le monde vendredi: piratage par RSF d'une fréquence FM à Pékin pour évoquer la liberté d'expression en Chine, veillées et manifestations dans de nombreux pays, lettre ouverte envoyée par une centaine d'athlètes à Hu Jintao.
@@ -26,5 +26,5 @@
 025	00	0.2593	La cérémonie ouvrant les Jeux olympiques de Pékin 2008 a débuté sans le moindre retard, pour respecter notamment une superstition chinoise, faisant débuter ces 29e Olympiades à 8h08 le 8/08/2008.
 026	00	0.3038	Histoire avec un grand "H" d'ailleurs, si l'on considère la profusion d'effets et de lumières entourant la manifestation, d'une force visuelle il est vrai sidérante.
 027	00	0.3647	On a pu ainsi voir, au fur et à mesure, célébrées les inventions chinoises comme le papier, l'impression, la poudre et la boussole.
-028	00	0.3169	Avant la proclamation officielle du président chinois Hu Jintao et l'allumage de la flamme par l'ancien gymnaste chinois Li Ning.
-029	00	0.3178	La part d'audience de France 2 s'est établie à 48,2%, plaçant ainsi la chaîne largement en tête des audiences.
+028	00	0.2460	Selon les chiffres de Médiamétrie, quelque 4,923 millions de personnes ont regardé cette cérémonie, retransmise à partir de 13H45, pendant cinq heures.
+029	00	0.2450	Mais sa retransmission, en direct, avait eu lieu en soirée (à partir de 19H40), moment de la journée où la télévision est le plus regardée.
