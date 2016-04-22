@@ -1,13 +1,13 @@
-000	00	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
-001	00	0.3843	Rencontre discrète.
-002	00	0.3652	«A Paris, on a senti qu'il n'y avait pas de dynamique de campagne, expliquait un hollandais.
-003	00	0.4631	Delanoë s'est isolé, il s'est vieilli, il n'était pas réactif.»
-004	00	0.4145	Congrès de Reims: le PS suspendu à la décision de Ségolène Royal A deux jours de son congrès, le PS est suspendu à la décision de Ségolène Royal de briguer ou non la succession de François Hollande.
-005	00	0.3549	Julien Dray, signataire de la même motion que la présidente de la région Poitou - Charentes pour le congrès PS de Reims, a déclaré mardi qu'il revenait "à Ségolène Royal de prendre sa décision, qu'elle souhaite être premier secrétaire, ou qu'elle réfléchisse à d'autres" formules.
-006	00	0.4377	L'équipe Royal a élaboré un "document de travail ouvert" énonçant ce qu'elle a appelé ses "propositions pour la gouvernance du PS".
+000	00	0.4631	Delanoë s'est isolé, il s'est vieilli, il n'était pas réactif.»
+001	00	0.4377	L'équipe Royal a élaboré un "document de travail ouvert" énonçant ce qu'elle a appelé ses "propositions pour la gouvernance du PS".
+002	00	0.4145	Congrès de Reims: le PS suspendu à la décision de Ségolène Royal A deux jours de son congrès, le PS est suspendu à la décision de Ségolène Royal de briguer ou non la succession de François Hollande.
+003	00	0.4055	Faute de les avoir obtenues, selon lui, il est reparti sans prendre le "document Royal".
+004	00	0.3845	"Ségolène Royal a la responsabilité de rechercher avec nous la plus grande unité du PS", a déclaré M. Rebsamen.
+005	00	0.3843	Rencontre discrète.
+006	00	0.3652	«A Paris, on a senti qu'il n'y avait pas de dynamique de campagne, expliquait un hollandais.
 007	00	0.3622	M. Lamy attend des avancées sur "les salaires, la justice fiscale, l'immigration, le rôle de l'Etat, les retraites".
-008	00	0.4055	Faute de les avoir obtenues, selon lui, il est reparti sans prendre le "document Royal".
-009	00	0.3845	"Ségolène Royal a la responsabilité de rechercher avec nous la plus grande unité du PS", a déclaré M. Rebsamen.
-010	00	0.3453	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
-011	00	0.3497	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.
-012	00	0.3552	En 1971, François Mitterrand, arrivé en troisième position en recueillant 15% des suffrages, parvenait à prendre le parti.
+008	00	0.3552	En 1971, François Mitterrand, arrivé en troisième position en recueillant 15% des suffrages, parvenait à prendre le parti.
+009	00	0.3549	Julien Dray, signataire de la même motion que la présidente de la région Poitou - Charentes pour le congrès PS de Reims, a déclaré mardi qu'il revenait "à Ségolène Royal de prendre sa décision, qu'elle souhaite être premier secrétaire, ou qu'elle réfléchisse à d'autres" formules.
+010	00	0.3497	Tout va se jouer cette nuit, lors de la "commission des résolutions", appelé aussi "la nuit des longs couteaux"... "ça peut être très long... comme très rapide", a résumé Philippe Martin.
+011	00	0.3474	Tactique, faux - semblants, rivalités personnelles, méfiance contre mépris réciproques, mais aussi refondation du socialisme et renouvellement des dirigeants du parti… Les ingrédients et les enjeux du congrès du PS qui s'ouvre aujourd'hui à Reims rendent son issue incertaine.
+012	00	0.3453	Un peu plus tôt dans la journée, Claude Bartolone, l'un des lieutenants de Laurent Fabius, jubilait: "Il y a toujours une dimension physique dans les congrès.
