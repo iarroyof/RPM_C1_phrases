@@ -1,11 +1,11 @@
-000	00	0.5037	La ministre de la Justice, Rachida Dati, qui aura 43 ans au mois de novembre et qui n'a ni mari ni compagnon officiel, est enceinte et le fait savoir.
-001	00	0.5031	«Ce qu'en termes militaires on appellerait l'Opération - Bébé est un franc succès... les médias attendris gazouillent... c'est Rachida, libre, seule et rebelle qui fait un bébé en douce.»
-002	00	0.3222	Après la séparation de Nicolas et Cécilia, on l'avait vue en robe du soir accompagner le président au dîner officiel à la Maison - Blanche à Washington en novembre 2007.
-003	00	0.3115	Deuxième d'une famille modeste de onze enfants, elle est souvent présentée par le chef de l'Etat comme le symbole de la diversité et de l'ouverture de son gouvernement.
-004	00	0.3067	Comme plusieurs femmes avant elle (Ségolène Royal, Florence Parly, et Frédérique Bredin), Rachida Dati n'envisage pas «si tout se passe bien» de suspendre ses activités de ministre.
-005	00	0.3062	La garde des Sceaux assure qu’il n’y aurait aucune raison qu’elle « ralentisse ou arrête » ses activités au ministère, « ce n’est pas une maladie ».
-006	00	0.3050	Conte de fées Le conte de fées Dati avait d'abord séduit l'opinion française, et elle était pratiquement en tête des sondages de popularité parmi les personnalités politiques.
-007	00	0.3047	Je ne dirai rien là - dessus", a - t - elle expliqué, nourrissant les spéculations, alors que la rumeur lui a déjà prêté plusieurs aventures sentimentales.
-008	00	0.3036	"La bonne nouvelle c'est que nous favorisons la réinsertion des personnes détenues pour lutter contre la récidive", a rétorqué la ministre, éludant une nouvelle fois la question.
-009	00	0.3032	Sinon j'en serai très chagrinée, mais je mettrai du rouge à lèvres là - dessus et je porterai ce sac toute seule", ajoute - t - elle.
-010	00	0.3017	« Je veux rester prudente car ce n’est pas encore consolidé, a déclaré la ministre de la Justice, lors d’une conversation informelle rapportée sur le site Le Monde.fr.
+000	00	0.2919	Manque encore le nom du père pour assouvir la curiosité des médias qui, depuis quinze jours, ne bruissent que de «l'heureux événement» qu'attend la ministre de la Justice.
+001	00	0.2778	Très interrogative, pendant tout l'été, selon plusieurs sources, sur l'avenir de sa vie professionnelle, Rachida Dati peut en tout cas saisir une chance de changer son image «Dior - Prada» et raconter une autre histoire, celle d'une future maman.
+002	00	0.2773	Selon la garde des Sceaux, c'est parce que cette grossesse n'était pas encore «consolidée», qu'elle a voulu rester «prudente» ces derniers jours, alors que la rumeur ne cessait de croître, et qu'elle faisait déjà la une des hebdos people.
+003	00	0.2746	Rachida Dati, enceinte, «n'envisage pas» de quitter son poste A l'occasion d'une rencontre avec des journalistes ce matin, la ministre de la Justice a expliqué qu'elle ne souhaitait rien confirmer aussi longtemps que son état n'était pas «consolidé».
+004	00	0.2746	Constatée par les journalistes présents sur le perron de l'Elysée lors du conseil des ministres de rentrée, la grossesse de la garde des Sceaux a déjà fait la Une de plusieurs magazines.
+005	00	0.2746	Comme plusieurs femmes avant elle (Ségolène Royal, Florence Parly, et Frédérique Bredin), Rachida Dati n'envisage pas «si tout se passe bien» de suspendre ses activités de ministre.
+006	00	0.2746	Mais la maire du VIIe arrondissement de la capitale a toutefois laissé entendre que sa décision de ne pas participer à la campagne régionale en Ile - de - France n'est pas sans rapports avec son état.
+007	00	0.2746	La ministre de la Justice refuse de répondre En visite à la maison d'arrêt de Fleury - Mérogis (Essonne), la garde des Sceaux a éludé les questions sur son éventuelle grossesse.
+008	00	0.2746	La ministre de la Justice Rachida Dati a refusé ce mardi, lors d'une visite à la maison d'arrêt de Fleury - Mérogis (Essonne), de répondre aux questions sur son éventuelle grossesse, objet depuis quelques jours de rumeurs relayées par de nombreux médias.
+009	00	0.2746	Interrogée par des journalistes sur le fait de savoir si elle attendait un "heureux événement", la ministre a répondu: "Ce n'est ni le lieu ni l'endroit, ma vie personnelle est ma vie personnelle".
+010	00	0.2746	"La bonne nouvelle c'est que nous favorisons la réinsertion des personnes détenues pour lutter contre la récidive", a rétorqué la ministre, éludant une nouvelle fois la question.

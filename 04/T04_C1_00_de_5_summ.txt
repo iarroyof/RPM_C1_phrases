@@ -1,8 +1,8 @@
-000	00	0.4678	Dans cette compétition, il ne faut pas oublier la conférence à huis clos où une douzaine d’élus ont rencontré le dalaï - lama dans une salle feutrée du Sénat.
-001	00	0.3248	Visite du dalaï - lama en France : la grande gêne des autorités françaises Le dalaï - lama est arrivé hier en France pour douze jours d'une visite strictement religieuse.
-002	00	0.3209	Ségolène Royal a été reçue par le dalaï - lama L'ex - candidate à la présidentielle a annoncé qu'elle allait faire une demande de visa pour se rendre au Tibet.
-003	00	0.3178	Une rencontre est également prévue lundi après - midi à la mairie de Nantes avec son député - maire, Jean - Marc Ayrault, président du groupe socialiste à l'Assemblée Nationale.
-004	00	0.3178	Interrogé par l'AFP sur la réaction de Pékin à ces deux rencontres officielles, un conseiller de l'ambassade de Chine à Paris, Hu Changchun, a répondu: "notre position est très claire".
-005	00	0.3068	Sa femme Carla Bruni - Sarkozy sera envoyée en émissaire pour rencontrer le dalaï - lama à la fin de sa visite en France le 23 août.
-006	00	0.3068	Avec malice, le dalaï lama a toutefois accordé un satisfecit à M. Sarkozy, "jeune, énergique et vraiment bien" et soucieux selon lui de la cause du Tibet.
-007	00	0.3066	M. Kouchner "a toujours eu une grande sympathie pour la cause du Tibet, donc son soutien personnel et en tant que ce ministre est tout à fait acquis.
+000	00	0.3196	Le ministre français des Affaires étrangères a déclaré jeudi après - midi son intention de rencontrer le dalaï - lama à Nantes le 20 août, selon Matthieu Ricard, moine bouddhiste, proche collaborateur du chef spirituel tibétain.
+001	00	0.2929	Je considère que ceux qui soutiennent notre cause n'apportent pas un soutien pro - tibétain mais pour la justice», a ajouté le prix Nobel de la Paix avant son entretien avec Ségolène Royal qui s'est déroulé à huis clos.
+002	00	0.2769	Parmi les invités triés sur le volet, Jack Lang, Robert Badinter et Jean - Louis Bianco qui a bruyamment déclaré que "ce n’est pas en se comportant comme une carpette qu’on gagne le respect".
+003	00	0.2746	Ségolène Royal a été reçue par le dalaï - lama L'ex - candidate à la présidentielle a annoncé qu'elle allait faire une demande de visa pour se rendre au Tibet.
+004	00	0.2746	S'adressant brièvement à quelques journalistes présents à cette rencontre, le chef spirituel tibétain a affirmé qu'il «appréciait vivement» le soutien de l'ex - candidate PS à la présidentielle, selon un enregistrement de ses déclarations obtenu par l'Agence France - Presse auprès de l'un des rares médias admis à l'occasion de cette entrevue.
+005	00	0.2746	Une rencontre est également prévue lundi après - midi à la mairie de Nantes avec son député - maire, Jean - Marc Ayrault, président du groupe socialiste à l'Assemblée Nationale.
+006	00	0.2746	Sa femme Carla Bruni - Sarkozy sera envoyée en émissaire pour rencontrer le dalaï - lama à la fin de sa visite en France le 23 août.
+007	00	0.2746	Carla Bruni invitée du dalaï - lama dans un temple bouddhique Carla Bruni - Sarkozy, Bernard Kouchner et Rama Yade ont rencontré vendredi le dalaï - lama au pied du Causse du Larzac, où le chef spirituel des Tibétains consacrait un temple bouddhique.

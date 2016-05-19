@@ -1,10 +1,10 @@
-000	00	0.5182	Les enquêteurs souhaitent notamment l'interroger pour savoir dans quelles circonstances le petit Mohamed, 2 ans et demi, a échappé à sa surveillance et s'est retrouvé seul dans la rue.
-001	00	0.4920	En effet, les enquêteurs n'ont pas pu déterminer si la maman du petit Mohamed savait que la nourrice à qui elle a confié son fils était en situation irrégulière.
-002	00	0.4812	Agée de 34 ans et mère de cinq enfants, la jeune femme a affirmé ne pas avoir emmené le petit Mohamed avec elle en raison d'un problème de passeport.
-003	00	0.4648	Elle aurait alors décidé parce qu’il ne figurait pas sur son passeport de laisser Mohamed, le plus jeune, à une amie de la cité le temps de son déplacement.
-004	00	0.3948	"Elle nous dit qu'il est possible qu'elle ne soit pas en règle sur le territoire français et nous a donné simplement son prénom", a - t - il ajouté.
-005	00	0.3826	La mère, une Algérienne âgée de 34 ans, avait expliqué aux enquêteurs avoir confié l'enfant à une amie en lui donnant 500 euros, de la nourriture et des vêtements.
-006	00	0.3380	Le premier de ses enfants était parti en vacances en Algérie fin juin avec le père, la mère les a rejoints avec trois autres de leur cinq enfants, selon Khaldia.
-007	00	0.3354	La mère du petit Mohammed trouvé il y a 15 jours, errant, seul, dans une cité du nord de Marseille, était revenue mardi par avion à Marseille où elle réside.
-008	00	0.3231	La mère du petit Mohamed, l'enfant de 30 mois dont le sort a ému tout une ville et même au - delà, se retrouve aujourd'hui dans une situation particulièrement délicate.
-009	00	0.3213	La personne que la maman de Mohamed présentait comme la mère de la nounou et qui s'avère être "une parente proche" a elle également été placée en garde à vue.
+000	00	0.4415	Quand la maman de Mohamed a rappelé la nounou, dimanche, elle a fini par dire la vérité, expliquant que le petit garçon avait échappé à sa surveillance dans un jardin de la cité et qu'elle avait eu peur de se présenter à la police car elle est en situation irrégulière.
+001	00	0.2875	La femme a reconnu les cheveux bouclés du petit Mohamed, 2 ans et demi, dont la police avait diffusé une photographie dans le cadre d'un appel à témoins lancé la semaine dernière.
+002	00	0.2779	Elle avait dû partir en Algérie le 9 juillet au chevet de sa mère malade, sans emmener avec elle le petit Mohamed en raison d'un problème de passeport.
+003	00	0.2746	C'est en lisant par hasard le quotidien La Provence, dimanche, qu'une habitante de Marseille a reconnu le fils de sa cousine et permis de résoudre le mystère du petit garçon trouvé seul dans une cité il y a deux semaines et que personne ne réclamait.
+004	00	0.2746	Enfant trouvé à Marseille: c'est une cousine de sa mère qui l'a reconnu La femme a vu par hasard la photo du petit garçon dans le journal et a pu aider la police à résoudre le mystère.
+005	00	0.2746	Un homme qui s'apprêtait à se marier avec cette nourrice et une femme qui se se présentait comme sa mère mais serait en réalité sa demi - soeur ont également été remis en liberté mercredi soir.
+006	00	0.2746	La nounou en situation irrégulière Le 5 août, des passants ont trouvé Mohamed, seul, sur une esplanade de la cité Fonscolombes et l'ont confi à la police.
+007	00	0.2746	"J'ai vu sa photo dimanche dans le journal, c'était une coïncidence car d'habitude je ne lis pas les journaux", raconte Khaldia Dussourt, qui vit dans le 13e arrondissement de la ville.
+008	00	0.2746	La mère de l'enfant trouvé seul à Marseille remise en liberté La mère du garçon de deux ans et demi trouvé seul à Marseille le 5 août a été remise en liberté.
+009	00	0.2746	La maman de Mohamed avait donné à celle - ci de l'argent, de la nourriture et des vêtements pour s'occuper de son fils le temps de son séjour en Algérie.

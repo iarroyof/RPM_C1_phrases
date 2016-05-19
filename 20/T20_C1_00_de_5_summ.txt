@@ -1,11 +1,11 @@
-000	00	0.6255	Le dignitaire âgé de 72 ans a également appelé Tibétains et Chinois à vivre "côte à côte", réaffirmant que la question de l'indépendance n'était "pas à l'ordre du jour".
-001	00	0.5976	Le dalaï lama a renoncé à revendiquer l'indépendance du Tibet et adopté une approche dite de la "voie moyenne", consistant à réclamer une simple autonomie culturelle pour son pays.
-002	00	0.5680	«Le peuple du Tibet est révolté par cela et condamne fermement ce mouvement qui est voué à l'échec», selon la voix off du reportage diffusé sur la chaîne internationale.
-003	00	0.4762	Le chef du gouvernement s’exprimait pour la première fois sur les troubles qui agitent le Tibet et les districts tibétains de l’ouest de la Chine depuis plus d’une semaine.
-004	00	0.3364	En signe apparent d'ouverture, le dignitaire tibétain a invité les autorités chinoises à venir le rencontrer pour enquêter sur les accusations selon lesquelles il serait derrière les violences au Tibet.
-005	00	0.3335	On y apprenait que Nicolas Sarkozy avait adressé un message au président chinois Hu Jintao, l’appelant à « la retenue et à la fin des violences par le dialogue ».
-006	00	0.3306	"Des mesures sont prises pour aider les gens à réparer leurs maisons et leurs magasins détruits pendant les troubles ou à en construire d'autres", précise la circulaire selon Chine nouvelle.
-007	00	0.3261	Mercredi, un groupe de journalistes étrangers est parti pour Lhassa dans le cadre d'un voyage de presse de trois jours organisé et encadré par le ministère chinois des Affaires étrangères.
-008	00	0.3245	Tibet : Lhassa quadrillée par l'armée Le gouvernement tibétain en exil confirme le chiffre de 80 morts, lors de la répression par les forces chinoises des récentes manifestations au Tibet.
-009	00	0.3233	De son côté, le Premier ministre du gouvernement tibétain en exil, Samdhong Rinpoche, affirme qu'environ 140 personnes ont été tuées pendant la répression par la Chine de manifestations au Tibet.
-010	00	0.3222	Mardi, un porte - parole du ministère Qin Gang avait indiqué que les journalistes "effectueront des visites dans les lieux touchés par les émeutes et pourront aussi interviewer les blessés".
+000	00	0.3032	La chancelière allemande Angela Merkel, qui avait provoqué la colère de Pékin en recevant à titre privé le dalaï - lama en octobre, a appelé au dialogue direct entre la Chine et le leader bouddhiste en exil.
+001	00	0.2773	«Le peuple du Tibet est révolté par cela et condamne fermement ce mouvement qui est voué à l'échec», selon la voix off du reportage diffusé sur la chaîne internationale.
+002	00	0.2746	Alors que le numéro un du Parti communiste chinois, Hu Jintao, a été reconduit pour cinq ans à la tête de l'Etat, la crise entre le Tibet et la Chine s'aggrave.
+003	00	0.2746	Tibet : Lhassa quadrillée par l'armée Le gouvernement tibétain en exil confirme le chiffre de 80 morts, lors de la répression par les forces chinoises des récentes manifestations au Tibet.
+004	00	0.2746	L'organisation des droits de l'Homme Amnesty International a elle appelé les autorités chinoises à autoriser une enquête indépendante des Nations unies et invité la Chine à la plus grande retenue.
+005	00	0.2746	Selon la très officielle agence Chine Nouvelle, les manifestations antichinoises de vendredi à Lhassa ont fait au moins 10 morts et de nombreux blessés dans cette capitale désormais quadrillée par l'armée (Voir les images de la TV chinoise ci - dessous).
+006	00	0.2746	À Sydney, des manifestants qui avaient escaladé le mur d'enceinte du consulat de Chine ont arraché le drapeau chinois et tenté de le remplacer par un drapeau tibétain.
+007	00	0.2746	Violences au Tibet : le dalaï - lama met sa démission dans la balance Le leader spirituel appele les siens au calme tandis que Pékin l'accuse d'avoir provoqué les incidents afin de saboter les Jeux olympiques.
+008	00	0.2746	C'est ce qu'il a assuré lors d’une entrevue avec des journalistes à Dharamsala dans le nord de l’Inde mardi, ajoutant qu’il n’avait pas de prise sur les violences.
+009	00	0.2746	Pour le reste il s’en est tenu à une position modérée vis - à - vis des autorités chinoises : il a ainsi réaffirmé que la question de l’indépendance du Tibet n’était «pas à l’ordre du jour».
+010	00	0.2746	Le dalaï - lama y a renoncé et a adopté une approche dite de la «voie moyenne» consistant à réclamer une simple autonomie culturelle pour son pays.
